@@ -1,0 +1,474 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "3.26€",
+            "points": [
+                [
+                    855.728975,
+                    880.027393
+                ],
+                [
+                    934.310103,
+                    911.267176
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "WONTANT",
+            "points": [
+                [
+                    822.395569,
+                    723.393311
+                ],
+                [
+                    935.240235,
+                    754.807862
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4.40€",
+            "points": [
+                [
+                    855.728975,
+                    932.490961
+                ],
+                [
+                    934.310103,
+                    963.8683639999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1.34€",
+            "points": [
+                [
+                    857.655658,
+                    828.144582
+                ],
+                [
+                    934.5853440000001,
+                    859.521985
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "17000",
+            "points": [
+                [
+                    231.23369,
+                    462.536284
+                ],
+                [
+                    334.07404199999996,
+                    501.76633200000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "QTE",
+            "points": [
+                [
+                    612.122559,
+                    720.908691
+                ],
+                [
+                    663.671204,
+                    756.895324
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2.20",
+            "points": [
+                [
+                    694.365408,
+                    932.520837
+                ],
+                [
+                    757.743083,
+                    964.3928470000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "A BIENTOT",
+            "points": [
+                [
+                    463.547267,
+                    1510.950983
+                ],
+                [
+                    657.720113,
+                    1550.186129
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DESCRIPTION",
+            "points": [
+                [
+                    49.309,
+                    724.509535
+                ],
+                [
+                    228.028238,
+                    755.359939
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9.00€",
+            "points": [
+                [
+                    806.595849,
+                    1196.632551
+                ],
+                [
+                    913.1375680000001,
+                    1235.884764
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "0005",
+            "points": [
+                [
+                    114.516512,
+                    1300.525712
+                ],
+                [
+                    177.4619,
+                    1332.049561
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "000164",
+            "points": [
+                [
+                    388.848827,
+                    1299.955868
+                ],
+                [
+                    484.15346400000004,
+                    1331.589753
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "002",
+            "points": [
+                [
+                    259.468216,
+                    1300.304074
+                ],
+                [
+                    307.12053399999996,
+                    1331.998406
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "01/03/2017",
+            "points": [
+                [
+                    565.557021,
+                    1299.242513
+                ],
+                [
+                    725.979106,
+                    1332.3996619999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11:47:32",
+            "points": [
+                [
+                    791.569033,
+                    1298.970338
+                ],
+                [
+                    918.419505,
+                    1331.125458
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9.00€",
+            "points": [
+                [
+                    839.693438,
+                    1037.699913
+                ],
+                [
+                    919.2379070000001,
+                    1069.1397539999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "LA ROCHELLE",
+            "points": [
+                [
+                    421.780983,
+                    461.907403
+                ],
+                [
+                    656.298005,
+                    502.617555
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2x",
+            "points": [
+                [
+                    581.925851,
+                    933.639141
+                ],
+                [
+                    613.065171,
+                    964.611941
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TOTAL A PAYER",
+            "points": [
+                [
+                    372.4687,
+                    1038.39091
+                ],
+                [
+                    582.673544,
+                    1069.962055
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ARTICLE(S)",
+            "points": [
+                [
+                    82.399149,
+                    1038.456633
+                ],
+                [
+                    273.12051399999996,
+                    1072.086758
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "*4X100GDESS.PANACHE",
+            "points": [
+                [
+                    33.210862,
+                    828.049959
+                ],
+                [
+                    339.661395,
+                    860.2353159999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "MERCI DE VOTRE VISITE",
+            "points": [
+                [
+                    333.735932,
+                    1457.897011
+                ],
+                [
+                    786.271536,
+                    1498.165448
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tel : 05.46.27.02.12",
+            "points": [
+                [
+                    226.541794,
+                    513.425685
+                ],
+                [
+                    656.382799,
+                    554.9967280000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "*COUSCOUS CRF 440G",
+            "points": [
+                [
+                    32.349331,
+                    880.489679
+                ],
+                [
+                    323.33391,
+                    913.329201
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "*INNOCENT MANG/PASS",
+            "points": [
+                [
+                    32.607762,
+                    933.260735
+                ],
+                [
+                    339.283372,
+                    966.18373
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "33 RUE DE LA SCIERIE",
+            "points": [
+                [
+                    226.669544,
+                    409.768396
+                ],
+                [
+                    656.03953,
+                    449.746945
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CRF-CITY LA ROCHELLE",
+            "points": [
+                [
+                    225.924055,
+                    357.067211
+                ],
+                [
+                    655.810509,
+                    397.8786
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "City",
+            "points": [
+                [
+                    434.867263,
+                    127.124459
+                ],
+                [
+                    802.4048849999999,
+                    348.740419
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CB EMV SANS CONTACT EUR",
+            "points": [
+                [
+                    33.673759,
+                    1197.751779
+                ],
+                [
+                    548.322394,
+                    1236.214321
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_RECEIPT_058385.jpg",
+    "imageData": null,
+    "imageHeight": 1657,
+    "imageWidth": 987
+}

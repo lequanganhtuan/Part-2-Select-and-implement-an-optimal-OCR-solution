@@ -1,0 +1,994 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Egoist Daishi Matsunaga",
+            "points": [
+                [
+                    402.557925,
+                    612.835859
+                ],
+                [
+                    765.715721,
+                    652.575247
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mascarpone 2- The Rainbow Cake Alessandro Guida",
+            "points": [
+                [
+                    2002.13482,
+                    611.659748
+                ],
+                [
+                    2685.607021,
+                    658.2621790000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Race a Ep Lionel Souk0Z",
+            "points": [
+                [
+                    3536.126206,
+                    615.831434
+                ],
+                [
+                    3890.933156,
+                    644.556421
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "L",
+            "points": [
+                [
+                    368.235898,
+                    720.727859
+                ],
+                [
+                    447.434882,
+                    844.471015
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ongtemps marginalisées, les voix queer s'affirment aujourd'hui avec détermination, bousculant les",
+            "points": [
+                [
+                    460.739245,
+                    714.903604
+                ],
+                [
+                    2112.656374,
+                    759.591581
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "normes et revendiquant des représentations authentiques. Dans un monde où les combats pour la",
+            "points": [
+                [
+                    455.435882,
+                    759.913033
+                ],
+                [
+                    2115.870631,
+                    802.02907
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "visibilité et l'égalité restent cruciaux, chaque festival, chaque film, chaque image devient un acte po-",
+            "points": [
+                [
+                    455.435882,
+                    809.744943
+                ],
+                [
+                    2115.870631,
+                    849.771245
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "litique, un pas de plus vers une société plus inclusive. Aussi, avons-nous à cœur de défendre le travail de",
+            "points": [
+                [
+                    363.510921,
+                    851.53942
+                ],
+                [
+                    2130.3342509999998,
+                    897.51342
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "l'association Les Ouvreurs, qui oeuvre, depuis 2009, à la prévention des violences sexistes et LGBTphobes",
+            "points": [
+                [
+                    356.43977,
+                    891.726475
+                ],
+                [
+                    2119.0846730000003,
+                    941.719138
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "et à la défense des cultures queer, en intervenant en milieu scolaire, en proposant des formations, et en",
+            "points": [
+                [
+                    359.975345,
+                    941.558385
+                ],
+                [
+                    2106.228074,
+                    985.9248560000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "organisant chaque année ses Rencontres cinématographiques In&Out, à Nice, Cannes et Toulon.",
+            "points": [
+                [
+                    356.43977,
+                    989.782819
+                ],
+                [
+                    1990.51847,
+                    1037.203488
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "En ce printemps 2025, le volet niçois célèbrera ses 17 ans, avec, comme toujours, une programmation en-",
+            "points": [
+                [
+                    354.518419,
+                    1081.10227
+                ],
+                [
+                    2117.307738,
+                    1127.0640620000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gagée et audacieuse, rassemblant cinéphiles, artistes et activistes. Toujours très réussie, l'affiche du festival,",
+            "points": [
+                [
+                    350.615303,
+                    1127.241526
+                ],
+                [
+                    2117.307739,
+                    1175.86519
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "créée cette année par l'artiste Romy Alizée, met en scène un baiser sensuel, symbole du désir de liberté.",
+            "points": [
+                [
+                    348.663744,
+                    1175.155333
+                ],
+                [
+                    2122.630213,
+                    1214.9060909999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Une liberté dont jouira le public, qui aura le choix parmi 28 projections et une myriade d'événements, en",
+            "points": [
+                [
+                    344.760628,
+                    1214.196235
+                ],
+                [
+                    2129.726767,
+                    1265.659264
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "compagnie de 25 invités, qui viendront échanger autour des thématiques essentielles du monde queer",
+            "points": [
+                [
+                    350.615303,
+                    1265.659265
+                ],
+                [
+                    2126.178372,
+                    1314.460393
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "contemporain. Voici quelques temps forts!",
+            "points": [
+                [
+                    344.760628,
+                    1317.122234
+                ],
+                [
+                    1081.207657,
+                    1363.26152
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PANORAMA DU CINÉMA QUEER",
+            "points": [
+                [
+                    340.821035,
+                    1399.931416
+                ],
+                [
+                    940.481624,
+                    1459.3800899999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Le Cinéma Variétés accueillera la 2e Nuit du Queer-Métrage, pour une immersion dans le meilleur de la",
+            "points": [
+                [
+                    340.821035,
+                    1451.394445
+                ],
+                [
+                    2128.50486,
+                    1496.035193
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "production courte récente. Parmi les films projetés: Carpobrotus de Simon Frenay, You Can't Get What You",
+            "points": [
+                [
+                    347.779689,
+                    1504.449477
+                ],
+                [
+                    2121.8832820000002,
+                    1549.3369149999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Want But You Can Get Me de Samira Elagoz et Z Walsh (récompensé à Ecrans Mixtes 2025), ou encore Coeurs",
+            "points": [
+                [
+                    341.767287,
+                    1551.872615
+                ],
+                [
+                    2124.749995,
+                    1591.336944
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Perdus de Frédéric Lavigne.",
+            "points": [
+                [
+                    343.568115,
+                    1600.507085
+                ],
+                [
+                    816.694525,
+                    1638.825112
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Les cinémas Rialto et Belmondo projetteront quant à eux une sélection de longs-métrages de fiction inter-",
+            "points": [
+                [
+                    348.970597,
+                    1643.737725
+                ],
+                [
+                    2118.201552,
+                    1683.038297
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nationaux, dont certains présentés en avant-première. A l'affiche: la fameuse Trilogie d'Oslo de Dag Johan",
+            "points": [
+                [
+                    352.572252,
+                    1692.372195
+                ],
+                [
+                    2119.838608,
+                    1727.251481
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Haugerud, dont le dernier volet Dreams a remporté l'Ours d'Or à la 75e Berlinale, mais aussi Egoist de Daishi",
+            "points": [
+                [
+                    352.490774,
+                    1732.44584
+                ],
+                [
+                    2125.587938,
+                    1767.6898370000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Matsunaga, Moi, ma mère et les autres de lair Said, ou encore Mascarpone 2 - The Rainbow Cake d'Alessandro",
+            "points": [
+                [
+                    358.247017,
+                    1770.830367
+                ],
+                [
+                    2130.820928,
+                    1804.329559
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Guida. Du côté des documentaires, des projections en présence des réalisateurs viendront enrichir le débat",
+            "points": [
+                [
+                    354.409522,
+                    1811.134121
+                ],
+                [
+                    2130.820929,
+                    1842.714087
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "autour des luttes LGBTQIA+, comme Act Up ou le Chaos de Pierre Chassagnieux et Matthieu Lère.",
+            "points": [
+                [
+                    354.409522,
+                    1851.437875
+                ],
+                [
+                    1973.832606,
+                    1891.56709
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "WEEK-END DE LA VISIBILITÉ LESBIENNE",
+            "points": [
+                [
+                    342.897036,
+                    1939.722289
+                ],
+                [
+                    1070.276804,
+                    1978.804621
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "La Villa Arson, le Cinéma Le Belmondo et le Théâtre La Semeuse seront les lieux phares d'un week-end",
+            "points": [
+                [
+                    332.734969,
+                    1986.492123
+                ],
+                [
+                    2120.720608,
+                    2028.474102
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "consacré à la visibilité lesbienne. Notez la table ronde La place des cinéastes lesbiennes dans le cinéma fran-",
+            "points": [
+                [
+                    328.118105,
+                    2035.471076
+                ],
+                [
+                    2119.321609,
+                    2076.193605
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "çais, en compagnie de Catherine Corsini, Romy Alizée et Coralie Prosper, la sélection de courts-métrages",
+            "points": [
+                [
+                    321.962285,
+                    2076.193605
+                ],
+                [
+                    2119.321609,
+                    2131.6097999999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- la bien nommée Short en queer - de jeunes réalisatrices, ou encore le spectacle de clown Comment",
+            "points": [
+                [
+                    2163.702553,
+                    706.893054
+                ],
+                [
+                    3921.886541,
+                    751.181273
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "l'amour... fera définitivement exploser ce vieux monde rance et pourri ? proposé par la Cie À nos joies!",
+            "points": [
+                [
+                    2158.864321,
+                    755.28744
+                ],
+                [
+                    3769.409007,
+                    797.962512
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "La libraire Les Parleuses accueillera pour sa part une rencontre autour du livre Le Déni lesbien, avec la chan-",
+            "points": [
+                [
+                    2160.477065,
+                    799.282351
+                ],
+                [
+                    3918.954189,
+                    843.1306069999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "teuse et actrice Aloïse Sauvage, l'autrice et activiste Mathilde Viot, et l'autrice Marcia Burnier.",
+            "points": [
+                [
+                    2155.638834,
+                    850.609721
+                ],
+                [
+                    3729.8233499999997,
+                    893.138139
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "RÉFLEXIONS SUR LES IDENTITÉS HOMOSEXUELLES ARABES",
+            "points": [
+                [
+                    2162.089809,
+                    932.733524
+                ],
+                [
+                    3237.20352,
+                    981.861181
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Espace de découverte littéraire, d'échange, cet établissement, qui tient son nom du livre d'entretiens entre",
+            "points": [
+                [
+                    2163.702553,
+                    989.926913
+                ],
+                [
+                    3929.2171230000004,
+                    1028.642422
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Marguerite Duras et Xavière Gauthier paru il y a 50 ans, sera aussi le théâtre d'une discussion autour de la",
+            "points": [
+                [
+                    2162.089809,
+                    1035.388266
+                ],
+                [
+                    3929.2171230000004,
+                    1077.036809
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "construction des identités homosexuelles arabes dans un monde postcolonial. L'écrivain marocain Abdel-",
+            "points": [
+                [
+                    2165.495121,
+                    1083.939559
+                ],
+                [
+                    3938.0139799999997,
+                    1116.307468
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "lah Taïa et l'auteur palestinien Karim Kattan partageront leurs perspectives et expériences à travers leurs",
+            "points": [
+                [
+                    2165.781491,
+                    1126.619366
+                ],
+                [
+                    3936.5479020000002,
+                    1166.721216
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "œuvres respectives.",
+            "points": [
+                [
+                    2165.315297,
+                    1176.171949
+                ],
+                [
+                    2480.679964,
+                    1212.541091
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "HOMMAGES ET MÉMOIRE",
+            "points": [
+                [
+                    2163.702553,
+                    1259.762244
+                ],
+                [
+                    2630.225344,
+                    1302.877279
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Deux figures majeures de l'histoire queer seront mises à l'honneur cette année. Une cérémonie de commé-",
+            "points": [
+                [
+                    2163.023086,
+                    1314.372998
+                ],
+                [
+                    3943.24166,
+                    1357.5177720000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "moration sera organisée au Cimetière de Caucade sur la tombe de Magnus Hirschfeld, mort il y a 90 ans,",
+            "points": [
+                [
+                    2163.023086,
+                    1357.517772
+                ],
+                [
+                    3946.136649,
+                    1403.702944
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "accompagnée de projections de films évoquant son héritage scientifique et militant. Tandis que le cinéaste",
+            "points": [
+                [
+                    2167.712795,
+                    1412.007649
+                ],
+                [
+                    3948.427356,
+                    1449.1837639999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Lionel Soukaz, disparu en février 2024, sera célébré avec la projection de son film documentaire Race d'Ep",
+            "points": [
+                [
+                    2166.578791,
+                    1449.183764
+                ],
+                [
+                    3949.1563079999996,
+                    1494.4030630000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(1979) et une intervention de Marc Lamonzie sur l'histoire des homosexualités masculines.",
+            "points": [
+                [
+                    2167.646982,
+                    1503.261675
+                ],
+                [
+                    3677.0233850000004,
+                    1543.111573
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Se souvenir, encore... avec l'exposition Mémoire manquante: Nice Queer, une histoire à écrire qui s'installera",
+            "points": [
+                [
+                    2165.94934,
+                    1549.839391
+                ],
+                [
+                    3952.4685010000003,
+                    1595.124895
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "dans de multiples lieux culturels de la ville, pour former un parcours en cinq thématiques retraçant la",
+            "points": [
+                [
+                    2162.694409,
+                    1595.718536
+                ],
+                [
+                    3954.939514,
+                    1642.81165
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "mémoire LGBTQIA+ locale. Une occasion d'explorer les archives, les récits et les figures qui ont marqué la",
+            "points": [
+                [
+                    2165.000707,
+                    1641.639202
+                ],
+                [
+                    3954.1982470000003,
+                    1691.794228
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "communauté queer azuréenne.",
+            "points": [
+                [
+                    2161.784566,
+                    1691.794228
+                ],
+                [
+                    2702.827121,
+                    1725.2797209999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Car, une chose est sûre: si l'aptitude à se souvenir du passé et celle à se projeter dans l'avenir sont liées, le",
+            "points": [
+                [
+                    2164.493474,
+                    1728.350385
+                ],
+                [
+                    3948.3507369999998,
+                    1776.604531
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "rapport que nous entretenons avec notre mémoire n'a jamais été aussi férocement bouleversé que dans",
+            "points": [
+                [
+                    3945.299758,
+                    1787.634496
+                ],
+                [
+                    3951.665829,
+                    1832.208114
+                ],
+                [
+                    2162.424792,
+                    1809.161058
+                ],
+                [
+                    2164.493474,
+                    1776.604531
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "le monde actuel. Un bouleversement en partie dû à une utilisation parfois nocive de la technologie, et à",
+            "points": [
+                [
+                    2159.811351,
+                    1849.025977
+                ],
+                [
+                    2162.424792,
+                    1809.161058
+                ],
+                [
+                    3946.772362,
+                    1832.145082
+                ],
+                [
+                    3946.669964,
+                    1867.828955
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "quelques puissants hommes, virilistes et rétrogrades, ayant brutalement décidé de faire machine arrière",
+            "points": [
+                [
+                    3953.9723,
+                    1877.567831
+                ],
+                [
+                    3955.189356,
+                    1913.277045
+                ],
+                [
+                    2167.803417,
+                    1889.312009
+                ],
+                [
+                    2168.911771,
+                    1851.895725
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "et d'à nouveau invisibiliser toute une culture, tout un pan de la population mondiale qui n'aspire qu'à une",
+            "points": [
+                [
+                    2166.417975,
+                    1930.331342
+                ],
+                [
+                    2168.634683,
+                    1895.686635
+                ],
+                [
+                    3961.327527,
+                    1924.167855
+                ],
+                [
+                    3959.704786,
+                    1961.094429
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "17 au 28 avr, lieux divers, Nice. Rens: lesouvreurs.com",
+            "points": [
+                [
+                    2164.339302,
+                    2043.088829
+                ],
+                [
+                    3031.872835,
+                    2093.142997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "seule chose: vivre en paix. Pascal Linte",
+            "points": [
+                [
+                    2821.332793,
+                    1950.505529
+                ],
+                [
+                    2821.332793,
+                    1988.631116
+                ],
+                [
+                    2166.30331,
+                    1977.968243
+                ],
+                [
+                    2168.236502,
+                    1943.162094
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_NEWSPAPER_068460.jpeg",
+    "imageData": null,
+    "imageHeight": 2155,
+    "imageWidth": 4032
+}

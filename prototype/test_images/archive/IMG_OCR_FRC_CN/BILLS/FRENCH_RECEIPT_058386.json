@@ -1,0 +1,650 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "27656446",
+            "points": [
+                [
+                    7.910206,
+                    452.193604
+                ],
+                [
+                    128.465347,
+                    486.190644
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Place",
+            "points": [
+                [
+                    1033.109235,
+                    310.194
+                ],
+                [
+                    1080.510742,
+                    326.72562100000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "22",
+            "points": [
+                [
+                    1035.611903,
+                    344.307251
+                ],
+                [
+                    1078.753081,
+                    372.463313
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ZENITH\nCAEN",
+            "points": [
+                [
+                    654.483826,
+                    47.940674
+                ],
+                [
+                    853.81659,
+                    67.573197
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "20/05/13 17 41 06499631 X1 1 22",
+            "points": [
+                [
+                    366.877228,
+                    475.108246
+                ],
+                [
+                    601.284255,
+                    486.744665
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Rang",
+            "points": [
+                [
+                    936.026055,
+                    311.675095
+                ],
+                [
+                    974.7133170000001,
+                    329.829941
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "27656446 CITY LIVE INVITATION CAT1",
+            "points": [
+                [
+                    365.401936,
+                    453.818114
+                ],
+                [
+                    677.870056,
+                    469.266467
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ELTON",
+            "points": [
+                [
+                    100.365944,
+                    95.881088
+                ],
+                [
+                    148.52255300000002,
+                    113.569839
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "21/06/13 20:00",
+            "points": [
+                [
+                    100.922523,
+                    117.543472
+                ],
+                [
+                    230.048492,
+                    135.981262
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "***0. 00EURO***",
+            "points": [
+                [
+                    103.185806,
+                    259.159722
+                ],
+                [
+                    229.282628,
+                    276.11355
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GRADIN X1 1 22",
+            "points": [
+                [
+                    101.767235,
+                    184.677719
+                ],
+                [
+                    230.908982,
+                    202.976486
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "86499631",
+            "points": [
+                [
+                    101.71801,
+                    282.339203
+                ],
+                [
+                    177.21994,
+                    299.640961
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "399434",
+            "points": [
+                [
+                    102.746216,
+                    335.704773
+                ],
+                [
+                    157.5504,
+                    352.02246099999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CAT1",
+            "points": [
+                [
+                    100.620903,
+                    164.090302
+                ],
+                [
+                    139.091583,
+                    180.080826
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ENITH CAEN",
+            "points": [
+                [
+                    19.955622,
+                    50.433175
+                ],
+                [
+                    132.168412,
+                    68.90976599999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "BLOC",
+            "points": [
+                [
+                    646.849915,
+                    344.481903
+                ],
+                [
+                    739.540223,
+                    374.06662
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "28/05/13 17:41",
+            "points": [
+                [
+                    102.965698,
+                    305.033203
+                ],
+                [
+                    231.30479400000002,
+                    326.033499
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "INVITATION",
+            "points": [
+                [
+                    101.635445,
+                    238.08461
+                ],
+                [
+                    194.680313,
+                    254.415444
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "LIC: 2-1012051/52",
+            "points": [
+                [
+                    103.044968,
+                    139.913132
+                ],
+                [
+                    247.457563,
+                    161.442366
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "005000008649963",
+            "points": [
+                [
+                    849.643405,
+                    466.420625
+                ],
+                [
+                    1089.596018,
+                    483.762213
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PORTE",
+            "points": [
+                [
+                    459.639893,
+                    345.033417
+                ],
+                [
+                    574.38733,
+                    374.430756
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CITY LIVE GS",
+            "points": [
+                [
+                    104.097048,
+                    371.529938
+                ],
+                [
+                    195.13539500000002,
+                    383.006259
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "MAY AUD",
+            "points": [
+                [
+                    102.93174,
+                    355.492279
+                ],
+                [
+                    150.786179,
+                    368.220337
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "14000 CAEN",
+            "points": [
+                [
+                    11.236133,
+                    72.73632
+                ],
+                [
+                    103.227578,
+                    90.917945
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CATEGORIE 1",
+            "points": [
+                [
+                    459.689178,
+                    306.893585
+                ],
+                [
+                    626.66925,
+                    329.47878999999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "399434 MAYAUD",
+            "points": [
+                [
+                    372.218494,
+                    262.010719
+                ],
+                [
+                    389.174681,
+                    381.4405
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "UD",
+            "points": [
+                [
+                    104.03651,
+                    387.700623
+                ],
+                [
+                    119.97833200000001,
+                    397.385168
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "LIC: 2-1",
+            "points": [
+                [
+                    348.820221,
+                    317.570461
+                ],
+                [
+                    369.543243,
+                    381.84751300000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "0050000086499631",
+            "points": [
+                [
+                    71.728772,
+                    159.35214
+                ],
+                [
+                    90.807337,
+                    402.576148
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    601.227765,
+                    346.414483
+                ],
+                [
+                    615.63478,
+                    371.676098
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "051\\",
+            "points": [
+                [
+                    349.146857,
+                    252.971117
+                ],
+                [
+                    370.334456,
+                    290.072183
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    938.66442,
+                    345.322785
+                ],
+                [
+                    951.901715,
+                    371.53801500000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "INVITATION ***0. 00EURO***",
+            "points": [
+                [
+                    363.520004,
+                    396.619408
+                ],
+                [
+                    742.406398,
+                    418.31874100000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "x",
+            "points": [
+                [
+                    762.400524,
+                    345.765902
+                ],
+                [
+                    784.4548570000001,
+                    372.360026
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CITY LIVE INVITATION",
+            "points": [
+                [
+                    102.658386,
+                    215.130152
+                ],
+                [
+                    284.54844099999997,
+                    231.047366
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CHANSON A CAEN presente en accord avec",
+            "points": [
+                [
+                    576.854308,
+                    123.751903
+                ],
+                [
+                    921.3521539999999,
+                    144.174147
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6 RUE JOSEPH PHILIPPON 14000 CAEN",
+            "points": [
+                [
+                    603.112535,
+                    78.90017
+                ],
+                [
+                    903.640217,
+                    95.958624
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "VENDREDI 21 JUIN 2013 A 20H00",
+            "points": [
+                [
+                    578.730473,
+                    265.859973
+                ],
+                [
+                    950.212078,
+                    293.75225800000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GERARD DROUOT PRODUCTIONS",
+            "points": [
+                [
+                    639.509144,
+                    153.062904
+                ],
+                [
+                    865.469139,
+                    170.218647
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ELTON JOHN & BAND",
+            "points": [
+                [
+                    553.951136,
+                    184.831946
+                ],
+                [
+                    949.1786380000001,
+                    212.66565
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_RECEIPT_058386.jpg",
+    "imageData": null,
+    "imageHeight": 510,
+    "imageWidth": 1230
+}

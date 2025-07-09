@@ -1,0 +1,666 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Code",
+            "points": [
+                [
+                    19.290719,
+                    197.361706
+                ],
+                [
+                    48.179005000000004,
+                    207.883124
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1969",
+            "points": [
+                [
+                    316.307369,
+                    196.831553
+                ],
+                [
+                    348.039918,
+                    207.671851
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1970",
+            "points": [
+                [
+                    363.873397,
+                    197.016633
+                ],
+                [
+                    395.380948,
+                    207.760469
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1971",
+            "points": [
+                [
+                    408.316182,
+                    197.563411
+                ],
+                [
+                    438.00844900000004,
+                    207.579607
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1972",
+            "points": [
+                [
+                    453.131734,
+                    197.079484
+                ],
+                [
+                    484.713589,
+                    207.47807600000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1973",
+            "points": [
+                [
+                    499.379175,
+                    197.140319
+                ],
+                [
+                    530.21515,
+                    207.988633
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1974",
+            "points": [
+                [
+                    545.454055,
+                    197.134364
+                ],
+                [
+                    576.961584,
+                    207.772872
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1975",
+            "points": [
+                [
+                    590.92004,
+                    197.007949
+                ],
+                [
+                    621.866078,
+                    207.945946
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1976",
+            "points": [
+                [
+                    636.238798,
+                    197.117
+                ],
+                [
+                    667.769009,
+                    207.96588
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1977",
+            "points": [
+                [
+                    682.537822,
+                    197.263374
+                ],
+                [
+                    713.786274,
+                    207.954498
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1978",
+            "points": [
+                [
+                    728.204541,
+                    197.303563
+                ],
+                [
+                    759.4329459999999,
+                    207.719261
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1979",
+            "points": [
+                [
+                    773.693506,
+                    197.94063
+                ],
+                [
+                    804.8878229999999,
+                    207.910465
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "G3",
+            "points": [
+                [
+                    30.318617,
+                    239.751207
+                ],
+                [
+                    44.436938999999995,
+                    248.884569
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Proportion de textes définitifs (1) ",
+            "points": [
+                [
+                    59.982112,
+                    234.651695
+                ],
+                [
+                    299.200327,
+                    251.148115
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Aucun amendement (2)",
+            "points": [
+                [
+                    78.545873,
+                    360.280879
+                ],
+                [
+                    215.727174,
+                    372.346425
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "0",
+            "points": [
+                [
+                    287.311585,
+                    383.070499
+                ],
+                [
+                    294.37125199999997,
+                    391.78538299999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "25%",
+            "points": [
+                [
+                    270.229204,
+                    447.829655
+                ],
+                [
+                    295.922017,
+                    457.965625
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1 à 10 amendements (2)",
+            "points": [
+                [
+                    79.353309,
+                    478.928757
+                ],
+                [
+                    220.467497,
+                    493.418493
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "0",
+            "points": [
+                [
+                    286.143708,
+                    504.169811
+                ],
+                [
+                    293.414412,
+                    513.665384
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11 à 20 amendements (2)",
+            "points": [
+                [
+                    77.428711,
+                    598.406428
+                ],
+                [
+                    225.91819600000002,
+                    614.124108
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10%",
+            "points": [
+                [
+                    269.097326,
+                    596.391176
+                ],
+                [
+                    293.677575,
+                    605.764452
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "0",
+            "points": [
+                [
+                    285.069594,
+                    623.945831
+                ],
+                [
+                    292.468124,
+                    632.905262
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "21 à 50 amendements (2)",
+            "points": [
+                [
+                    78.223178,
+                    719.810872
+                ],
+                [
+                    227.066707,
+                    732.573167
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10%",
+            "points": [
+                [
+                    270.669792,
+                    718.268059
+                ],
+                [
+                    295.86107599999997,
+                    728.258424
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "0",
+            "points": [
+                [
+                    286.026855,
+                    742.694719
+                ],
+                [
+                    293.822216,
+                    752.2817809999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "51 à 100 amendements (2)",
+            "points": [
+                [
+                    78.006601,
+                    839.617551
+                ],
+                [
+                    234.07210400000002,
+                    851.2684260000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5%",
+            "points": [
+                [
+                    275.376402,
+                    849.403996
+                ],
+                [
+                    294.82642,
+                    858.772553
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "0",
+            "points": [
+                [
+                    287.244712,
+                    863.45435
+                ],
+                [
+                    295.039759,
+                    872.831275
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "La loi Les textes",
+            "points": [
+                [
+                    16.253478,
+                    88.178757
+                ],
+                [
+                    728.357396,
+                    114.717087
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ayant été modifiés par :",
+            "points": [
+                [
+                    58.799412,
+                    251.373007
+                ],
+                [
+                    234.127977,
+                    267.706795
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Plus de 100 amendements (2)",
+            "points": [
+                [
+                    77.040219,
+                    957.478351
+                ],
+                [
+                    248.349879,
+                    971.917381
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5%",
+            "points": [
+                [
+                    273.666339,
+                    970.209721
+                ],
+                [
+                    292.647316,
+                    979.1704679999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "0",
+            "points": [
+                [
+                    287.077976,
+                    983.295704
+                ],
+                [
+                    294.65621799999997,
+                    992.449651
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "34",
+            "points": [
+                [
+                    24.560897,
+                    1154.33141
+                ],
+                [
+                    39.587476,
+                    1164.449493
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(1) Y compris les textes déclarés",
+            "points": [
+                [
+                    61.359487,
+                    1057.204429
+                ],
+                [
+                    246.278988,
+                    1068.364703
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "non conformes à la Constitution par",
+            "points": [
+                [
+                    61.543389,
+                    1068.778048
+                ],
+                [
+                    246.52725099999998,
+                    1080.269
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "le Conseil constitutionnel.",
+            "points": [
+                [
+                    61.727291,
+                    1079.616841
+                ],
+                [
+                    193.150606,
+                    1089.693235
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(2) Seuls les amendements adoptés",
+            "points": [
+                [
+                    61.543389,
+                    1094.129797
+                ],
+                [
+                    245.78246099999998,
+                    1105.887128
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "par l'Assemblée nationale sont pris",
+            "points": [
+                [
+                    61.543389,
+                    1105.15229
+                ],
+                [
+                    245.78246099999998,
+                    1116.483349
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "en compte.",
+            "points": [
+                [
+                    61.359487,
+                    1117.093332
+                ],
+                [
+                    118.919828,
+                    1126.9935269999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "50%",
+            "points": [
+                [
+                    267.806145,
+                    273.086549
+                ],
+                [
+                    293.928782,
+                    282.70786799999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_TABLE_022840.jpg",
+    "imageData": null,
+    "imageHeight": 1193,
+    "imageWidth": 827
+}

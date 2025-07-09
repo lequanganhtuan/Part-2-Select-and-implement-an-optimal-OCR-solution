@@ -1,0 +1,682 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "d) Preuve",
+            "points": [
+                [
+                    370.027175,
+                    306.144222
+                ],
+                [
+                    611.003129,
+                    358.775635
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "e) Sanctions",
+            "points": [
+                [
+                    369.384212,
+                    529.083723
+                ],
+                [
+                    675.7448380000001,
+                    582.2632199999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "La sanction est la nullité relative qui peut être accompagnée de dommages et intérêts.",
+            "points": [
+                [
+                    288.76346,
+                    631.461236
+                ],
+                [
+                    2070.178411,
+                    682.358806
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "",
+            "points": [
+                [
+                    342.408768,
+                    776.336866
+                ],
+                [
+                    639.558308,
+                    836.179482
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "a) Définition- lésion simple.",
+            "points": [
+                [
+                    364.396434,
+                    909.383878
+                ],
+                [
+                    1014.411053,
+                    965.099417
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "la conclusion du contrat.27",
+            "points": [
+                [
+                    293.695011,
+                    1075.655791
+                ],
+                [
+                    831.776921,
+                    1115.566482
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "des prestations. En effet, certaines personnes peuvent pour des raisons qui leur sont propres,",
+            "points": [
+                [
+                    296.139558,
+                    1228.491019
+                ],
+                [
+                    2185.306822,
+                    1271.797931
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Le Code civil reconnaît cependant la lésion simple dans certains cas particuliers ; l'on peut",
+            "points": [
+                [
+                    295.060793,
+                    1537.859478
+                ],
+                [
+                    2193.061501,
+                    1581.301737
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "I la lésion d'un contrat conclu avec un mineur, en vue de protéger celui-ci 28",
+            "points": [
+                [
+                    443.407461,
+                    1638.805107
+                ],
+                [
+                    1977.029159,
+                    1681.4068169999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "la lésion de plus d'un quart en matière de partage 29",
+            "points": [
+                [
+                    455.549229,
+                    1690.501115
+                ],
+                [
+                    1520.1694539999999,
+                    1733.880142
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ja lésion de la vente d'immeuble dont est victime le vendeur, de plus de sept",
+            "points": [
+                [
+                    443.407461,
+                    1739.493793
+                ],
+                [
+                    2187.9756749999997,
+                    1782.0807280000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "La lésion ne trouvera pas application dans les contrats aléatoires, en effet l'aléa a pour effet",
+            "points": [
+                [
+                    286.977591,
+                    1894.111823
+                ],
+                [
+                    2191.784824,
+                    1936.395331
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "La sanction de la lésion est la rescision qui est une nullité relative.",
+            "points": [
+                [
+                    282.92564,
+                    2046.250858
+                ],
+                [
+                    1593.205688,
+                    2091.225434
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "b) Lésion qualifiée",
+            "points": [
+                [
+                    365.08327,
+                    2154.95672
+                ],
+                [
+                    820.876979,
+                    2226.027639
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DP33. Dans cette hypothèse, la lésion trouve son origine dans l'abus par le bénéficiaire du",
+            "points": [
+                [
+                    286.693468,
+                    2268.743369
+                ],
+                [
+                    2192.102731,
+                    2314.8586429999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "déséquilibre, des faiblesses, de l'âge, de l'inexpérience, des passions du contractant lésé.³¹ La",
+            "points": [
+                [
+                    291.547708,
+                    2321.041426
+                ],
+                [
+                    2188.27711,
+                    2363.4010369999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "27 P. VAN OMMESLAGHE, Droit des Obligations, Tome I, Bruylant, 2010,n.264.",
+            "points": [
+                [
+                    292.142073,
+                    2806.929516
+                ],
+                [
+                    1802.918372,
+                    2854.566811
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "28 Article 1305 du Code civil.",
+            "points": [
+                [
+                    288.454452,
+                    2863.549474
+                ],
+                [
+                    859.8478560000001,
+                    2903.07319
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "29 Articles 887 et 1079 du Code civil.",
+            "points": [
+                [
+                    286.876916,
+                    2914.230011
+                ],
+                [
+                    1008.671315,
+                    2956.693507
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "30 Article 1674 du Code civil.",
+            "points": [
+                [
+                    290.143338,
+                    2963.226353
+                ],
+                [
+                    860.1158419999999,
+                    3004.056638
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "31 Voy. P. VAN OMMESLAGHE, op. cit., p.269.",
+            "points": [
+                [
+                    289.39529,
+                    3018.620452
+                ],
+                [
+                    1177.862284,
+                    3059.450737
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "32 Article 1907ter du Code civil.",
+            "points": [
+                [
+                    290.143338,
+                    3069.385093
+                ],
+                [
+                    923.829356,
+                    3106.9558429999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "33 Liège, 28 octobre 2005, J.L.M.B., 2006, 821.",
+            "points": [
+                [
+                    289.079114,
+                    3117.711818
+                ],
+                [
+                    1190.061734,
+                    3159.2117190000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "34 Liège, 17 octobre 1996, J.T., 1997,569.",
+            "points": [
+                [
+                    292.345536,
+                    3169.129825
+                ],
+                [
+                    1113.850863,
+                    3209.96011
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "La preuve doit être rapportée par toutes voies de droit.",
+            "points": [
+                [
+                    296.614402,
+                    415.583359
+                ],
+                [
+                    1408.324932,
+                    459.83331
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DP32. La lésion consiste en un déséquilibre des prestations des parties existant au moment de",
+            "points": [
+                [
+                    296.757733,
+                    1023.199577
+                ],
+                [
+                    2198.865771,
+                    1068.739832
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ce seul déséquilibre des prestations ne permet pas de postuler la nullité ou l'aménagement",
+            "points": [
+                [
+                    295.713278,
+                    1176.284101
+                ],
+                [
+                    2183.990224,
+                    1221.537112
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "personnelles.",
+            "points": [
+                [
+                    294.071588,
+                    1434.61792
+                ],
+                [
+                    555.317138,
+                    1478.924853
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "immeuble en dessous de 1million cinq cent mille euros pour des raisons qui lui sont elles aussi",
+            "points": [
+                [
+                    294.919161,
+                    1382.028793
+                ],
+                [
+                    2190.708798,
+                    1420.902165
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "citer",
+            "points": [
+                [
+                    295.189837,
+                    1588.630139
+                ],
+                [
+                    387.733111,
+                    1624.765812
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "l'immeuble.30",
+            "points": [
+                [
+                    441.031159,
+                    1843.398959
+                ],
+                [
+                    720.499086,
+                    1889.7081360000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "que de cinq cents mille €. Tout comme un vendeur n'accepterait pas de vendre le meme",
+            "points": [
+                [
+                    296.314118,
+                    1333.407922
+                ],
+                [
+                    2189.911337,
+                    1375.400765
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "accepter de payer un immeuble Imillion€ alors que la valeur affichee dans un catalogue n'est",
+            "points": [
+                [
+                    295.799221,
+                    1281.457691
+                ],
+                [
+                    2183.20491,
+                    1325.7699770000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "pour le vendeur dont étaient victimes des acquéreurs jeunes et inexpérimentés. 34",
+            "points": [
+                [
+                    291.863606,
+                    2676.870404
+                ],
+                [
+                    1942.3123260000002,
+                    2722.4608749999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "transporteur 33Ou un contrat de cession de parts sociales à des conditions fort avantageuses",
+            "points": [
+                [
+                    294.742925,
+                    2628.802535
+                ],
+                [
+                    2186.940882,
+                    2669.759059
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "lesion qualifiée est reconnue en mafiere de pret a inferet par le legislateur ;³² La jurisprudence,",
+            "points": [
+                [
+                    292.311764,
+                    2372.150134
+                ],
+                [
+                    2189.494145,
+                    2417.733787
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "commissionnaire de transport qui abusait de la dépendance économique du petit",
+            "points": [
+                [
+                    294.660393,
+                    2576.851454
+                ],
+                [
+                    2189.2465,
+                    2616.611117
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "par exemple, un petit transporteur se voyait imposer des conditions excessives par un",
+            "points": [
+                [
+                    295.412808,
+                    2526.129737
+                ],
+                [
+                    2188.4779599999997,
+                    2570.240443
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "que les prestations peuvent y être par essence déséquilibrées.",
+            "points": [
+                [
+                    290.179682,
+                    1945.101291
+                ],
+                [
+                    1553.027204,
+                    1988.6169539999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "d'application ne sont pas réunies; mais l'on peut citer des hypothèses où elle a été discutée ;",
+            "points": [
+                [
+                    295.232828,
+                    2475.827478
+                ],
+                [
+                    2188.178406,
+                    2516.9233470000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tout en reconnaissant le principe de la lesion qualifiee, estime souvent que ses conditions",
+            "points": [
+                [
+                    289.629701,
+                    2422.355344
+                ],
+                [
+                    2188.952787,
+                    2468.00705
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "douzièmes, c'est-à-dire lorsque le prix convenu est inférieur à 5/12ème de la valeur de",
+            "points": [
+                [
+                    445.852441,
+                    1791.862002
+                ],
+                [
+                    2187.8327950000003,
+                    1833.9921490000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_CONTRACT_WXD_000061.jpg",
+    "imageData": null,
+    "imageHeight": 3508,
+    "imageWidth": 2481
+}

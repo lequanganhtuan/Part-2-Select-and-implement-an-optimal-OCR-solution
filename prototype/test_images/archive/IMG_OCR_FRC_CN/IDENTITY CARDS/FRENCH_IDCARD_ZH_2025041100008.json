@@ -1,0 +1,266 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "RÉPUBLIQUE FRANÇAISE",
+            "points": [
+                [
+                    43.140353,
+                    13.688777
+                ],
+                [
+                    707.696677,
+                    11.805465
+                ],
+                [
+                    708.953559,
+                    40.403925
+                ],
+                [
+                    43.140353,
+                    44.763432
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "CARTE NATIONALE D'IDENTITÉ N°: 150526301776 Nationalité Française",
+            "points": [
+                [
+                    44.082986,
+                    57.004962
+                ],
+                [
+                    701.738512,
+                    51.147973
+                ],
+                [
+                    702.449398,
+                    75.760415
+                ],
+                [
+                    44.082986,
+                    77.721399
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "CB",
+            "points": [
+                [
+                    194.087246,
+                    92.456091
+                ],
+                [
+                    212.394376,
+                    108.805392
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nom : CALLAIS",
+            "points": [
+                [
+                    245.036035,
+                    92.856503
+                ],
+                [
+                    375.373432,
+                    112.920939
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Prénom(s): BERNARD MARIE PATRICK",
+            "points": [
+                [
+                    244.308502,
+                    144.334881
+                ],
+                [
+                    592.695441,
+                    169.0521
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sexe: M Né(e) le: 30.11.1956",
+            "points": [
+                [
+                    242.52474,
+                    194.010172
+                ],
+                [
+                    619.089166,
+                    219.784199
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "à : ANGERS",
+            "points": [
+                [
+                    246.078455,
+                    225.276688
+                ],
+                [
+                    340.174667,
+                    246.448393
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Taille : 1.83m",
+            "points": [
+                [
+                    247.748949,
+                    251.477333
+                ],
+                [
+                    363.46346900000003,
+                    273.174696
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Signature",
+            "points": [
+                [
+                    247.218898,
+                    277.439305
+                ],
+                [
+                    317.474487,
+                    294.926128
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "du titulaire :",
+            "points": [
+                [
+                    247.220966,
+                    297.121488
+                ],
+                [
+                    339.1001,
+                    313.716434
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    359.1214,
+                    283.364183
+                ],
+                [
+                    620.845878,
+                    369.152704
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "IDFRACALLAIS<<<<<<<<<<<<<<<<<<263182",
+            "points": [
+                [
+                    55.284836,
+                    389.661301
+                ],
+                [
+                    687.705941,
+                    381.956841
+                ],
+                [
+                    689.419819,
+                    411.062578
+                ],
+                [
+                    55.602239,
+                    417.593939
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "1505263017767BERNARD<<MARIE5611300M3",
+            "points": [
+                [
+                    56.141775,
+                    433.319907
+                ],
+                [
+                    687.705941,
+                    428.1836
+                ],
+                [
+                    689.102442,
+                    456.274814
+                ],
+                [
+                    57.855653,
+                    463.281695
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "RF",
+            "points": [
+                [
+                    5.712461,
+                    228.414096
+                ],
+                [
+                    24.738958,
+                    269.019471
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_IDCARD_ZH_2025041100008.jpg",
+    "imageData": null,
+    "imageHeight": 505,
+    "imageWidth": 735
+}

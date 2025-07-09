@@ -1,0 +1,586 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "EXPORT INVOICE",
+            "points": [
+                [
+                    81.70018,
+                    81.913461
+                ],
+                [
+                    320.246947,
+                    105.056056
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "SARL Renaissance",
+            "points": [
+                [
+                    68.645418,
+                    141.253466
+                ],
+                [
+                    1048.348646,
+                    217.208631
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Boulevard Joffre, Nancy",
+            "points": [
+                [
+                    55.590602,
+                    262.30704
+                ],
+                [
+                    354.070742,
+                    281.295818
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "P: 769127384",
+            "points": [
+                [
+                    428.059722,
+                    245.125327
+                ],
+                [
+                    593.878153,
+                    261.734852
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "F: 374213568",
+            "points": [
+                [
+                    428.059722,
+                    277.237092
+                ],
+                [
+                    593.047676,
+                    294.953902
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "oandr@hub.com",
+            "points": [
+                [
+                    1089.776316,
+                    245.535812
+                ],
+                [
+                    1255.733159,
+                    262.588249
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ngray@tree.com",
+            "points": [
+                [
+                    1090.994358,
+                    277.204631
+                ],
+                [
+                    1259.3872549999999,
+                    297.302156
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "INVOICE DATE: 2021-08-12",
+            "points": [
+                [
+                    138.383975,
+                    414.450781
+                ],
+                [
+                    551.723093,
+                    434.883245
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DATE DUE: 2021-06-12",
+            "points": [
+                [
+                    193.987113,
+                    447.276729
+                ],
+                [
+                    550.718218,
+                    465.029533
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "BILL TO: Nina Marin",
+            "points": [
+                [
+                    250.059213,
+                    585.078762
+                ],
+                [
+                    538.559213,
+                    602.396119
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ADDRESS: Rue Beauvoisine, Rouen",
+            "points": [
+                [
+                    231.636491,
+                    619.713509
+                ],
+                [
+                    676.729711,
+                    638.8731270000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PHONE: 547832695 INVOICE FOR: 79373246",
+            "points": [
+                [
+                    955.890003,
+                    582.344959
+                ],
+                [
+                    1828.0958540000001,
+                    602.609951
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "FAX: 176839421",
+            "points": [
+                [
+                    991.556389,
+                    618.01138
+                ],
+                [
+                    1232.3046649999999,
+                    636.65516
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "E-MAIL: rsin@pyrite.com",
+            "points": [
+                [
+                    956.700591,
+                    650.435375
+                ],
+                [
+                    1287.020183,
+                    671.9162680000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CONTACT: 769127384",
+            "points": [
+                [
+                    921.844755,
+                    682.04882
+                ],
+                [
+                    1236.357642,
+                    701.5032249999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DATE DESCRIPTION UNIT PRICE QTY FLAT FEE DISCOUNT TOTAL",
+            "points": [
+                [
+                    169.469041,
+                    801.710529
+                ],
+                [
+                    2178.127261,
+                    825.1680409999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2021-02-24 Eau Fraiche 7 6 6 8% 99",
+            "points": [
+                [
+                    137.149831,
+                    878.431481
+                ],
+                [
+                    2162.228279,
+                    905.1903629999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2023-02-11 Jus de Fruits Tropicaux 6 5 1 8% 65",
+            "points": [
+                [
+                    137.149831,
+                    951.062831
+                ],
+                [
+                    2156.49422,
+                    985.467182
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2022-02-25 Masque Capillaire 4 6 7 7% 34",
+            "points": [
+                [
+                    133.327096,
+                    1035.162386
+                ],
+                [
+                    2165.0953090000003,
+                    1062.876973
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2024-06-19 Crème Cacao 2 1 7 1% 15",
+            "points": [
+                [
+                    135.238419,
+                    1111.616471
+                ],
+                [
+                    2150.76016,
+                    1134.552705
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2024-05-25 Collier Argent 1 1 4 8% 38",
+            "points": [
+                [
+                    137.410438,
+                    1188.939434
+                ],
+                [
+                    2151.281439,
+                    1219.347214
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2024-09-28 Chapeau Feutre 1 2 9 6% 18",
+            "points": [
+                [
+                    133.935224,
+                    1270.606276
+                ],
+                [
+                    2151.281438,
+                    1292.326142
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2020-10-06 Compote Abricot 7 7 7 8% 95",
+            "points": [
+                [
+                    139.148005,
+                    1348.797984
+                ],
+                [
+                    2156.494219,
+                    1373.12424
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2024-11-25 Rouge à Lèvres 2 3 16 10 1% 16 17",
+            "points": [
+                [
+                    137.410438,
+                    1426.989691
+                ],
+                [
+                    2156.49422,
+                    1451.315947
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2021-09-29 Thé Vert Doux 9 6 8 7% 60",
+            "points": [
+                [
+                    133.935145,
+                    1498.231131
+                ],
+                [
+                    2160.838098,
+                    1532.982948
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2023-01-28 Short de Bain 2 9 10 2% 78",
+            "points": [
+                [
+                    133.935145,
+                    1578.160405
+                ],
+                [
+                    2158.2317080000003,
+                    1608.568265
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2022-09-15 Bain Moussant 5 6 60 5% 2",
+            "points": [
+                [
+                    135.672712,
+                    1658.08968
+                ],
+                [
+                    2150.412536,
+                    1684.153583
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2024-11-17 Crème Hydratante 5 9 7 7% 9",
+            "points": [
+                [
+                    140.885493,
+                    1734.543821
+                ],
+                [
+                    2147.806146,
+                    1762.345291
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2021-08-15 Figurine Eiffel 10 7 9 5% 63",
+            "points": [
+                [
+                    137.410319,
+                    1812.735608
+                ],
+                [
+                    2158.231708,
+                    1840.536998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2023-09-13 Jus de Mangue 10 6 7 9% 11",
+            "points": [
+                [
+                    137.410319,
+                    1887.452022
+                ],
+                [
+                    2150.412536,
+                    1918.728705
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2024-01-15 Thé Detox 6 7 10 4% 97",
+            "points": [
+                [
+                    135.672712,
+                    1967.381377
+                ],
+                [
+                    2160.8380979999997,
+                    2002.133194
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "$0.00",
+            "points": [
+                [
+                    2188.881888,
+                    2051.981169
+                ],
+                [
+                    2253.616424,
+                    2071.107281
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Total due in 7 days. Overdue accounts subject to a service charge of 7% per month.",
+            "points": [
+                [
+                    80.558866,
+                    2285.58855
+                ],
+                [
+                    1117.1098020000002,
+                    2310.392585
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Invoice Subtotal 3",
+            "points": [
+                [
+                    1745.045575,
+                    2128.930925
+                ],
+                [
+                    2144.5224000000003,
+                    2151.12404
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Deposit Amount 74",
+            "points": [
+                [
+                    1754.183974,
+                    2208.565168
+                ],
+                [
+                    2156.271718,
+                    2231.411043
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TOTAL 3",
+            "points": [
+                [
+                    1866.455198,
+                    2285.588491
+                ],
+                [
+                    2148.438839,
+                    2309.739826
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_TRADE_075833.jpg",
+    "imageData": null,
+    "imageHeight": 2350,
+    "imageWidth": 2302
+}

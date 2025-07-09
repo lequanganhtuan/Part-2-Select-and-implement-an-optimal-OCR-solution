@@ -1,0 +1,602 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Une cafetière avait souscrit, en état d'ébriété, un contrat portant sur l'achat à tempérament",
+            "points": [
+                [
+                    321.692409,
+                    357.458194
+                ],
+                [
+                    2159.515605,
+                    399.440775
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "d'un « juke box » ; le contrat a été déclaré nul vu l'absence totale de volonté.20",
+            "points": [
+                [
+                    320.476706,
+                    408.715161
+                ],
+                [
+                    1932.931157,
+                    450.792857
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Dans cette hypothèse, les consentements ne se sont pas rencontrés.",
+            "points": [
+                [
+                    297.694471,
+                    512.364805
+                ],
+                [
+                    1671.420619,
+                    554.783326
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "S'agissant de l'erreur obstacle, l'on distingue :",
+            "points": [
+                [
+                    295.458374,
+                    565.746469
+                ],
+                [
+                    1215.595488,
+                    606.7957190000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "i) L'erreur in negotio ; l'erreur porte alors sur la nature du contrat. L'on peut prendre l'exemple",
+            "points": [
+                [
+                    296.510707,
+                    667.37449
+                ],
+                [
+                    2182.656667,
+                    708.545953
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "suivant : une personne croit vendre un immeuble alors que son cocontractant croyait le",
+            "points": [
+                [
+                    295.525558,
+                    718.681509
+                ],
+                [
+                    2181.815894,
+                    758.633227
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "prendre à bail.",
+            "points": [
+                [
+                    297.266993,
+                    767.572806
+                ],
+                [
+                    590.476111,
+                    809.793011
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ii) L'erreur in corpore ; c'est sur l'objet du contrat que porte alors l'erreur ; une partie se trompe",
+            "points": [
+                [
+                    296.255167,
+                    819.581788
+                ],
+                [
+                    2183.635414,
+                    861.443825
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sur l'identification du terrain qu'elle vend.",
+            "points": [
+                [
+                    295.659504,
+                    872.257317
+                ],
+                [
+                    1127.687617,
+                    912.693898
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "d) L'erreur sur la substance",
+            "points": [
+                [
+                    370.209958,
+                    984.396389
+                ],
+                [
+                    1022.657735,
+                    1035.889777
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DP26. Les qualités substantielles sont celles que le contractant a eu principalement en vue lors",
+            "points": [
+                [
+                    297.515876,
+                    1093.596975
+                ],
+                [
+                    2182.839324,
+                    1135.274972
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "de la conclusion du contrat et qui l'ont déterminé à contracter. 21",
+            "points": [
+                [
+                    296.308099,
+                    1144.462779
+                ],
+                [
+                    1605.6994690000001,
+                    1186.926094
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "J'achète un tableau croyant qu'il s'agit d'un authentique Nicolas Poussin.",
+            "points": [
+                [
+                    296.469127,
+                    1195.205551
+                ],
+                [
+                    1787.795014,
+                    1238.45268
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Les qualités substantielles peuvent porter sur les qualités intrinsèques de l'objet vendu mais aussi",
+            "points": [
+                [
+                    297.359972,
+                    1297.169614
+                ],
+                [
+                    2182.465346,
+                    1340.3755669999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sur l'utilisation à laquelle le bien est destiné.",
+            "points": [
+                [
+                    295.536132,
+                    1348.607443
+                ],
+                [
+                    1164.600959,
+                    1391.516347
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "En outre, une qualité qui n'est pas substantielle peut le devenir si cette qualité est entrée dans",
+            "points": [
+                [
+                    297.520326,
+                    1399.506928
+                ],
+                [
+                    2184.619695,
+                    1441.754133
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "le champ contractuel.",
+            "points": [
+                [
+                    296.416883,
+                    1452.725001
+                ],
+                [
+                    747.571202,
+                    1492.876571
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Par exemple, j'achète un terrain croyant qu'il est constructible; le prix reflétait cette croyance ;",
+            "points": [
+                [
+                    297.168906,
+                    1503.37376
+                ],
+                [
+                    2182.359587,
+                    1544.4619519999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "celle-ci étant par ailleurs partagée par le vendeur, il y a erreur sur cette qualité substantielle, à",
+            "points": [
+                [
+                    296.540967,
+                    1552.615032
+                ],
+                [
+                    2181.458933,
+                    1594.6539799999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "savoir la constructibilité du terrain.",
+            "points": [
+                [
+                    295.673193,
+                    1603.291331
+                ],
+                [
+                    977.7593770000001,
+                    1638.610483
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "L'erreur sur la valeur de la chose, l'erreur sur la solvabilité du cocontractant ne sont pas",
+            "points": [
+                [
+                    297.573645,
+                    1706.631576
+                ],
+                [
+                    2182.376382,
+                    1748.55981
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "retenues comme erreur sur la substance.",
+            "points": [
+                [
+                    296.253852,
+                    1759.396429
+                ],
+                [
+                    1111.680932,
+                    1792.735804
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "e) Eléments communs aux différents types d'erreur",
+            "points": [
+                [
+                    370.486373,
+                    1870.863831
+                ],
+                [
+                    1603.899626,
+                    1921.1864679999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "L'erreur ne doit pas être inexcusable.",
+            "points": [
+                [
+                    445.022727,
+                    1981.292754
+                ],
+                [
+                    1186.0251739999999,
+                    2021.740602
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DP27. La Cour de cassation a énoncé :",
+            "points": [
+                [
+                    297.436212,
+                    2082.487873
+                ],
+                [
+                    1079.730224,
+                    2117.736403
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "« La loi ne vient pas au secours de celui qui commet une erreur que pour autant que celle-ci",
+            "points": [
+                [
+                    294.515029,
+                    2135.036419
+                ],
+                [
+                    2184.929846,
+                    2175.5077890000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fût le fait d'un homme raisonnable. »22 Pour apprécier le caractère raisonnable, l'on tiendra",
+            "points": [
+                [
+                    295.758377,
+                    2184.513233
+                ],
+                [
+                    2180.804077,
+                    2226.892127
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "compte des caractéristiques générales de la personne, de son âge, de ses compétences",
+            "points": [
+                [
+                    296.35396,
+                    2235.58963
+                ],
+                [
+                    2182.8211890000002,
+                    2278.804904
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "professionnelles et de l'ensemble des circonstances dans lesquelles l'erreur a été commise.",
+            "points": [
+                [
+                    297.595037,
+                    2286.198735
+                ],
+                [
+                    2127.340177,
+                    2329.458902
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "L'on peut prendre l'exemple suivant: un négociant en meubles qui se trompe dans la",
+            "points": [
+                [
+                    297.273095,
+                    2387.95659
+                ],
+                [
+                    2181.3671839999997,
+                    2432.9557369999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "conversion de monnaies etrangeres, lors d'une foire commerciale, commet une erreur",
+            "points": [
+                [
+                    296.573201,
+                    2439.624685
+                ],
+                [
+                    2184.611377,
+                    2482.6062970000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "inexcusable.",
+            "points": [
+                [
+                    296.887261,
+                    2492.514881
+                ],
+                [
+                    545.450701,
+                    2525.384432
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "f) L'erreur peut porter sur des éléments de fait ou des éléments de droit",
+            "points": [
+                [
+                    371.702286,
+                    2602.699319
+                ],
+                [
+                    2112.575476,
+                    2656.104716
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "L'adage « Nul n'est censé ignorer la loi » n'a pas cours, à tout le moins en matière d'erreur.",
+            "points": [
+                [
+                    297.683744,
+                    2713.575743
+                ],
+                [
+                    2119.322886,
+                    2756.537761
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "20 Cass. 21 octobre 1971, RCJB, 1972, 415 et note F. RIGAUX",
+            "points": [
+                [
+                    295.670297,
+                    3070.844889
+                ],
+                [
+                    1478.5501610000001,
+                    3106.284121
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "21 Cass. 31 octobre 1967, Pas. I, 294.",
+            "points": [
+                [
+                    295.772118,
+                    3121.806161
+                ],
+                [
+                    1006.868507,
+                    3157.055158
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "22 Cass. 6 janvier 1944, Pas., 1944, 1,133.",
+            "points": [
+                [
+                    295.646638,
+                    3172.54706
+                ],
+                [
+                    1067.599471,
+                    3213.531989
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_CONTRACT_WXD_000057.jpg",
+    "imageData": null,
+    "imageHeight": 3508,
+    "imageWidth": 2481
+}

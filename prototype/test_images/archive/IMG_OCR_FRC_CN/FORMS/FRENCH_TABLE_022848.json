@@ -1,0 +1,634 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "La justice administrative Les décisions",
+            "points": [
+                [
+                    20.509032,
+                    88.520858
+                ],
+                [
+                    729.635353,
+                    117.397673
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Code",
+            "points": [
+                [
+                    23.048436,
+                    189.991428
+                ],
+                [
+                    51.997527,
+                    204.15501400000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Activité du Conseil d'Etat",
+            "points": [
+                [
+                    61.139353,
+                    220.432606
+                ],
+                [
+                    263.402245,
+                    239.542877
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "500",
+            "points": [
+                [
+                    284.302601,
+                    1098.122288
+                ],
+                [
+                    308.943242,
+                    1111.6444060000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "50",
+            "points": [
+                [
+                    24.927137,
+                    1152.37282
+                ],
+                [
+                    44.137117,
+                    1168.485928
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Comptes reçus",
+            "points": [
+                [
+                    110.450725,
+                    735.422967
+                ],
+                [
+                    199.084547,
+                    751.018739
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Comptes jugés",
+            "points": [
+                [
+                    109.897123,
+                    768.605465
+                ],
+                [
+                    196.095024,
+                    784.6160199999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Arrêts rendus",
+            "points": [
+                [
+                    109.897123,
+                    801.234934
+                ],
+                [
+                    191.610739,
+                    815.226874
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Activité de la Cour",
+            "points": [
+                [
+                    64.414016,
+                    597.003265
+                ],
+                [
+                    210.792522,
+                    612.001962
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "des comptes",
+            "points": [
+                [
+                    64.414016,
+                    612.895929
+                ],
+                [
+                    165.53663,
+                    629.2426790000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "G 7",
+            "points": [
+                [
+                    31.175218,
+                    599.557441
+                ],
+                [
+                    50.862802,
+                    610.85258
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Affaires nouvelles",
+            "points": [
+                [
+                    109.818184,
+                    363.189219
+                ],
+                [
+                    215.757935,
+                    376.34004999999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "G6",
+            "points": [
+                [
+                    29.957809,
+                    226.486952
+                ],
+                [
+                    51.794610000000006,
+                    238.349716
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Affaires terminées",
+            "points": [
+                [
+                    110.724949,
+                    394.362741
+                ],
+                [
+                    217.947857,
+                    408.87435600000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Affaires restant à juger",
+            "points": [
+                [
+                    110.724949,
+                    427.271029
+                ],
+                [
+                    244.50766900000002,
+                    442.193972
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10 000",
+            "points": [
+                [
+                    268.116433,
+                    243.5332
+                ],
+                [
+                    305.039335,
+                    255.85093
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9 000",
+            "points": [
+                [
+                    272.691768,
+                    284.668523
+                ],
+                [
+                    305.03933500000005,
+                    295.957876
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8 000",
+            "points": [
+                [
+                    272.234208,
+                    323.975626
+                ],
+                [
+                    303.80399400000005,
+                    336.064822
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7 000",
+            "points": [
+                [
+                    274.064373,
+                    363.739767
+                ],
+                [
+                    305.039335,
+                    376.788798
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6 000",
+            "points": [
+                [
+                    272.234208,
+                    403.046861
+                ],
+                [
+                    305.03933400000005,
+                    415.661685
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5 000",
+            "points": [
+                [
+                    272.920307,
+                    443.051388
+                ],
+                [
+                    305.71709799999996,
+                    454.560956
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4 000",
+            "points": [
+                [
+                    272.548368,
+                    484.061775
+                ],
+                [
+                    304.415344,
+                    494.904085
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3 000",
+            "points": [
+                [
+                    274.53108,
+                    523.591896
+                ],
+                [
+                    305.039267,
+                    534.332264
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2 000",
+            "points": [
+                [
+                    273.849612,
+                    564.071598
+                ],
+                [
+                    304.28723299999996,
+                    575.455155
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2 500",
+            "points": [
+                [
+                    273.736395,
+                    622.669725
+                ],
+                [
+                    305.69676300000003,
+                    634.1493389999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2 000",
+            "points": [
+                [
+                    275.156869,
+                    743.000004
+                ],
+                [
+                    305.696764,
+                    754.451233
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1 500",
+            "points": [
+                [
+                    276.93652,
+                    861.538726
+                ],
+                [
+                    306.99862399999995,
+                    872.839033
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1 000",
+            "points": [
+                [
+                    276.919148,
+                    980.772905
+                ],
+                [
+                    306.15011200000004,
+                    991.0501730000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1969",
+            "points": [
+                [
+                    314.948379,
+                    192.755006
+                ],
+                [
+                    349.203214,
+                    205.752518
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1970",
+            "points": [
+                [
+                    361.354845,
+                    192.755006
+                ],
+                [
+                    394.68155,
+                    204.825351
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1971",
+            "points": [
+                [
+                    406.386296,
+                    192.411612
+                ],
+                [
+                    438.767693,
+                    206.21610199999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1972",
+            "points": [
+                [
+                    452.105275,
+                    193.441801
+                ],
+                [
+                    486.102288,
+                    205.28893399999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1973",
+            "points": [
+                [
+                    498.167998,
+                    193.098407
+                ],
+                [
+                    530.652496,
+                    206.216102
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1974",
+            "points": [
+                [
+                    543.886949,
+                    193.098407
+                ],
+                [
+                    576.594897,
+                    205.752518
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1975",
+            "points": [
+                [
+                    589.605928,
+                    193.441801
+                ],
+                [
+                    623.001362,
+                    205.752518
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1976",
+            "points": [
+                [
+                    634.637364,
+                    193.785195
+                ],
+                [
+                    668.4796980000001,
+                    205.75251799999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1977",
+            "points": [
+                [
+                    681.536516,
+                    193.72039
+                ],
+                [
+                    713.24448,
+                    205.41237900000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1978",
+            "points": [
+                [
+                    727.434335,
+                    194.076637
+                ],
+                [
+                    759.9887190000001,
+                    205.441447
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1979",
+            "points": [
+                [
+                    771.856051,
+                    194.076637
+                ],
+                [
+                    804.617025,
+                    205.441447
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_TABLE_022848.jpg",
+    "imageData": null,
+    "imageHeight": 1193,
+    "imageWidth": 827
+}

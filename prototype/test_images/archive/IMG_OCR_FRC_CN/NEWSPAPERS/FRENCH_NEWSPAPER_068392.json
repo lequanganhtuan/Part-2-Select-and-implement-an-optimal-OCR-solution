@@ -1,0 +1,986 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "ié, Laurent Proux, Mar al Raysse, Auguste",
+            "points": [
+                [
+                    50.163027,
+                    600.013119
+                ],
+                [
+                    612.1908430000001,
+                    634.188081
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Gainon, Patrice Glorda, Cristine Guina-",
+            "points": [
+                [
+                    49.162699,
+                    202.784653
+                ],
+                [
+                    573.624634,
+                    233.555491
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Renoir, Madeleine Roger Lacan, Karine",
+            "points": [
+                [
+                    51.026944,
+                    646.020824
+                ],
+                [
+                    582.4219009999999,
+                    681.633614
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "LE COEUR CACHÉ",
+            "points": [
+                [
+                    56.238811,
+                    2070.817291
+                ],
+                [
+                    345.38699,
+                    2114.575406
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "du Sam 1 Fév au Sam 31 Mai 2025",
+            "points": [
+                [
+                    58.574706,
+                    2407.507324
+                ],
+                [
+                    529.617774,
+                    2445.701324
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "04 94 47 05 72",
+            "points": [
+                [
+                    54.865055,
+                    1705.007568
+                ],
+                [
+                    256.599731,
+                    1740.180908
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Pouyandeh, Abel Pradalié, Philippe Prada-",
+            "points": [
+                [
+                    53.579571,
+                    550.135986
+                ],
+                [
+                    624.939453,
+                    590.913696
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "REGARDS SUR LE LAVANDOU",
+            "points": [
+                [
+                    58.64458,
+                    2361.016602
+                ],
+                [
+                    553.011352,
+                    2398.0053270000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Rougier, Christine Safa, Guillaume Touma-",
+            "points": [
+                [
+                    51.752919,
+                    689.978793
+                ],
+                [
+                    626.618869,
+                    729.083374
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "FB mbadraguignan",
+            "points": [
+                [
+                    55.312419,
+                    1246.696896
+                ],
+                [
+                    322.39615399999997,
+                    1281.08574
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Raoul Dufy, Léonard Foujita, Jacqueline",
+            "points": [
+                [
+                    49.579171,
+                    164.657941
+                ],
+                [
+                    584.99054,
+                    195.035296
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Simon Pasieka, Pablo Picasso, Nazanin",
+            "points": [
+                [
+                    49.643319,
+                    509.099842
+                ],
+                [
+                    581.153359,
+                    542.3522
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "culture-dracenie.com",
+            "points": [
+                [
+                    57.834232,
+                    1752.024414
+                ],
+                [
+                    346.38107299999996,
+                    1785.474121
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "musée des ATP)",
+            "points": [
+                [
+                    55.276749,
+                    1657.948364
+                ],
+                [
+                    275.143708,
+                    1694.214721
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "04 94 00 40 50",
+            "points": [
+                [
+                    56.870674,
+                    2502.429199
+                ],
+                [
+                    271.63818299999997,
+                    2539.234375
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "net, Frédérique Nalbandian, Axel Pahlavi,",
+            "points": [
+                [
+                    49.63152,
+                    462.023529
+                ],
+                [
+                    612.7658690000001,
+                    499.071729
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Villa Théo Le Lavandou",
+            "points": [
+                [
+                    59.360023,
+                    2455.6604
+                ],
+                [
+                    394.55300900000003,
+                    2493.2900390000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Matisse, Marie-Claire Mitout, Claude Mo-",
+            "points": [
+                [
+                    49.97377,
+                    417.996399
+                ],
+                [
+                    612.277161,
+                    454.535797
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Charles Manguin, Raymond Mason, Henri",
+            "points": [
+                [
+                    50.534439,
+                    373.743774
+                ],
+                [
+                    622.379822,
+                    409.890716
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Draguignan",
+            "points": [
+                [
+                    53.411498,
+                    1062.672957
+                ],
+                [
+                    217.273159,
+                    1097.9323
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Aline Fabre (à l'occasion des 40 ans du",
+            "points": [
+                [
+                    56.84679,
+                    1611.913208
+                ],
+                [
+                    583.288513,
+                    1648.106079
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Max Leenhardt, Thomas Lévy-Lasne, Henri",
+            "points": [
+                [
+                    50.435293,
+                    330.409191
+                ],
+                [
+                    635.37289,
+                    365.346554
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cuisines de Provence» de Yves Fattori et",
+            "points": [
+                [
+                    55.426926,
+                    1566.325684
+                ],
+                [
+                    598.607056,
+                    1602.4570319999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "mand, Yayoi Gunji, Philippe Hortala, Jean",
+            "points": [
+                [
+                    49.985728,
+                    243.68555
+                ],
+                [
+                    605.541879,
+                    275.27031900000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "«La Grâce & le Feu»",
+            "points": [
+                [
+                    61.603695,
+                    2746.253418
+                ],
+                [
+                    337.298035,
+                    2785.673096
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Felix Vallotton, Thomas Verny",
+            "points": [
+                [
+                    51.513817,
+                    783.778748
+                ],
+                [
+                    454.919312,
+                    818.54773
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "LEURS MAJESTES: HOMARD ET",
+            "points": [
+                [
+                    60.218838,
+                    1796.401123
+                ],
+                [
+                    575.37146,
+                    1836.312134
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "04 98 10 26 85",
+            "points": [
+                [
+                    52.391275,
+                    1291.292482
+                ],
+                [
+                    251.18912600000002,
+                    1322.167659
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nian, Abel Tournissoux, Gérard Traquandi,",
+            "points": [
+                [
+                    50.095024,
+                    736.653795
+                ],
+                [
+                    618.276184,
+                    772.3215809999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "autour de l'ouvrage «L'autrefois des",
+            "points": [
+                [
+                    53.706432,
+                    1521.174805
+                ],
+                [
+                    535.43518,
+                    1556.9494630000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Auguste Dominique Ingres, Denis Laget,",
+            "points": [
+                [
+                    49.825578,
+                    284.861115
+                ],
+                [
+                    593.328002,
+                    321.279345
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "LANGOUSTE",
+            "points": [
+                [
+                    56.546684,
+                    1841.445923
+                ],
+                [
+                    274.72781299999997,
+                    1883.377808
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "villa-theo.fr",
+            "points": [
+                [
+                    57.313984,
+                    2550.582031
+                ],
+                [
+                    214.78315700000002,
+                    2588.708984
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GERARD UFERAS",
+            "points": [
+                [
+                    61.692707,
+                    2598.564209
+                ],
+                [
+                    351.384186,
+                    2641.122314
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "04 97 06 45 21",
+            "points": [
+                [
+                    50.782141,
+                    832.285907
+                ],
+                [
+                    246.032486,
+                    862.4480679999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "04 93 34 24 88",
+            "points": [
+                [
+                    57.790886,
+                    1984.236206
+                ],
+                [
+                    257.485626,
+                    2018.6145020000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "04 93 76 33 40",
+            "points": [
+                [
+                    58.300426,
+                    2265.467773
+                ],
+                [
+                    261.570892,
+                    2301.2905269999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "du Sam 1 Fév 2025 au Sam 31 Jan 2026",
+            "points": [
+                [
+                    56.636665,
+                    1892.093262
+                ],
+                [
+                    593.8302,
+                    1927.690552
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "lacitadellevsm.fr",
+            "points": [
+                [
+                    58.774246,
+                    2313.830566
+                ],
+                [
+                    284.065829,
+                    2346.3476370000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cannes.com",
+            "points": [
+                [
+                    52.399053,
+                    884.715997
+                ],
+                [
+                    217.531031,
+                    908.38046
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "[ATP] Draguignan",
+            "points": [
+                [
+                    54.215996,
+                    1476.174121
+                ],
+                [
+                    297.207092,
+                    1510.692261
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Musée des Arts et Traditions Populaires",
+            "points": [
+                [
+                    53.718273,
+                    1427.694458
+                ],
+                [
+                    590.650451,
+                    1463.464888
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(REVOIR CAMILLE CLAUDEL",
+            "points": [
+                [
+                    51.953374,
+                    920.047729
+                ],
+                [
+                    522.142822,
+                    958.867437
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "du Sam 1 Fév au Dim 27 Avr 2025",
+            "points": [
+                [
+                    54.372163,
+                    1381.95281
+                ],
+                [
+                    506.129127,
+                    1415.801503
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cossy, Julien Descossy, François Desnoyer,",
+            "points": [
+                [
+                    46.972027,
+                    126.617348
+                ],
+                [
+                    614.188904,
+                    157.63321000000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Musée de la Carte Postale Antibes",
+            "points": [
+                [
+                    57.024895,
+                    1936.860474
+                ],
+                [
+                    532.395142,
+                    1972.5006110000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "L'ART DE LA CUISINE EN PROVENCE",
+            "points": [
+                [
+                    50.835628,
+                    1336.277701
+                ],
+                [
+                    646.1492920000001,
+                    1374.283935
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "museedelacartepostale.fr",
+            "points": [
+                [
+                    54.920702,
+                    2032.748347
+                ],
+                [
+                    407.14527400000003,
+                    2066.668945
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Jean-Marc Caïmi et Valentina Piccinni",
+            "points": [
+                [
+                    56.878235,
+                    2217.085449
+                ],
+                [
+                    588.546204,
+                    2255.331054
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "du Sam 1 Fév au Mar 1 Avr 2025",
+            "points": [
+                [
+                    51.217335,
+                    968.054138
+                ],
+                [
+                    484.93631999999997,
+                    998.008329
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Villa Tamaris Centre d'Art La Seyne sur Mer",
+            "points": [
+                [
+                    58.962734,
+                    2696.309814
+                ],
+                [
+                    667.094177,
+                    2742.360107
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Musée des Beaux-Arts de Draguignan",
+            "points": [
+                [
+                    52.006822,
+                    1013.50346
+                ],
+                [
+                    571.4996819999999,
+                    1048.00354
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "du Sam 1 Fév au Dim 27 Avr 2025",
+            "points": [
+                [
+                    57.015987,
+                    2648.109619
+                ],
+                [
+                    523.977172,
+                    2689.339599
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Citadelle de Villefranche/Mer",
+            "points": [
+                [
+                    57.567936,
+                    2170.394043
+                ],
+                [
+                    461.539002,
+                    2209.0993649999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Auguste Chabaud, Mathieu Cherkit, Daniel",
+            "points": [
+                [
+                    45.393611,
+                    0.298921
+                ],
+                [
+                    628.124472,
+                    43.556043
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Clarke, Vicky Colombet, Robert Combas,",
+            "points": [
+                [
+                    46.044376,
+                    50.597895
+                ],
+                [
+                    598.2719770000001,
+                    83.471986
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Camille Corot, André Derain, Camille Des-",
+            "points": [
+                [
+                    48.223846,
+                    92.161973
+                ],
+                [
+                    609.674771,
+                    121.43641500000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Découvrez trois sculptures de Camille",
+            "points": [
+                [
+                    52.092928,
+                    1105.688377
+                ],
+                [
+                    562.342612,
+                    1140.657442
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Claudel (1864-1943) prêtées par le musée",
+            "points": [
+                [
+                    52.759909,
+                    1150.818709
+                ],
+                [
+                    608.457501,
+                    1185.440388
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "du Sam 1 Fév au Dim 27 Avr 2025",
+            "points": [
+                [
+                    57.171641,
+                    2124.214054
+                ],
+                [
+                    514.767417,
+                    2159.595624
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Camille Claudel de Nogent/Seine!",
+            "points": [
+                [
+                    51.394782,
+                    1196.581518
+                ],
+                [
+                    528.15434,
+                    1236.582457
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_NEWSPAPER_068392.jpeg",
+    "imageData": null,
+    "imageHeight": 2827,
+    "imageWidth": 672
+}

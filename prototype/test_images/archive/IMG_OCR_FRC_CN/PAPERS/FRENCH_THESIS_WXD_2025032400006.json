@@ -1,0 +1,186 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Existe-t-il des alterna",
+            "points": [
+                [
+                    252.905438,
+                    154.861478
+                ],
+                [
+                    573.919082,
+                    175.60128500000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Question à discuter",
+            "points": [
+                [
+                    96.609669,
+                    204.978404
+                ],
+                [
+                    274.910728,
+                    223.36788800000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sociale comme pertinente et/ou faisable, quel autre moyen d'action",
+            "points": [
+                [
+                    97.315961,
+                    264.080742
+                ],
+                [
+                    730.213532,
+                    283.829156
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "pourrait être utilisé en 2011, si possible avant le budget, pour faire",
+            "points": [
+                [
+                    96.880009,
+                    285.652087
+                ],
+                [
+                    730.385941,
+                    306.179721
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "monter la pression sur le gouvernement Charest suffisamment pour",
+            "points": [
+                [
+                    96.824265,
+                    307.715538
+                ],
+                [
+                    731.194068,
+                    328.02622299999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "qu'il recule au moins sur une partie des mesures annoncées lors du",
+            "points": [
+                [
+                    96.880009,
+                    329.775217
+                ],
+                [
+                    729.811243,
+                    350.184641
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "budget? Quelles formes pourraient prendre ces actions dans notre",
+            "points": [
+                [
+                    96.545805,
+                    351.336241
+                ],
+                [
+                    730.6349769999999,
+                    371.6828
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "milieu ? Comment sensibiliser les membres de notre orga",
+            "points": [
+                [
+                    96.531592,
+                    372.992605
+                ],
+                [
+                    730.595509,
+                    393.201065
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ces questions ?",
+            "points": [
+                [
+                    96.738716,
+                    395.099491
+                ],
+                [
+                    240.02866999999998,
+                    414.94953
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(suite)",
+            "points": [
+                [
+                    688.888251,
+                    100.100265
+                ],
+                [
+                    729.8137479999999,
+                    115.948011
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Si, pour une raison ou une autre, nous n'avons pas considéré la grève",
+            "points": [
+                [
+                    97.282048,
+                    242.69917
+                ],
+                [
+                    731.055797,
+                    262.870208
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_THESIS_WXD_2025032400006.jpg",
+    "imageData": null,
+    "imageHeight": 1170,
+    "imageWidth": 827
+}

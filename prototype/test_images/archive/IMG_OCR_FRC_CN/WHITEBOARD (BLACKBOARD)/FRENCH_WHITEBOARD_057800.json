@@ -1,0 +1,138 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "-Panna Cotta Fruits Rouges",
+            "points": [
+                [
+                    214.114429,
+                    -1.11327
+                ],
+                [
+                    820.893427,
+                    79.094635
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Los Surprises du Jour:",
+            "points": [
+                [
+                    176.964695,
+                    108.536646
+                ],
+                [
+                    712.639354,
+                    203.510907
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "* Salade de fruits frais",
+            "points": [
+                [
+                    194.655045,
+                    313.681038
+                ],
+                [
+                    773.229637,
+                    365.95856
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "\"orange-parupeouolse",
+            "points": [
+                [
+                    225.15805,
+                    371.761671
+                ],
+                [
+                    788.7046,
+                    420.483213
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "paire-raisin",
+            "points": [
+                [
+                    472.75745,
+                    404.645966
+                ],
+                [
+                    788.7046,
+                    438.175051
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Toakest fait maison !!!",
+            "points": [
+                [
+                    169.706101,
+                    441.399002
+                ],
+                [
+                    775.164007,
+                    530.759997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Amandine",
+            "points": [
+                [
+                    452.409803,
+                    263.344701
+                ],
+                [
+                    770.573605,
+                    307.507739
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "#tarte poire",
+            "points": [
+                [
+                    189.331025,
+                    222.505777
+                ],
+                [
+                    612.441433,
+                    280.366803
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_WHITEBOARD_057800.jpg",
+    "imageData": null,
+    "imageHeight": 672,
+    "imageWidth": 977
+}

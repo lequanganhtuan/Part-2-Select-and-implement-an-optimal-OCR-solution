@@ -1,0 +1,1738 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Le Marché Bleu Export Invoice",
+            "points": [
+                [
+                    178.544876,
+                    113.433087
+                ],
+                [
+                    1556.6698609999999,
+                    183.685847
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DATE: 2022-09-15",
+            "points": [
+                [
+                    1165.945718,
+                    247.110484
+                ],
+                [
+                    1419.082238,
+                    272.886788
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Avenue d'Assas, Montpellier INVOICE # 35735753",
+            "points": [
+                [
+                    295.400016,
+                    278.559738
+                ],
+                [
+                    1394.146011,
+                    308.547104
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "FOR: Thé Blanc Fruité",
+            "points": [
+                [
+                    1183.181536,
+                    312.888154
+                ],
+                [
+                    1462.84815,
+                    338.014452
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "BILL TO:",
+            "points": [
+                [
+                    178.328384,
+                    371.494046
+                ],
+                [
+                    279.493766,
+                    396.12561700000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Charlotte Mercier",
+            "points": [
+                [
+                    179.208083,
+                    402.28351
+                ],
+                [
+                    380.65914899999996,
+                    427.79478
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Rue Bocklin, Strasbourg",
+            "points": [
+                [
+                    317.320823,
+                    463.862438
+                ],
+                [
+                    603.2229910000001,
+                    492.892504
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "653621847",
+            "points": [
+                [
+                    179.208083,
+                    524.561668
+                ],
+                [
+                    305.005037,
+                    552.712035
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DESCRIPTION",
+            "points": [
+                [
+                    177.956007,
+                    590.215767
+                ],
+                [
+                    332.510321,
+                    616.140496
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "QTY",
+            "points": [
+                [
+                    924.143614,
+                    589.761374
+                ],
+                [
+                    974.2864559999999,
+                    615.272644
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Unit Price",
+            "points": [
+                [
+                    1099.203711,
+                    588.881675
+                ],
+                [
+                    1208.286384,
+                    615.272644
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "AMOUNT",
+            "points": [
+                [
+                    1397.421665,
+                    589.761374
+                ],
+                [
+                    1500.346446,
+                    614.392945
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Yoghourt Nature",
+            "points": [
+                [
+                    176.019514,
+                    632.183877
+                ],
+                [
+                    354.844723,
+                    658.7947710000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4",
+            "points": [
+                [
+                    957.607222,
+                    634.407694
+                ],
+                [
+                    974.791425,
+                    657.540274
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    1190.254886,
+                    634.407694
+                ],
+                [
+                    1207.4390879999999,
+                    656.2184129999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11",
+            "points": [
+                [
+                    1479.081674,
+                    635.068625
+                ],
+                [
+                    1498.248669,
+                    656.218413
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Marmelade Orange",
+            "points": [
+                [
+                    178.747714,
+                    681.040646
+                ],
+                [
+                    382.76173,
+                    715.042982
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    957.967916,
+                    683.874174
+                ],
+                [
+                    974.969084,
+                    709.375926
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9",
+            "points": [
+                [
+                    1191.733976,
+                    686.022999
+                ],
+                [
+                    1208.304351,
+                    707.833718
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "92",
+            "points": [
+                [
+                    1469.305949,
+                    686.750023
+                ],
+                [
+                    1498.386907,
+                    708.560742
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Chaussures de Course",
+            "points": [
+                [
+                    176.48308,
+                    737.213326
+                ],
+                [
+                    416.513345,
+                    762.9726720000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    957.676118,
+                    735.841813
+                ],
+                [
+                    975.022791,
+                    760.630913
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    1192.504854,
+                    738.749909
+                ],
+                [
+                    1209.226405,
+                    759.833604
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "77",
+            "points": [
+                [
+                    1473.136099,
+                    737.894008
+                ],
+                [
+                    1498.584751,
+                    759.833603
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Jus de Pêche",
+            "points": [
+                [
+                    177.416368,
+                    790.713976
+                ],
+                [
+                    322.275431,
+                    814.291228
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    955.854336,
+                    789.113786
+                ],
+                [
+                    976.699159,
+                    812.096767
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    1191.201266,
+                    791.667995
+                ],
+                [
+                    1207.424114,
+                    811.4959210000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "92",
+            "points": [
+                [
+                    1469.393075,
+                    791.667995
+                ],
+                [
+                    1497.632848,
+                    812.697613
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Jus de Tomate",
+            "points": [
+                [
+                    177.963537,
+                    843.474754
+                ],
+                [
+                    334.86136899999997,
+                    864.550582
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9",
+            "points": [
+                [
+                    957.703923,
+                    842.679396
+                ],
+                [
+                    976.089631,
+                    865.903449
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10",
+            "points": [
+                [
+                    1183.170771,
+                    842.679396
+                ],
+                [
+                    1208.330162,
+                    863.968111
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "59",
+            "points": [
+                [
+                    1466.697752,
+                    840.744058
+                ],
+                [
+                    1499.598494,
+                    865.903449
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sac à Dos",
+            "points": [
+                [
+                    175.707466,
+                    891.341897
+                ],
+                [
+                    291.882114,
+                    921.093941
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    957.761196,
+                    891.341897
+                ],
+                [
+                    975.0816500000001,
+                    915.748564
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10",
+            "points": [
+                [
+                    1183.570309,
+                    894.635789
+                ],
+                [
+                    1206.442482,
+                    916.6282630000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "65",
+            "points": [
+                [
+                    1468.592778,
+                    892.876391
+                ],
+                [
+                    1497.622844,
+                    917.507962
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Chaussures de Course",
+            "points": [
+                [
+                    172.709341,
+                    941.938101
+                ],
+                [
+                    419.226278,
+                    971.6901439999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    955.676357,
+                    945.005804
+                ],
+                [
+                    977.9230640000001,
+                    970.7651500000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9",
+            "points": [
+                [
+                    1191.023105,
+                    947.347563
+                ],
+                [
+                    1207.919723,
+                    969.965423
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "88",
+            "points": [
+                [
+                    1468.630511,
+                    945.173907
+                ],
+                [
+                    1498.220386,
+                    969.165697
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Lait Vanille",
+            "points": [
+                [
+                    176.675355,
+                    995.041826
+                ],
+                [
+                    300.127019,
+                    1023.943811
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10",
+            "points": [
+                [
+                    950.58052,
+                    996.45587
+                ],
+                [
+                    972.173132,
+                    1021.247387
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3",
+            "points": [
+                [
+                    1189.698697,
+                    998.855049
+                ],
+                [
+                    1210.491583,
+                    1021.247386
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "47",
+            "points": [
+                [
+                    1471.202371,
+                    999.654775
+                ],
+                [
+                    1497.5933400000001,
+                    1021.247386
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Barre de Fruits",
+            "points": [
+                [
+                    175.536898,
+                    1045.53461
+                ],
+                [
+                    341.86148000000003,
+                    1073.551411
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9",
+            "points": [
+                [
+                    958.579728,
+                    1051.31702
+                ],
+                [
+                    974.41431,
+                    1073.3094939999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    1195.218753,
+                    1049.557622
+                ],
+                [
+                    1210.1736360000002,
+                    1072.429795
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "59",
+            "points": [
+                [
+                    1466.090676,
+                    1050.013118
+                ],
+                [
+                    1496.533539,
+                    1072.259825
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Jus de Cerise",
+            "points": [
+                [
+                    177.1842,
+                    1100.180454
+                ],
+                [
+                    323.11089200000004,
+                    1128.515734
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10",
+            "points": [
+                [
+                    947.903818,
+                    1103.013982
+                ],
+                [
+                    976.239098,
+                    1127.09897
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7",
+            "points": [
+                [
+                    1191.440335,
+                    1100.091042
+                ],
+                [
+                    1208.471307,
+                    1123.508629
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "52",
+            "points": [
+                [
+                    1467.129198,
+                    1101.155478
+                ],
+                [
+                    1499.062271,
+                    1126.701936
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Montre Quartz",
+            "points": [
+                [
+                    174.024204,
+                    1151.057804
+                ],
+                [
+                    335.5353,
+                    1177.97632
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    954.66117,
+                    1153.891332
+                ],
+                [
+                    977.329394,
+                    1176.559556
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "9",
+            "points": [
+                [
+                    1192.677522,
+                    1153.891332
+                ],
+                [
+                    1211.095454,
+                    1176.559556
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "93",
+            "points": [
+                [
+                    1468.929328,
+                    1152.56606
+                ],
+                [
+                    1497.233655,
+                    1175.4081480000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Bain Moussant",
+            "points": [
+                [
+                    175.962883,
+                    1202.341008
+                ],
+                [
+                    343.141035,
+                    1230.676288
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7",
+            "points": [
+                [
+                    956.599849,
+                    1203.757772
+                ],
+                [
+                    976.434545,
+                    1229.2595239999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    1190.36591,
+                    1205.174536
+                ],
+                [
+                    1210.2006059999999,
+                    1229.259524
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "53",
+            "points": [
+                [
+                    1466.63489,
+                    1204.858724
+                ],
+                [
+                    1498.088853,
+                    1232.093052
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Huile d'Olive Pure",
+            "points": [
+                [
+                    177.129427,
+                    1253.789793
+                ],
+                [
+                    369.809331,
+                    1284.9586009999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7",
+            "points": [
+                [
+                    957.766393,
+                    1255.206557
+                ],
+                [
+                    974.767561,
+                    1280.7083089999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7",
+            "points": [
+                [
+                    1192.31548,
+                    1258.053625
+                ],
+                [
+                    1208.533621,
+                    1280.708309
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "74",
+            "points": [
+                [
+                    1468.584581,
+                    1258.053625
+                ],
+                [
+                    1498.987401,
+                    1280.525274
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Coussin Rose",
+            "points": [
+                [
+                    174.896397,
+                    1309.068742
+                ],
+                [
+                    322.23985300000004,
+                    1335.9872579999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3",
+            "points": [
+                [
+                    954.116599,
+                    1307.651978
+                ],
+                [
+                    978.2015869999999,
+                    1335.987258
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3",
+            "points": [
+                [
+                    1187.882659,
+                    1304.81845
+                ],
+                [
+                    1210.550883,
+                    1335.9872579999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "42",
+            "points": [
+                [
+                    1468.401932,
+                    1310.485506
+                ],
+                [
+                    1502.404268,
+                    1334.570494
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Eau de Toilette",
+            "points": [
+                [
+                    170.646105,
+                    1358.655482
+                ],
+                [
+                    339.24102100000005,
+                    1386.990762
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4",
+            "points": [
+                [
+                    956.950127,
+                    1358.655482
+                ],
+                [
+                    975.3680589999999,
+                    1386.990762
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3",
+            "points": [
+                [
+                    1190.716187,
+                    1358.655482
+                ],
+                [
+                    1210.5508829999999,
+                    1386.990762
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "36",
+            "points": [
+                [
+                    1466.985168,
+                    1358.655482
+                ],
+                [
+                    1496.737212,
+                    1384.1572339999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Carafe Verre",
+            "points": [
+                [
+                    174.896397,
+                    1412.492514
+                ],
+                [
+                    315.156033,
+                    1440.827794
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4",
+            "points": [
+                [
+                    955.533363,
+                    1415.705659
+                ],
+                [
+                    978.972916,
+                    1436.026705
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    1190.649938,
+                    1414.625354
+                ],
+                [
+                    1208.675325,
+                    1435.054126
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "89",
+            "points": [
+                [
+                    1468.240901,
+                    1413.423661
+                ],
+                [
+                    1496.480674,
+                    1435.654972
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ballon de Plage",
+            "points": [
+                [
+                    176.005717,
+                    1464.000332
+                ],
+                [
+                    346.31543899999997,
+                    1489.54679
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    958.714617,
+                    1465.26926
+                ],
+                [
+                    974.3366189999999,
+                    1489.903956
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    1191.242112,
+                    1464.668414
+                ],
+                [
+                    1209.868344,
+                    1487.500571
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "80",
+            "points": [
+                [
+                    1466.777872,
+                    1468.372708
+                ],
+                [
+                    1498.465577,
+                    1487.5393760000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Eau de Toilette",
+            "points": [
+                [
+                    175.937321,
+                    1516.246056
+                ],
+                [
+                    338.68955,
+                    1543.176281
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "8",
+            "points": [
+                [
+                    955.034096,
+                    1518.69569
+                ],
+                [
+                    977.9896699999999,
+                    1539.663642
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    1192.969207,
+                    1518.69569
+                ],
+                [
+                    1208.170617,
+                    1539.184547
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "7",
+            "points": [
+                [
+                    1483.592423,
+                    1517.698496
+                ],
+                [
+                    1498.887457,
+                    1539.228352
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Lotion Bambou",
+            "points": [
+                [
+                    174.854215,
+                    1565.650417
+                ],
+                [
+                    338.777323,
+                    1597.264159
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "6",
+            "points": [
+                [
+                    957.001615,
+                    1567.992175
+                ],
+                [
+                    974.564805,
+                    1593.7515210000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3",
+            "points": [
+                [
+                    1193.812182,
+                    1569.280055
+                ],
+                [
+                    1209.6467639999998,
+                    1594.791325
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "62",
+            "points": [
+                [
+                    1470.037662,
+                    1569.280055
+                ],
+                [
+                    1496.428631,
+                    1591.2725289999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Jus de Kiwi",
+            "points": [
+                [
+                    177.431805,
+                    1622.381398
+                ],
+                [
+                    301.54501600000003,
+                    1648.140743
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    958.408326,
+                    1617.69788
+                ],
+                [
+                    977.142395,
+                    1645.798984
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4",
+            "points": [
+                [
+                    1189.071557,
+                    1617.69788
+                ],
+                [
+                    1210.147385,
+                    1646.969864
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    1484.744432,
+                    1621.48582
+                ],
+                [
+                    1499.284911,
+                    1644.023562
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Eau Micellaire",
+            "points": [
+                [
+                    174.948926,
+                    1669.600326
+                ],
+                [
+                    330.792966,
+                    1701.799508
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3",
+            "points": [
+                [
+                    958.194631,
+                    1672.381406
+                ],
+                [
+                    974.645002,
+                    1697.5407969999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    1191.40283,
+                    1672.381406
+                ],
+                [
+                    1208.82087,
+                    1697.5407969999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "53",
+            "points": [
+                [
+                    1469.220547,
+                    1673.13962
+                ],
+                [
+                    1497.1861959999999,
+                    1696.5731289999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "$",
+            "points": [
+                [
+                    1480.145024,
+                    1724.484662
+                ],
+                [
+                    1499.8090829999999,
+                    1748.518511
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "SUBTOTAL",
+            "points": [
+                [
+                    1116.114792,
+                    1774.297718
+                ],
+                [
+                    1237.073402,
+                    1805.263122
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2",
+            "points": [
+                [
+                    1479.95829,
+                    1777.200725
+                ],
+                [
+                    1498.343999,
+                    1800.4247779999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TAX RATE",
+            "points": [
+                [
+                    1119.985467,
+                    1825.584169
+                ],
+                [
+                    1241.911746,
+                    1853.646566
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "65%",
+            "points": [
+                [
+                    1442.219204,
+                    1825.584169
+                ],
+                [
+                    1499.311668,
+                    1853.646566
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "SALES TAX",
+            "points": [
+                [
+                    1102.567428,
+                    1873.967612
+                ],
+                [
+                    1241.911746,
+                    1910.7390289999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "58%",
+            "points": [
+                [
+                    1443.186873,
+                    1877.838288
+                ],
+                [
+                    1498.3439990000002,
+                    1908.803692
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "OTHER",
+            "points": [
+                [
+                    1152.886209,
+                    1928.15707
+                ],
+                [
+                    1241.911746,
+                    1958.154805
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "TOTAL",
+            "points": [
+                [
+                    1152.886209,
+                    1975.572845
+                ],
+                [
+                    1237.073401,
+                    2000.7322359999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "95",
+            "points": [
+                [
+                    1465.443257,
+                    1975.572845
+                ],
+                [
+                    1499.3116679999998,
+                    2002.6675739999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Total due in 15 days. Overdue accounts subject to a service charge of 81% per month.",
+            "points": [
+                [
+                    347.569739,
+                    2149.438055
+                ],
+                [
+                    1329.000803,
+                    2180.34927
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "THANK YOU FOR YOUR BUSINESS!",
+            "points": [
+                [
+                    625.77067,
+                    2208.68455
+                ],
+                [
+                    1039.208166,
+                    2244.747634
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_TRADE_075852.jpg",
+    "imageData": null,
+    "imageHeight": 2378,
+    "imageWidth": 1676
+}

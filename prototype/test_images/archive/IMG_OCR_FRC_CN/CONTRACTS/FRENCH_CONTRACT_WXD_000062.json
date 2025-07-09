@@ -1,0 +1,618 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Le fondement juridique de la lésion qualifiée est incertain; l'on a avancé notamment la",
+            "points": [
+                [
+                    296.508407,
+                    304.423142
+                ],
+                [
+                    2182.265348,
+                    345.405351
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "a) Conditions",
+            "points": [
+                [
+                    370.446881,
+                    838.203158
+                ],
+                [
+                    700.8814500000001,
+                    886.707978
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "présomption de contrainte35",
+            "points": [
+                [
+                    296.429169,
+                    357.306987
+                ],
+                [
+                    866.886868,
+                    397.168428
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "La sanction de la lésion qualifiée sera la réduction de l'obligation, l'abus de droit ou le principe",
+            "points": [
+                [
+                    297.473987,
+                    405.996632
+                ],
+                [
+                    2183.354101,
+                    448.60616999999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "de la bonne foi.",
+            "points": [
+                [
+                    296.2537,
+                    459.528701
+                ],
+                [
+                    613.545644,
+                    492.026265
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5. L'objet",
+            "points": [
+                [
+                    371.967411,
+                    615.40775
+                ],
+                [
+                    610.288049,
+                    662.497126
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DP34. L'objet du contrat est en fait l'objet des obligations principales du contrat. 36",
+            "points": [
+                [
+                    293.493086,
+                    724.222657
+                ],
+                [
+                    1957.467222,
+                    765.69045
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "L'objet doit être :",
+            "points": [
+                [
+                    297.916152,
+                    947.270827
+                ],
+                [
+                    638.249592,
+                    987.891012
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "-    dans le commerce",
+            "points": [
+                [
+                    371.068679,
+                    999.605084
+                ],
+                [
+                    826.0960239999999,
+                    1032.413302
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "-       licite (ce point sera examiné plus loin)",
+            "points": [
+                [
+                    370.75223,
+                    1048.191972
+                ],
+                [
+                    1197.538962,
+                    1090.474026
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "-                possible",
+            "points": [
+                [
+                    370.438493,
+                    1102.051446
+                ],
+                [
+                    603.1187,
+                    1142.466995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "-     déterminé ou déterminable.",
+            "points": [
+                [
+                    370.174136,
+                    1151.007047
+                ],
+                [
+                    1012.502902,
+                    1185.808383
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1. Dans le commerce",
+            "points": [
+                [
+                    450.609082,
+                    1265.039219
+                ],
+                [
+                    978.028706,
+                    1307.148836
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ainsi, si une viande est déclarée impropre à la consommation de par la présence d'hormones,",
+            "points": [
+                [
+                    294.344869,
+                    1374.097168
+                ],
+                [
+                    2181.309177,
+                    1409.632933
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2. Possible",
+            "points": [
+                [
+                    442.45829,
+                    1588.43612
+                ],
+                [
+                    702.340777,
+                    1628.7271110000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Il est impossible de vendre le soleil par exemple. Plus proche de nous, si vous vendez un fonds",
+            "points": [
+                [
+                    296.383382,
+                    1699.348021
+                ],
+                [
+                    2180.373726,
+                    1739.112484
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "de commerce alors que le bail commercial portant sur ce commerce est résilié et va être",
+            "points": [
+                [
+                    295.579002,
+                    1746.476759
+                ],
+                [
+                    2181.914021,
+                    1786.6530209999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "attribué à un tiers, la vente porte sur un objet impossible.",
+            "points": [
+                [
+                    296.011568,
+                    1802.039674
+                ],
+                [
+                    1429.5126380000002,
+                    1841.3611210000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3. Déterminé ou déterminable",
+            "points": [
+                [
+                    442.309938,
+                    1912.327394
+                ],
+                [
+                    1188.9549200000001,
+                    1952.6092589999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "b) Notion",
+            "points": [
+                [
+                    370.124025,
+                    2034.580584
+                ],
+                [
+                    599.530297,
+                    2084.048325
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DP35. L'objet est déterminé si le contrat permet de définir l'étendue des prestations de",
+            "points": [
+                [
+                    296.150689,
+                    2142.436105
+                ],
+                [
+                    2038.461718,
+                    2184.234656
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "chacune des parties.",
+            "points": [
+                [
+                    295.755183,
+                    2195.248295
+                ],
+                [
+                    718.458221,
+                    2235.063322
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "L'objet est déterminable si des éléments objectifs permettent de définir ces prestations.",
+            "points": [
+                [
+                    296.713401,
+                    2245.5155
+                ],
+                [
+                    2047.1547679999999,
+                    2287.90354
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Certains éléments imprécis peuvent être complétés par les usages professionnels ou les règles",
+            "points": [
+                [
+                    295.454458,
+                    2296.383558
+                ],
+                [
+                    2177.660378,
+                    2338.366094
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "place de Bruxelles, elles non plus ne sont pas dans le commerce.",
+            "points": [
+                [
+                    296.070029,
+                    1475.607959
+                ],
+                [
+                    1608.28125,
+                    1516.742568
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "elle ne peut plus être dans le commerce. Si vous voulez acheter la planète terre ou la grand'",
+            "points": [
+                [
+                    295.27632,
+                    1424.937335
+                ],
+                [
+                    2178.512364,
+                    1465.225058
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "immeubles.",
+            "points": [
+                [
+                    295.745282,
+                    2859.923646
+                ],
+                [
+                    521.552828,
+                    2892.936943
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Prenons quelques exemples.",
+            "points": [
+                [
+                    296.095692,
+                    2451.651337
+                ],
+                [
+                    863.158101,
+                    2491.300398
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Par exemple, si vous convenez de vendre un chien sans autre précision, l'objet n'est pas",
+            "points": [
+                [
+                    296.498323,
+                    2553.2517
+                ],
+                [
+                    2180.558768,
+                    2593.009514
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "suffisamment déterminé. Si vous concluez un contrat d'emploi sans détermination de la",
+            "points": [
+                [
+                    294.815325,
+                    2602.496307
+                ],
+                [
+                    2179.4647919999998,
+                    2644.172924
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "rémunération, le contrat est nul faute d'objet, l'un des éléments essentiels du contrat faisant",
+            "points": [
+                [
+                    295.447777,
+                    2655.149315
+                ],
+                [
+                    2182.033044,
+                    2696.024183
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "défaut.",
+            "points": [
+                [
+                    295.119635,
+                    2704.283204
+                ],
+                [
+                    439.916015,
+                    2738.9889519999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Une vente d'immeuble au prix du marché est nulle car il n'existe pas de marché des",
+            "points": [
+                [
+                    296.912669,
+                    2806.291829
+                ],
+                [
+                    2178.872329,
+                    2850.357944
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Une vente d'actions d'une société cotée, par exemple au prix du marché à telle date, serd",
+            "points": [
+                [
+                    296.947884,
+                    2960.377181
+                ],
+                [
+                    2180.484594,
+                    3004.3898299999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "de l'art.",
+            "points": [
+                [
+                    295.445604,
+                    2349.403497
+                ],
+                [
+                    449.299506,
+                    2382.081362
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "déterminable car le cours de bourse est un élément objectif qui rend le prix déterminable.",
+            "points": [
+                [
+                    295.119635,
+                    3011.43653
+                ],
+                [
+                    2107.105358,
+                    3053.295465
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "35 Voy. P. VAN OMMESLAGHE, op. cit., p.267.",
+            "points": [
+                [
+                    294.5261,
+                    3120.120913
+                ],
+                [
+                    1175.9594339999999,
+                    3163.2852220000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "36 Voy. P. VAN OMMESLAGHE, op. cit., p.281.",
+            "points": [
+                [
+                    294.929098,
+                    3171.180454
+                ],
+                [
+                    1174.931917,
+                    3213.91122
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_CONTRACT_WXD_000062.jpg",
+    "imageData": null,
+    "imageHeight": 3508,
+    "imageWidth": 2481
+}

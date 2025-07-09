@@ -1,0 +1,714 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "2. Contrats consensuels, réels et solennels",
+            "points": [
+                [
+                    362.577144,
+                    294.755177
+                ],
+                [
+                    1403.9414269999997,
+                    353.54187
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DP06. Le contrat consensuel est celui qui se forme par l'échange de volonté sans que des",
+            "points": [
+                [
+                    293.867061,
+                    409.214395
+                ],
+                [
+                    2190.405151,
+                    457.567087
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Le contrat réel est celui qui se réalise par la remise d'une chose. Reprenons l'exemple du prêt",
+            "points": [
+                [
+                    296.367651,
+                    612.454308
+                ],
+                [
+                    2193.385377,
+                    661.809976
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3. Contrats nommés et contrats innommés",
+            "points": [
+                [
+                    365.489616,
+                    1129.19138
+                ],
+                [
+                    1418.2283200000002,
+                    1183.503745
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DP07.Le contrat est nommé lorsqu'il fait l'objet de dispositions légales particulières, notamment",
+            "points": [
+                [
+                    288.907299,
+                    1242.485101
+                ],
+                [
+                    2187.527286,
+                    1286.448196
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4. Les contrats conclus intuitu personae",
+            "points": [
+                [
+                    365.235211,
+                    1605.871667
+                ],
+                [
+                    1335.926687,
+                    1655.769797
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DP08. De manière générale, la personne est indifférente dans la conclusion de contrat. Si vous",
+            "points": [
+                [
+                    283.855567,
+                    1704.889573
+                ],
+                [
+                    2188.394929,
+                    1756.24305
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5. Contrats à titre onéreux et contrats à titre gratuit",
+            "points": [
+                [
+                    370.863072,
+                    2378.589952
+                ],
+                [
+                    1620.141262,
+                    2430.5379279999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DP09. Dans le contrat à titre gratuit, comme son nom l'indique, vous consentez un avantage",
+            "points": [
+                [
+                    289.303635,
+                    2488.716622
+                ],
+                [
+                    2189.80764,
+                    2535.1865279999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "a votre contractant a titre purement altruiste ; dans le contrat a titre onereuX, VOUS COnsentez",
+            "points": [
+                [
+                    294.381704,
+                    2540.970635
+                ],
+                [
+                    2195.612943,
+                    2585.970436
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Quelles sont les principales distinctions dans le régime juridique entre contrats à titre gratuit et",
+            "points": [
+                [
+                    294.730764,
+                    2691.267659
+                ],
+                [
+                    2187.149452,
+                    2737.813493
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4 Article 931 du Code civil.",
+            "points": [
+                [
+                    294.12363,
+                    3010.88497
+                ],
+                [
+                    824.493424,
+                    3055.371971
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5 Article 3, alinéa 4, de la loi sur les baux commerciaux insérée dans le Code civil par la loi du",
+            "points": [
+                [
+                    290.12988,
+                    3065.420087
+                ],
+                [
+                    2190.402889,
+                    3109.26886
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "",
+            "points": [
+                [
+                    293.946787,
+                    3164.482115
+                ],
+                [
+                    2187.922188,
+                    3215.588248
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "titres en bourse ; aucune forme n'est requise.",
+            "points": [
+                [
+                    293.049124,
+                    521.104053
+                ],
+                [
+                    1202.4277040000002,
+                    561.2032310000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "formes ne doivent etre observees. La plupart des consensuels ; par exemple, vous achetez des titres en bourse ; aucune forme n'est requise.",
+            "points": [
+                [
+                    293.867061,
+                    466.135749
+                ],
+                [
+                    2186.807562,
+                    512.893214
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "comparution devant le juge de paix. 5",
+            "points": [
+                [
+                    288.37589,
+                    1029.207288
+                ],
+                [
+                    1072.494607,
+                    1069.0809160000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "resiliation amiable d'un bail commercial doit etre actee soit par acte notarie soit par",
+            "points": [
+                [
+                    289.347296,
+                    978.480548
+                ],
+                [
+                    2189.066656,
+                    1023.085325
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "naissance dans les legislations nouvelles souver en vue de proteger la partie faible. Ainsi la",
+            "points": [
+                [
+                    287.938104,
+                    928.239542
+                ],
+                [
+                    2185.7451969999997,
+                    972.270714
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sont pas respectees, l'acte est considere comme inexistant. Le formalisme solennel reprend",
+            "points": [
+                [
+                    289.977902,
+                    876.640676
+                ],
+                [
+                    2189.777123,
+                    922.4020399999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "d'une forme bien définie. Ainsi une donation se réalise par un acte notarié4. Si ces formes ne",
+            "points": [
+                [
+                    293.616067,
+                    825.199923
+                ],
+                [
+                    2184.298326,
+                    868.818102
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Enfin, le contrat solennel : dans cette hypothèse, le contrat se forme par l'accomplissement",
+            "points": [
+                [
+                    290.901564,
+                    774.745505
+                ],
+                [
+                    2185.005293,
+                    816.319609
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "remettez l'argent à l'emprunteur que le contrat se forme.",
+            "points": [
+                [
+                    289.895645,
+                    722.1357
+                ],
+                [
+                    1448.6376380000002,
+                    765.650431
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "par lequel le prer C VOUS",
+            "points": [
+                [
+                    292.970246,
+                    670.888049
+                ],
+                [
+                    2198.218543,
+                    712.5287010000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "innommés.",
+            "points": [
+                [
+                    294.25545,
+                    1498.229012
+                ],
+                [
+                    513.825308,
+                    1536.49958
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "exemple le contrat de leasing ou le contrat de cooperation entre entreprises, sont des contrats",
+            "points": [
+                [
+                    295.179955,
+                    1447.579162
+                ],
+                [
+                    2190.269,
+                    1491.575742
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Beaucoup de contrats ne sont pas régis expressis verbis par des dispositions particulières. Par",
+            "points": [
+                [
+                    294.717703,
+                    1397.866464
+                ],
+                [
+                    2187.1815739999997,
+                    1440.6847
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "d'entreprise ou de mandat que nous étudierons plus loin.",
+            "points": [
+                [
+                    293.770913,
+                    1346.757849
+                ],
+                [
+                    1458.512796,
+                    1389.3121820000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "e pense BIE nment, uveau, aux ае ente,",
+            "points": [
+                [
+                    294.478192,
+                    1294.244097
+                ],
+                [
+                    2187.889976,
+                    1336.575523
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "plein droit le contrat intuitu personae.",
+            "points": [
+                [
+                    294.110947,
+                    2225.231284
+                ],
+                [
+                    1051.195928,
+                    2274.999819
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "l'obligation; le contrat est par ailleurs incessible. Enfin, la mort de l'une des parties dissout de",
+            "points": [
+                [
+                    289.586535,
+                    2171.98175
+                ],
+                [
+                    2192.033522,
+                    2214.94261
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "aussi un avantage mais en echange d'une contrepartie.",
+            "points": [
+                [
+                    293.355689,
+                    2590.286753
+                ],
+                [
+                    1442.346661,
+                    2635.241983
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "prestataire de services en fonction de sa personne peut s'opposer à ce qu'un tiers exécute",
+            "points": [
+                [
+                    291.925394,
+                    2121.083851
+                ],
+                [
+                    2190.5110799999998,
+                    2166.534578
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "30 avril 1951.",
+            "points": [
+                [
+                    289.04845,
+                    3120.594721
+                ],
+                [
+                    554.184659,
+                    3157.621552
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Parfois le legislateur Intervient pour proteger la personne qui s'engage TIτre benevole.",
+            "points": [
+                [
+                    290.265507,
+                    2845.069591
+                ],
+                [
+                    2053.57186,
+                    2888.898594
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "La responsabilité du débiteur bénévole est appréciée avec une certaine clémence.",
+            "points": [
+                [
+                    287.066207,
+                    2794.458655
+                ],
+                [
+                    2002.5240720000002,
+                    2835.3316879999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "contrats à titre onéreux ?",
+            "points": [
+                [
+                    295.893472,
+                    2744.321209
+                ],
+                [
+                    805.239694,
+                    2784.9907350000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Quel est le régime juridique du contrat intuitu personae ? Le client qui s'en remet à un",
+            "points": [
+                [
+                    297.117126,
+                    2072.232779
+                ],
+                [
+                    2189.807309,
+                    2111.920717
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "d'une banque sont généralement considérés comme contrats intuitu personae. 6",
+            "points": [
+                [
+                    293.305508,
+                    2019.364402
+                ],
+                [
+                    1958.928747,
+                    2064.878048
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "qualites. Des contrats, comme le contrat de mandat, le contrat d'ouverture de credit aupres",
+            "points": [
+                [
+                    292.588009,
+                    1967.901034
+                ],
+                [
+                    2194.574808,
+                    2013.711438
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "avez consulté un tel ou tel avocat c'est généralement en fonction de sa réputation et ses",
+            "points": [
+                [
+                    294.784298,
+                    1916.736871
+                ],
+                [
+                    2187.985939,
+                    1963.4481660000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "pizza et pas la personn qui livre. Mais dans certaines ances, c´est la personne,",
+            "points": [
+                [
+                    290.434113,
+                    1814.572915
+                ],
+                [
+                    2186.2135049999997,
+                    1856.513573
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sa réputation, ses qualités, son habileté, la confiance qu'elle inspire qui importe. Ainsi si vous",
+            "points": [
+                [
+                    292.681168,
+                    1864.716987
+                ],
+                [
+                    2188.697739,
+                    1909.619928
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "avez commandé une pizza à un service traiteur, ce qui importe pour vous c'est de recevoir la",
+            "points": [
+                [
+                    283.590633,
+                    1764.245475
+                ],
+                [
+                    2184.282343,
+                    1807.41921
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_CONTRACT_WXD_000049.jpg",
+    "imageData": null,
+    "imageHeight": 3508,
+    "imageWidth": 2481
+}

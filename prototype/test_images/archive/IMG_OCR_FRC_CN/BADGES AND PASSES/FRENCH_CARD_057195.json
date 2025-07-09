@@ -1,0 +1,154 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Rénovation, Dépannage",
+            "points": [
+                [
+                    1159.693663,
+                    633.660415
+                ],
+                [
+                    1894.163156,
+                    722.8756759999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "JBELEC",
+            "points": [
+                [
+                    882.263184,
+                    436.319855
+                ],
+                [
+                    1249.183106,
+                    510.599915
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Electricité Tous Bâtiments Neufs Et",
+            "points": [
+                [
+                    824.761828,
+                    542.363821
+                ],
+                [
+                    1896.402044,
+                    626.13645
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Baron Joffrey",
+            "points": [
+                [
+                    522.833278,
+                    828.147381
+                ],
+                [
+                    1005.2171109999999,
+                    911.566517
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "alarme, vidéo-surveillance, automatisme",
+            "points": [
+                [
+                    525.428235,
+                    921.484118
+                ],
+                [
+                    1628.309769,
+                    995.3880919999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "jbelec38@outlook.com",
+            "points": [
+                [
+                    520.835048,
+                    1008.134598
+                ],
+                [
+                    1162.7522450000001,
+                    1076.675913
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "88 Route De Ruy 38110 Cessieu",
+            "points": [
+                [
+                    1057.658416,
+                    1250.167649
+                ],
+                [
+                    1933.0278939999998,
+                    1324.1035299999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "0658937068",
+            "points": [
+                [
+                    1508.759079,
+                    1348.465563
+                ],
+                [
+                    1921.2928459999998,
+                    1425.226283
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "siret : 843 718 032 00017",
+            "points": [
+                [
+                    1200.686759,
+                    1452.457567
+                ],
+                [
+                    1935.59735,
+                    1526.371332
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_CARD_057195.jpg",
+    "imageData": null,
+    "imageHeight": 2015,
+    "imageWidth": 2010
+}

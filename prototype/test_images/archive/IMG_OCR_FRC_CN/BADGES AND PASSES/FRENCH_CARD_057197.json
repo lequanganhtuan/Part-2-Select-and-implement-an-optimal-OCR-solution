@@ -1,0 +1,122 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "cmonty@royavocat.com",
+            "points": [
+                [
+                    328.624219,
+                    167.167726
+                ],
+                [
+                    509.65063499999997,
+                    186.69726599999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Avocate",
+            "points": [
+                [
+                    203.635315,
+                    270.331189
+                ],
+                [
+                    327.060394,
+                    293.370534
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Télécopieur: 418 763-9171",
+            "points": [
+                [
+                    302.662018,
+                    146.423676
+                ],
+                [
+                    509.27247,
+                    162.686768
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Téléphone : 418 763-7010",
+            "points": [
+                [
+                    308.686758,
+                    123.772992
+                ],
+                [
+                    511.502691,
+                    143.53707
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Mᵉ Christine Monty",
+            "points": [
+                [
+                    107.581093,
+                    232.680268
+                ],
+                [
+                    421.402603,
+                    265.631526
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "JEAN-FRANÇOIS ROY AVOCAT INC.",
+            "points": [
+                [
+                    73.284138,
+                    330.839612
+                ],
+                [
+                    456.217496,
+                    357.95847399999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "16, 1ˢᵗ Avenue Ouest, Sainte-Anne-des-Monts (Québec) G4V 1B5",
+            "points": [
+                [
+                    46.289659,
+                    361.64941
+                ],
+                [
+                    486.894859,
+                    386.56983199999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_CARD_057197.jpg",
+    "imageData": null,
+    "imageHeight": 510,
+    "imageWidth": 571
+}

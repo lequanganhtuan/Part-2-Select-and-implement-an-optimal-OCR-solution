@@ -1,0 +1,322 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "###",
+            "points": [
+                [
+                    63.891469,
+                    6.971153
+                ],
+                [
+                    706.608343,
+                    0.892162
+                ],
+                [
+                    705.914145,
+                    30.375523
+                ],
+                [
+                    65.036896,
+                    45.12609
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "un future proche Faculte involontane de L'esprit a tenche CO qui et",
+            "points": [
+                [
+                    52.972528,
+                    43.353399
+                ],
+                [
+                    727.924603,
+                    30.389545
+                ],
+                [
+                    727.542794,
+                    63.202791
+                ],
+                [
+                    52.866388,
+                    67.477311
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "tur la paint de se produire.",
+            "points": [
+                [
+                    51.753765,
+                    76.793625
+                ],
+                [
+                    318.351002,
+                    100.37652800000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    61.645996,
+                    99.187442
+                ],
+                [
+                    695.863834,
+                    129.141535
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    46.985256,
+                    139.730148
+                ],
+                [
+                    426.591685,
+                    163.839854
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    48.734373,
+                    164.622
+                ],
+                [
+                    752.875619,
+                    196.186539
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    41.127909,
+                    193.879694
+                ],
+                [
+                    744.233867,
+                    228.918575
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    40.910729,
+                    229.920496
+                ],
+                [
+                    233.98843300000001,
+                    261.620825
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    36.145889,
+                    264.724111
+                ],
+                [
+                    734.277016,
+                    243.514354
+                ],
+                [
+                    733.233893,
+                    296.156232
+                ],
+                [
+                    39.301336,
+                    301.703727
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    32.55088,
+                    303.887989
+                ],
+                [
+                    714.833561,
+                    335.918073
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    41.850124,
+                    339.504281
+                ],
+                [
+                    751.5281650000001,
+                    371.822843
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    31.2289,
+                    378.913998
+                ],
+                [
+                    666.5443029999999,
+                    407.001199
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    26.503275,
+                    413.213189
+                ],
+                [
+                    729.446398,
+                    445.601434
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    32.805276,
+                    451.899148
+                ],
+                [
+                    545.7881030000001,
+                    480.14889500000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    20.201275,
+                    489.273699
+                ],
+                [
+                    735.928456,
+                    527.8697070000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    15.73819,
+                    528.97531
+                ],
+                [
+                    752.8921720000001,
+                    564.645439
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    24.34919,
+                    565.920843
+                ],
+                [
+                    745.408145,
+                    608.548514
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    8.997294,
+                    607.849694
+                ],
+                [
+                    413.44167,
+                    643.080907
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_NOTE_057453.jpg",
+    "imageData": null,
+    "imageHeight": 673,
+    "imageWidth": 754
+}

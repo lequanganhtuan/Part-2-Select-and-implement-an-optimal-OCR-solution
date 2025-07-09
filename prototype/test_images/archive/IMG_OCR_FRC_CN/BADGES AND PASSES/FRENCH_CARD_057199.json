@@ -1,0 +1,90 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "RC MAÇONNERIE",
+            "points": [
+                [
+                    641.308907,
+                    644.829094
+                ],
+                [
+                    1761.502607,
+                    803.881208
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Renard Cédric",
+            "points": [
+                [
+                    1162.688295,
+                    809.576882
+                ],
+                [
+                    1759.11456,
+                    912.518254
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "63160 ESPIRAT p.07 88 98 64 89",
+            "points": [
+                [
+                    253.10007,
+                    1388.103611
+                ],
+                [
+                    1765.830371,
+                    1496.878426
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Maçonnerie",
+            "points": [
+                [
+                    696.819427,
+                    1092.72206
+                ],
+                [
+                    1326.598547,
+                    1214.901963
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Aménagements extérieurs",
+            "points": [
+                [
+                    367.493878,
+                    1221.044859
+                ],
+                [
+                    1643.126392,
+                    1331.7455810000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_CARD_057199.jpg",
+    "imageData": null,
+    "imageHeight": 2015,
+    "imageWidth": 2007
+}

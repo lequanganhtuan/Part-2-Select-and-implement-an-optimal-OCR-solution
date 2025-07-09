@@ -1,0 +1,650 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "99693392986795",
+            "points": [
+                [
+                    720.4729,
+                    370.127777
+                ],
+                [
+                    953.151001,
+                    392.80541999999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "FOSSE DEBOUT",
+            "points": [
+                [
+                    720.557861,
+                    264.49091
+                ],
+                [
+                    919.597168,
+                    285.15682799999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NORMAL",
+            "points": [
+                [
+                    1102.37772,
+                    345.010008
+                ],
+                [
+                    1180.1434319999998,
+                    368.61172500000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Normal",
+            "points": [
+                [
+                    83.75457,
+                    312.29541
+                ],
+                [
+                    185.742783,
+                    334.487549
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Categorie 2",
+            "points": [
+                [
+                    84.713898,
+                    284.016083
+                ],
+                [
+                    270.69198600000004,
+                    307.454588
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CATEGORIE 2",
+            "points": [
+                [
+                    1100.491699,
+                    306.147125
+                ],
+                [
+                    1243.900815,
+                    331.422882
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "AVEC TFI ET RTL",
+            "points": [
+                [
+                    721.455175,
+                    213.499658
+                ],
+                [
+                    847.339281,
+                    225.765453
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PRESENTENT",
+            "points": [
+                [
+                    85.69891,
+                    120.309434
+                ],
+                [
+                    169.89425899999998,
+                    131.782233
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "20H30",
+            "points": [
+                [
+                    1193.969482,
+                    236.709936
+                ],
+                [
+                    1279.98138,
+                    257.182434
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "RUE DU CIRQUE",
+            "points": [
+                [
+                    2.263307,
+                    35.840548
+                ],
+                [
+                    110.72712299999999,
+                    48.364734999999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PLACEMENT LIBRE",
+            "points": [
+                [
+                    1034.27771,
+                    263.435242
+                ],
+                [
+                    1287.0063480000001,
+                    287.823365
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "20H30",
+            "points": [
+                [
+                    254.581863,
+                    196.848679
+                ],
+                [
+                    341.816284,
+                    220.078339
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3-1072532) ET BORNROCKER",
+            "points": [
+                [
+                    722.711731,
+                    81.156472
+                ],
+                [
+                    922.139269,
+                    94.671386
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Prix TTC: EUR 89,00",
+            "points": [
+                [
+                    1001.427307,
+                    371.718811
+                ],
+                [
+                    1308.905029,
+                    398.281206
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "21/07/16",
+            "points": [
+                [
+                    84.986343,
+                    196.480896
+                ],
+                [
+                    221.942703,
+                    220.389252
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PRESENTENT",
+            "points": [
+                [
+                    723.310542,
+                    96.606797
+                ],
+                [
+                    807.8626360000001,
+                    108.501574
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "EUR 89,00",
+            "points": [
+                [
+                    85.814052,
+                    339.078656
+                ],
+                [
+                    235.640125,
+                    364.483785
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "JOHNNY HALLYDAY",
+            "points": [
+                [
+                    86.001799,
+                    152.270462
+                ],
+                [
+                    276.75119,
+                    176.669138
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3-1072532) ET BORNROCKER",
+            "points": [
+                [
+                    86.320793,
+                    101.420109
+                ],
+                [
+                    286.530121,
+                    114.981781
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "GRPAO11457081957",
+            "points": [
+                [
+                    86.334358,
+                    395.225281
+                ],
+                [
+                    350.121399,
+                    419.142243
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "THEATRE ANTIQUE",
+            "points": [
+                [
+                    720.837042,
+                    15.904266
+                ],
+                [
+                    969.706565,
+                    38.329513
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "38200",
+            "points": [
+                [
+                    722.472684,
+                    39.770708
+                ],
+                [
+                    765.8928999999999,
+                    52.506546
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "VIENNE",
+            "points": [
+                [
+                    63.360599,
+                    55.431484
+                ],
+                [
+                    114.845951,
+                    67.031381
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ieudi 21 juillet 2016",
+            "points": [
+                [
+                    726.550322,
+                    236.017076
+                ],
+                [
+                    1073.121948,
+                    257.36233500000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "VIENNE",
+            "points": [
+                [
+                    823.256735,
+                    40.022297
+                ],
+                [
+                    870.997698,
+                    52.208046
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "38200",
+            "points": [
+                [
+                    3.330813,
+                    55.069626
+                ],
+                [
+                    44.49782,
+                    66.360618
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "B1669339296",
+            "points": [
+                [
+                    374.528748,
+                    227.74263
+                ],
+                [
+                    395.91211,
+                    415.54711599999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "francebillet",
+            "points": [
+                [
+                    480.998169,
+                    434.870984
+                ],
+                [
+                    590.322351,
+                    451.55191
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "20151113/11/B1669339296",
+            "points": [
+                [
+                    721.798919,
+                    400.281315
+                ],
+                [
+                    1125.455991,
+                    420.66142
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "JOHNNY HALLYDAY",
+            "points": [
+                [
+                    721.782446,
+                    138.27867
+                ],
+                [
+                    967.694639,
+                    173.303474
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DECIBELS PRODUCTIONS (L.2-1872531",
+            "points": [
+                [
+                    721.117861,
+                    64.902411
+                ],
+                [
+                    996.1449789999999,
+                    76.659088
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "THEATRE ANTIQUE",
+            "points": [
+                [
+                    2.665314,
+                    11.826482
+                ],
+                [
+                    249.703814,
+                    34.246387
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DECIBELS PRODUCTIONS (L.2-1072531",
+            "points": [
+                [
+                    86.486628,
+                    84.550315
+                ],
+                [
+                    360.019556,
+                    95.27588899999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PLACEMENT LIBRE",
+            "points": [
+                [
+                    85.451474,
+                    256.639537
+                ],
+                [
+                    334.190158,
+                    276.40483900000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "BILLETEL",
+            "points": [
+                [
+                    560.299055,
+                    65.055073
+                ],
+                [
+                    608.702055,
+                    292.153771
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "RESTER VIVANT",
+            "points": [
+                [
+                    723.284287,
+                    177.931765
+                ],
+                [
+                    936.6957769999999,
+                    197.826918
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "FRAIS DE LOC. INCLUS",
+            "points": [
+                [
+                    1140.827809,
+                    400.107866
+                ],
+                [
+                    1307.649878,
+                    411.889823
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "11/20151113",
+            "points": [
+                [
+                    400.314078,
+                    207.365728
+                ],
+                [
+                    423.003656,
+                    414.86357799999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "FRAIS DE LOCATION INCLUS",
+            "points": [
+                [
+                    85.478788,
+                    366.497197
+                ],
+                [
+                    285.669587,
+                    377.48593200000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "FOSSE DEBOUT",
+            "points": [
+                [
+                    86.140296,
+                    227.50817
+                ],
+                [
+                    284.08261600000003,
+                    248.232175
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_RECEIPT_058387.jpg",
+    "imageData": null,
+    "imageHeight": 510,
+    "imageWidth": 1347
+}

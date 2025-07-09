@@ -1,0 +1,490 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Notre-Dame de Paris",
+            "points": [
+                [
+                    188.279242,
+                    131.119357
+                ],
+                [
+                    418.594622,
+                    152.659255
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Chapitre II",
+            "points": [
+                [
+                    951.102939,
+                    130.435548
+                ],
+                [
+                    1070.784943,
+                    157.787803
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tendant à la nef, à droite, proche l'image de la Vierge, que son attention",
+            "points": [
+                [
+                    188.279242,
+                    289.078632
+                ],
+                [
+                    1071.638596,
+                    319.337059
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "avait été éveillée par le groupe de vieilles glapissant autour du lit des",
+            "points": [
+                [
+                    188.962166,
+                    324.636569
+                ],
+                [
+                    1069.9312909999999,
+                    355.236894
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "enfants trouvés.",
+            "points": [
+                [
+                    189.64509,
+                    358.826888
+                ],
+                [
+                    383.594879,
+                    383.44390699999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "C'est alors qu'il s'était approché de la malheureuse petite créature si",
+            "points": [
+                [
+                    232.669172,
+                    395.752416
+                ],
+                [
+                    1070.784944,
+                    426.181805
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "haïe et si menacée. Cette détresse, cette difformité, cet abandon, la pensée",
+            "points": [
+                [
+                    187.59633,
+                    430.626557
+                ],
+                [
+                    1071.6385950000001,
+                    462.08164
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "de son jeune frère, la chimère qui frappa tout à coup son esprit que, s'il",
+            "points": [
+                [
+                    189.64509,
+                    466.868342
+                ],
+                [
+                    1072.4922470000001,
+                    498.836233
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "mourait, son cher petit Jehan pourrait bien aussi, lui, être jeté misérable-",
+            "points": [
+                [
+                    188.962166,
+                    504.477667
+                ],
+                [
+                    1069.9312909999999,
+                    533.88131
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ment sur la planche des enfants-trouvés, tout cela lui était venu au cœur à",
+            "points": [
+                [
+                    188.279242,
+                    539.351781
+                ],
+                [
+                    1071.638596,
+                    570.635902
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "la fois, une grande pitié s'était remuée en lui, et il avait emporté l'enfant.",
+            "points": [
+                [
+                    187.59633,
+                    575.593488
+                ],
+                [
+                    1069.931291,
+                    606.5357369999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Quand il tira cet enfant du sac, il le trouva bien difforme en effet.",
+            "points": [
+                [
+                    232.669172,
+                    611.151425
+                ],
+                [
+                    1069.24838,
+                    640.726056
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Le pauvre petit diable avait une verrue sur l'oeil gauche, la tête dans les",
+            "points": [
+                [
+                    187.59633,
+                    646.025566
+                ],
+                [
+                    1070.955684,
+                    677.480649
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "épaules, la colonne vertébrale arquée, le sternum proéminent, les jambes",
+            "points": [
+                [
+                    189.645103,
+                    682.267298
+                ],
+                [
+                    1070.955684,
+                    713.380483
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "torses; mais il paraissait vivace; et, quoiqu'il fût impossible de savoir",
+            "points": [
+                [
+                    188.279255,
+                    717.825235
+                ],
+                [
+                    1071.809337,
+                    749.280318
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "quelle langue il bégayait, son cri annonçait quelque force et quelque santé.",
+            "points": [
+                [
+                    189.645103,
+                    754.750764
+                ],
+                [
+                    1070.955684,
+                    785.180153
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "La compassion de Claude s'accrut de cette laideur; et il fit vœu dans son",
+            "points": [
+                [
+                    187.59633,
+                    790.3087
+                ],
+                [
+                    1070.955684,
+                    821.0799870000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "coeur d'élever cet enfant pour l'amour de son frère, afin que, quelles que",
+            "points": [
+                [
+                    189.645103,
+                    826.550459
+                ],
+                [
+                    1071.809336,
+                    856.979822
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fussent dans l'avenir les fautes du petit Jehan, il eût par devers lui cette",
+            "points": [
+                [
+                    188.962179,
+                    862.10837
+                ],
+                [
+                    1070.955684,
+                    893.734415
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "charité faite à son intention. C'était une sorte de placement de bonnes",
+            "points": [
+                [
+                    188.962205,
+                    897.66632
+                ],
+                [
+                    1071.297166,
+                    928.0956960000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "œuvres qu'il effectuait sur la tête de son jeune frère; c'était une pacotille",
+            "points": [
+                [
+                    188.962205,
+                    933.224243
+                ],
+                [
+                    1071.297166,
+                    963.99553
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "de bonnes actions qu'il voulait lui amasser d'avance, pour le cas où le pe-",
+            "points": [
+                [
+                    188.962205,
+                    969.465976
+                ],
+                [
+                    1071.297166,
+                    999.895365
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tit drôle un jour se trouverait à court de cette monnaie, la seule qui soit",
+            "points": [
+                [
+                    188.279281,
+                    1005.023913
+                ],
+                [
+                    1072.150819,
+                    1036.649958
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "reçue au péage du paradis.",
+            "points": [
+                [
+                    188.962205,
+                    1041.265645
+                ],
+                [
+                    511.301288,
+                    1072.549792
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Il baptisa son enfant adoptif, et le nomma Quasimodo, soit qu'il vou-",
+            "points": [
+                [
+                    231.303349,
+                    1077.507404
+                ],
+                [
+                    1070.443514,
+                    1108.449627
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "lût marquer par là le jour où il l'avait trouvé, soit qu'il voulût caractéri-",
+            "points": [
+                [
+                    188.279281,
+                    1113.065315
+                ],
+                [
+                    1070.443514,
+                    1144.3494620000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ser par ce nom à quel point la pauvre petite créature était incomplète et",
+            "points": [
+                [
+                    188.962205,
+                    1148.623252
+                ],
+                [
+                    1071.297166,
+                    1180.249297
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "à peine ébauchée. En effet, Quasimodo, borgne, bossu, cagneux, n'était",
+            "points": [
+                [
+                    188.962205,
+                    1184.181215
+                ],
+                [
+                    1072.150818,
+                    1215.294374
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "guère qu'un à peu près.",
+            "points": [
+                [
+                    188.962205,
+                    1220.422921
+                ],
+                [
+                    469.47232800000006,
+                    1251.1942080000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "158",
+            "points": [
+                [
+                    610.383942,
+                    1674.351675
+                ],
+                [
+                    650.0756600000001,
+                    1695.6470599999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_BOOKCONTENT_034936.jpg",
+    "imageData": null,
+    "imageHeight": 1786,
+    "imageWidth": 1259
+}

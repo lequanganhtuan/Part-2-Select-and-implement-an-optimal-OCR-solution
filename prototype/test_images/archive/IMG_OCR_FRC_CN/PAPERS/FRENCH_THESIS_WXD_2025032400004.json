@@ -1,0 +1,634 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "(suite)",
+            "points": [
+                [
+                    689.393951,
+                    99.498485
+                ],
+                [
+                    729.929872,
+                    116.012477
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "La grève sociale serait-elle pertinente pour s'opposer",
+            "points": [
+                [
+                    104.355178,
+                    154.861389
+                ],
+                [
+                    727.239226,
+                    180.44360700000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "aux politiques du gouvernement Charest ?",
+            "points": [
+                [
+                    165.321496,
+                    182.002783
+                ],
+                [
+                    659.813584,
+                    207.75824899999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Le budget présenté par le gouvernement Charest en mars 2010 est injuste parce qu'il",
+            "points": [
+                [
+                    96.17805,
+                    224.34757
+                ],
+                [
+                    733.763133,
+                    241.881865
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "met la majorité de la population à contribution par une augmentation tout azimuts de",
+            "points": [
+                [
+                    97.332715,
+                    244.821729
+                ],
+                [
+                    734.287962,
+                    262.093544
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tarifs et de taxes, tout en maintenant une fiscalité qui ne profite qu'aux plus riches et",
+            "points": [
+                [
+                    96.755383,
+                    264.77093
+                ],
+                [
+                    733.238235,
+                    281.59808100000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "aux grandes entreprises. Même si cet aspect a été moins dénoncé, il implique",
+            "points": [
+                [
+                    97.332715,
+                    282.620204
+                ],
+                [
+                    732.188577,
+                    298.474569
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "également des compressions budgétaires qui mettront encore plus à mal les services",
+            "points": [
+                [
+                    97.332715,
+                    302.04441
+                ],
+                [
+                    732.188577,
+                    318.59342300000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "publics et ouvriront encore plus grande la porte à leur privatisation.",
+            "points": [
+                [
+                    95.600717,
+                    319.368725
+                ],
+                [
+                    578.408172,
+                    337.924694
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tout au long du printemps, la Coalition opposée à la tarification et à la privatisation a",
+            "points": [
+                [
+                    97.218632,
+                    353.83357
+                ],
+                [
+                    732.1412469999999,
+                    370.728342
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "multiplié les interventions et les actions contre ce budget, dont l'organisation, le 1er avril",
+            "points": [
+                [
+                    96.444772,
+                    371.000661
+                ],
+                [
+                    731.698238,
+                    391.094179
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2010, d'une manifestation qui a rassemblé autour de 15 000 personnes dans les rues",
+            "points": [
+                [
+                    97.586754,
+                    391.769141
+                ],
+                [
+                    731.6982380000001,
+                    409.245538
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "de Montréal. Un ambitieux plan d'action a aussi été voté à l'automne, dont la tenue",
+            "points": [
+                [
+                    97.015763,
+                    409.747073
+                ],
+                [
+                    732.217302,
+                    425.933321
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "d'une journée de perturbation économique à la fin novembre.",
+            "points": [
+                [
+                    95.30279,
+                    428.633203
+                ],
+                [
+                    537.561283,
+                    446.494127
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Quant à lui, le gouvernement Charest est durement ébranlé présentement. Le budget a",
+            "points": [
+                [
+                    96.415485,
+                    463.869631
+                ],
+                [
+                    731.461312,
+                    480.79596200000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "mal passé, y compris chez une partie de la population qui, tout en s'opposant",
+            "points": [
+                [
+                    96.986476,
+                    483.599707
+                ],
+                [
+                    732.499509,
+                    500.58380400000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "également aux hausses de tarifs et de taxes, réclame plutôt que le gouvernement",
+            "points": [
+                [
+                    97.557467,
+                    500.733711
+                ],
+                [
+                    731.980375,
+                    518.490772
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "coupe encore davantage dans ses dépenses. Ce sont cependant les multiples",
+            "points": [
+                [
+                    96.986476,
+                    519.944558
+                ],
+                [
+                    731.461312,
+                    536.7670430000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "accusations mettant en doute l'honnêteté du gouvernement et, au premier chef, du",
+            "points": [
+                [
+                    97.153719,
+                    537.597774
+                ],
+                [
+                    731.109491,
+                    556.2367469999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "premier ministre lui-même qui le rendent si fragile présentement.",
+            "points": [
+                [
+                    96.415485,
+                    555.7702
+                ],
+                [
+                    561.418836,
+                    574.487643
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "La réflexion sur l'action politique (puisque c'est bien de cela qu'il s'agit ici) est fortement",
+            "points": [
+                [
+                    96.855808,
+                    592.546308
+                ],
+                [
+                    731.953562,
+                    609.6302569999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "colorée par un certain déficit démocratique qui s'est développé dans plusieurs pays, et",
+            "points": [
+                [
+                    95.142835,
+                    611.757156
+                ],
+                [
+                    733.510823,
+                    628.73541
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "bien sûr au Québec. Les grands médias, pour la plupart de grandes corporations à but",
+            "points": [
+                [
+                    95.142835,
+                    629.410371
+                ],
+                [
+                    734.029887,
+                    645.939566
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "lucratif, relaient presque tous des idées néolibérales, ce qui rend fort difficile la mise en",
+            "points": [
+                [
+                    95.142835,
+                    648.200422
+                ],
+                [
+                    730.936311,
+                    665.13133
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "place d'expression de véritables débats publics. Les lobbys des grandes entreprises",
+            "points": [
+                [
+                    95.713826,
+                    666.274433
+                ],
+                [
+                    730.936311,
+                    682.99309
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sont aussi très puissants: dès lors les partis politiques, qui ont besoin d'argent pour",
+            "points": [
+                [
+                    96.284817,
+                    685.485281
+                ],
+                [
+                    731.9535619999999,
+                    702.411629
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gagner ces batailles d'image que sont devenues les élections, dérivent ainsi presque",
+            "points": [
+                [
+                    96.750801,
+                    704.154684
+                ],
+                [
+                    731.1472620000001,
+                    721.7976669999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "necessairement a droite. Ainsi au Quebec, le parti au pouvoir et l'opposition officielle ne",
+            "points": [
+                [
+                    96.600609,
+                    721.797667
+                ],
+                [
+                    731.147262,
+                    739.1724660000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sont-ils pas idéologiquement très éloignés ! Privé de revenus en provenance du monde",
+            "points": [
+                [
+                    97.411297,
+                    740.289234
+                ],
+                [
+                    730.542805,
+                    757.5591
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "économique, les partis politiques qui pourraient relayer les aspirations citoyennes",
+            "points": [
+                [
+                    95.109222,
+                    759.129065
+                ],
+                [
+                    731.2106070000001,
+                    777.580211
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "peinent de leur côté à se développer.",
+            "points": [
+                [
+                    95.501324,
+                    778.484399
+                ],
+                [
+                    366.440079,
+                    796.138371
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Tout cela nous impose de chercher de nouvelles voies pour nous faire entendre.",
+            "points": [
+                [
+                    94.557309,
+                    813.05676
+                ],
+                [
+                    676.668182,
+                    830.1165090000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Question à discuter",
+            "points": [
+                [
+                    96.074969,
+                    854.927418
+                ],
+                [
+                    277.752904,
+                    874.073411
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Une grève sociale déclenchée au moment opportun, de préférence",
+            "points": [
+                [
+                    95.039822,
+                    891.52687
+                ],
+                [
+                    734.400625,
+                    911.181451
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "avant le prochain budget du gouvernement Charest, serait-elle",
+            "points": [
+                [
+                    96.303835,
+                    913.36528
+                ],
+                [
+                    733.251487,
+                    933.307198
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "pertinente? Nous permettrait-elle d'augmenter la pression sur le",
+            "points": [
+                [
+                    95.671829,
+                    935.381755
+                ],
+                [
+                    732.676957,
+                    957.329438
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gouvernement au point de l'obliger à reculer, au moins sur une partie",
+            "points": [
+                [
+                    95.039822,
+                    957.616775
+                ],
+                [
+                    734.400625,
+                    978.1908569999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "des mesures annoncées lors du budget?",
+            "points": [
+                [
+                    96.935842,
+                    980.02986
+                ],
+                [
+                    474.70337,
+                    999.684441
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4",
+            "points": [
+                [
+                    409.66033,
+                    1056.529347
+                ],
+                [
+                    417.784038,
+                    1068.933527
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_THESIS_WXD_2025032400004.jpg",
+    "imageData": null,
+    "imageHeight": 1170,
+    "imageWidth": 827
+}

@@ -1,0 +1,342 @@
+[
+  {
+    "text": "RE-339",
+    "confidence": 0.998389720916748
+  },
+  {
+    "text": "RESEARCH DIVISION",
+    "confidence": 0.9917223453521729
+  },
+  {
+    "text": "P. LORILLARD CO.",
+    "confidence": 0.9587753415107727
+  },
+  {
+    "text": "DATE 11/2/61",
+    "confidence": 0.9734554886817932
+  },
+  {
+    "text": "SQC-21 (Revised 5/9/61)",
+    "confidence": 0.9497648477554321
+  },
+  {
+    "text": "6.0",
+    "confidence": 0.9997236132621765
+  },
+  {
+    "text": "Supplier",
+    "confidence": 0.9899872541427612
+  },
+  {
+    "text": "T.E",
+    "confidence": 0.8610758781433105
+  },
+  {
+    "text": "% Plasticizer",
+    "confidence": 0.9908884763717651
+  },
+  {
+    "text": "Firmness of Rod",
+    "confidence": 0.9617255926132202
+  },
+  {
+    "text": "Good",
+    "confidence": 0.9956637024879456
+  },
+  {
+    "text": "Bale No.",
+    "confidence": 0.9844658374786377
+  },
+  {
+    "text": "-",
+    "confidence": 0.33982065320014954
+  },
+  {
+    "text": "White",
+    "confidence": 0.9946942329406738
+  },
+  {
+    "text": "Quality of Bloom",
+    "confidence": 0.9911050796508789
+  },
+  {
+    "text": "Good",
+    "confidence": 0.8646497130393982
+  },
+  {
+    "text": "Color",
+    "confidence": 0.9929803609848022
+  },
+  {
+    "text": "Good",
+    "confidence": 0.9969698190689087
+  },
+  {
+    "text": "Total Denier as Marked 58,000",
+    "confidence": 0.9702292680740356
+  },
+  {
+    "text": "Width of Band",
+    "confidence": 0.9677109122276306
+  },
+  {
+    "text": "Ref. Paper",
+    "confidence": 0.9575055241584778
+  },
+  {
+    "text": "#450",
+    "confidence": 0.9955732822418213
+  },
+  {
+    "text": "Total Denier as Tested",
+    "confidence": 0.9820637106895447
+  },
+  {
+    "text": "-",
+    "confidence": 0.6018391251564026
+  },
+  {
+    "text": "% Moisture in Tow",
+    "confidence": 0.9726696014404297
+  },
+  {
+    "text": "-",
+    "confidence": 0.5201644897460938
+  },
+  {
+    "text": "Quan. of Trays Produced _3",
+    "confidence": 0.9246794581413269
+  },
+  {
+    "text": "Rods per Min.",
+    "confidence": 0.9842642545700073
+  },
+  {
+    "text": "1067",
+    "confidence": 0.9998437762260437
+  },
+  {
+    "text": "Maker No.",
+    "confidence": 0.9853931069374084
+  },
+  {
+    "text": "Research Division",
+    "confidence": 0.9932974576950073
+  },
+  {
+    "text": "Type of Rod",
+    "confidence": 0.9885295629501343
+  },
+  {
+    "text": "\"D\"",
+    "confidence": 0.8622906804084778
+  },
+  {
+    "text": "Tape Speed",
+    "confidence": 0.9779143333435059
+  },
+  {
+    "text": "400 F.P.M.",
+    "confidence": 0.9328347444534302
+  },
+  {
+    "text": "Length of Rod",
+    "confidence": 0.9422460198402405
+  },
+  {
+    "text": "120 mm.",
+    "confidence": 0.9318584203720093
+  },
+  {
+    "text": "F.P.M. Delivery Roller 337.5",
+    "confidence": 0.9473103284835815
+  },
+  {
+    "text": "24.7",
+    "confidence": 0.9996856451034546
+  },
+  {
+    "text": "F.P.M. No.1 Roller",
+    "confidence": 0.8949578404426575
+  },
+  {
+    "text": "477.5",
+    "confidence": 0.999748706817627
+  },
+  {
+    "text": "Circ. of Rod",
+    "confidence": 0.9544888138771057
+  },
+  {
+    "text": "0.12 (new scale)",
+    "confidence": 0.9683005809783936
+  },
+  {
+    "text": "F.P.M. No.2 Roller",
+    "confidence": 0.8919974565505981
+  },
+  {
+    "text": "362.5",
+    "confidence": 0.9995492696762085
+  },
+  {
+    "text": "Mean Draw of Rod",
+    "confidence": 0.9551882743835449
+  },
+  {
+    "text": "Dry Weight",
+    "confidence": 0.9664608240127563
+  },
+  {
+    "text": "86.9 gms.",
+    "confidence": 0.9707508087158203
+  },
+  {
+    "text": "Delivery Roller over Tape _.844",
+    "confidence": 0.9278902411460876
+  },
+  {
+    "text": "Dry Wt. With Adhesive 93.3 gms.",
+    "confidence": 0.9552019834518433
+  },
+  {
+    "text": "No. 1 Roller over Tape_ 1.194",
+    "confidence": 0.9389069080352783
+  },
+  {
+    "text": "Wet Weight",
+    "confidence": 0.992202639579773
+  },
+  {
+    "text": "99.2 gms.",
+    "confidence": 0.9875816702842712
+  },
+  {
+    "text": "Pump Press. Card Roller 12O psig",
+    "confidence": 0.945636510848999
+  },
+  {
+    "text": "99.2 gms.",
+    "confidence": 0.9213965535163879
+  },
+  {
+    "text": "Pressure on Air Jet",
+    "confidence": 0.9491304159164429
+  },
+  {
+    "text": "16 psig",
+    "confidence": 0.9923787713050842
+  },
+  {
+    "text": "Complete Weight",
+    "confidence": 0.9887072443962097
+  },
+  {
+    "text": "Remarks:",
+    "confidence": 0.9930227994918823
+  },
+  {
+    "text": "* Special Plasticizer - 1 part LG-168 - 15 parts Estrobond \"B\"",
+    "confidence": 0.935782253742218
+  },
+  {
+    "text": "Union Carbide LG-168 additive .38%.",
+    "confidence": 0.9651285409927368
+  },
+  {
+    "text": "Sample repeated as RE-341 because 2.1/58,000 tow was used",
+    "confidence": 0.953031599521637
+  },
+  {
+    "text": "instead of 2.1/42,000 tow.",
+    "confidence": 0.9660464525222778
+  },
+  {
+    "text": "Date Made 11/3/61 Tobacco Used SPRING",
+    "confidence": 0.9199446439743042
+  },
+  {
+    "text": "Length of Cigarettes 85",
+    "confidence": 0.9462776780128479
+  },
+  {
+    "text": "% Moisture in Tobacco",
+    "confidence": 0.9562680125236511
+  },
+  {
+    "text": "一",
+    "confidence": 0.3782203197479248
+  },
+  {
+    "text": "Wt. of Cigarettes/4 oz.",
+    "confidence": 0.9176555871963501
+  },
+  {
+    "text": "-",
+    "confidence": 0.2753003239631653
+  },
+  {
+    "text": "Type of Maker",
+    "confidence": 0.9821611046791077
+  },
+  {
+    "text": "AMF",
+    "confidence": 0.9919806122779846
+  },
+  {
+    "text": "Type of Tipper",
+    "confidence": 0.968453049659729
+  },
+  {
+    "text": "Hauni",
+    "confidence": 0.9947283864021301
+  },
+  {
+    "text": "Weight",
+    "confidence": 0.9868053793907166
+  },
+  {
+    "text": "Draw",
+    "confidence": 0.9944716095924377
+  },
+  {
+    "text": "Tars",
+    "confidence": 0.9983168840408325
+  },
+  {
+    "text": "Nicotine",
+    "confidence": 0.9947147369384766
+  },
+  {
+    "text": "Smoking Results:.922 1.059 .54 .20 20.2 7.6 62.4 1.07 .41 61.7",
+    "confidence": 0.9052340388298035
+  },
+  {
+    "text": "Production Supervised by: Wilhim&Roult DmllR Bllock",
+    "confidence": 0.782845675945282
+  },
+  {
+    "text": "Stn Berer",
+    "confidence": 0.617328941822052
+  },
+  {
+    "text": "Copies to: Dr. C. O. Jensen-",
+    "confidence": 0.8852009773254395
+  },
+  {
+    "text": "Mr. R. A. Wagner",
+    "confidence": 0.8699697852134705
+  },
+  {
+    "text": "Research Engineer",
+    "confidence": 0.9826419949531555
+  },
+  {
+    "text": "Mr. J. Berner",
+    "confidence": 0.9044574499130249
+  },
+  {
+    "text": "Dr.A. W. Spears",
+    "confidence": 0.907584011554718
+  }
+]

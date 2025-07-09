@@ -1,0 +1,698 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "La justice administrative Les décisions",
+            "points": [
+                [
+                    0.433152,
+                    85.89598
+                ],
+                [
+                    727.3029049999999,
+                    117.85818499999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Code",
+            "points": [
+                [
+                    5.470655,
+                    188.089338
+                ],
+                [
+                    38.917118,
+                    205.452351
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1969",
+            "points": [
+                [
+                    297.148698,
+                    182.890272
+                ],
+                [
+                    342.22188300000005,
+                    212.939062
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1970",
+            "points": [
+                [
+                    343.223508,
+                    182.389459
+                ],
+                [
+                    388.296693,
+                    212.93906199999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1971",
+            "points": [
+                [
+                    388.296693,
+                    181.888646
+                ],
+                [
+                    432.869064,
+                    212.43824899999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1972",
+            "points": [
+                [
+                    434.872317,
+                    182.890272
+                ],
+                [
+                    479.444688,
+                    212.939062
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1973",
+            "points": [
+                [
+                    479.945501,
+                    182.890272
+                ],
+                [
+                    525.018686,
+                    212.939062
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1974",
+            "points": [
+                [
+                    525.018686,
+                    182.890272
+                ],
+                [
+                    571.59431,
+                    213.94068800000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1975",
+            "points": [
+                [
+                    571.59431,
+                    182.890272
+                ],
+                [
+                    616.6674949999999,
+                    212.939062
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1976",
+            "points": [
+                [
+                    616.667494,
+                    182.389459
+                ],
+                [
+                    662.742305,
+                    213.43987499999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1977",
+            "points": [
+                [
+                    663.243118,
+                    182.890272
+                ],
+                [
+                    707.815489,
+                    212.939062
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1978",
+            "points": [
+                [
+                    707.314677,
+                    182.389459
+                ],
+                [
+                    753.3894879999999,
+                    212.43824899999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1979",
+            "points": [
+                [
+                    753.890301,
+                    182.389459
+                ],
+                [
+                    797.461046,
+                    212.93906199999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "G8",
+            "points": [
+                [
+                    11.577533,
+                    222.761964
+                ],
+                [
+                    39.169751,
+                    247.247773
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "G9",
+            "points": [
+                [
+                    9.392919,
+                    668.648319
+                ],
+                [
+                    42.925245,
+                    695.4908310000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "51",
+            "points": [
+                [
+                    788.362244,
+                    1150.134789
+                ],
+                [
+                    805.1956610000001,
+                    1164.3389809999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Activité du médiateur",
+            "points": [
+                [
+                    48.832115,
+                    673.444711
+                ],
+                [
+                    214.25160799999998,
+                    690.601723
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5 000",
+            "points": [
+                [
+                    259.946067,
+                    698.4107
+                ],
+                [
+                    294.11656300000004,
+                    710.470875
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "4 000",
+            "points": [
+                [
+                    259.343058,
+                    777.605849
+                ],
+                [
+                    293.11154799999997,
+                    791.274047
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "II",
+            "points": [
+                [
+                    743.842046,
+                    65.247729
+                ],
+                [
+                    801.853472,
+                    117.915998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Activité des tribunaux",
+            "points": [
+                [
+                    45.703534,
+                    221.226155
+                ],
+                [
+                    216.39078899999998,
+                    237.545783
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "administratifs",
+            "points": [
+                [
+                    45.435999,
+                    238.883458
+                ],
+                [
+                    149.774603,
+                    253.59787699999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "65 000",
+            "points": [
+                [
+                    252.30619,
+                    239.116715
+                ],
+                [
+                    289.217635,
+                    251.72508
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "55 000",
+            "points": [
+                [
+                    253.585299,
+                    320.248801
+                ],
+                [
+                    290.67947399999997,
+                    332.674436
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "45 000",
+            "points": [
+                [
+                    253.037109,
+                    398.822668
+                ],
+                [
+                    290.679473,
+                    412.34468200000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "35 000",
+            "points": [
+                [
+                    253.402569,
+                    477.944726
+                ],
+                [
+                    291.593123,
+                    492.01493
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "25 000",
+            "points": [
+                [
+                    253.950759,
+                    559.076812
+                ],
+                [
+                    291.410393,
+                    570.406067
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "15 000",
+            "points": [
+                [
+                    255.412598,
+                    638.381599
+                ],
+                [
+                    292.506773,
+                    649.710854
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Affaires anciennes",
+            "points": [
+                [
+                    92.053924,
+                    358.539209
+                ],
+                [
+                    200.940621,
+                    374.430781
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Affaires nouvelles",
+            "points": [
+                [
+                    92.053924,
+                    383.553721
+                ],
+                [
+                    199.763467,
+                    397.090986
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Affaires terminées",
+            "points": [
+                [
+                    93.525366,
+                    407.685367
+                ],
+                [
+                    201.529198,
+                    421.51691999999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Dossiers transmis",
+            "points": [
+                [
+                    92.407497,
+                    812.242039
+                ],
+                [
+                    195.349569,
+                    827.7804649999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "pendant l'année",
+            "points": [
+                [
+                    92.08378,
+                    827.456747
+                ],
+                [
+                    188.22779,
+                    840.729152
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Dossiers instruits",
+            "points": [
+                [
+                    91.760063,
+                    849.1458
+                ],
+                [
+                    196.320721,
+                    862.4182050000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "pendant l'année",
+            "points": [
+                [
+                    93.054931,
+                    863.06564
+                ],
+                [
+                    187.580355,
+                    875.690611
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Reclamations totalement",
+            "points": [
+                [
+                    92.731214,
+                    884.430976
+                ],
+                [
+                    239.051392,
+                    896.842162
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ou partiellement satisfaites",
+            "points": [
+                [
+                    94.10829,
+                    897.815016
+                ],
+                [
+                    249.81626699999998,
+                    911.9214010000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "3 000",
+            "points": [
+                [
+                    260.433266,
+                    856.71193
+                ],
+                [
+                    292.294238,
+                    871.0615280000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2 000",
+            "points": [
+                [
+                    259.946839,
+                    938.431676
+                ],
+                [
+                    294.726374,
+                    950.349139
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Dossiers à l'instruction",
+            "points": [
+                [
+                    93.216639,
+                    921.322149
+                ],
+                [
+                    226.785596,
+                    935.031573
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "en fin d'année",
+            "points": [
+                [
+                    92.041546,
+                    934.639875
+                ],
+                [
+                    178.21506699999998,
+                    947.957601
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1 000",
+            "points": [
+                [
+                    262.0384,
+                    1012.979439
+                ],
+                [
+                    292.59083000000004,
+                    1030.605841
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "0",
+            "points": [
+                [
+                    280.448197,
+                    1094.844283
+                ],
+                [
+                    296.899505,
+                    1110.9038939999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_TABLE_022849.jpg",
+    "imageData": null,
+    "imageHeight": 1193,
+    "imageWidth": 827
+}

@@ -1,0 +1,506 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "l'ouvrage Ulysse de James Joyce paru en 1922. Celui-ci se déroule le",
+            "points": [
+                [
+                    117.936176,
+                    100.912939
+                ],
+                [
+                    710.0126260000001,
+                    121.64598099999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Droits d'auteurs réservés.",
+            "points": [
+                [
+                    118.297032,
+                    1101.463074
+                ],
+                [
+                    291.868228,
+                    1114.155299
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sarah Debonnet | Master Publication numérique | Septembre 2017",
+            "points": [
+                [
+                    118.260677,
+                    1081.039543
+                ],
+                [
+                    570.156848,
+                    1097.3174190000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "de médium pour parvenir à ces différents buts.",
+            "points": [
+                [
+                    119.142252,
+                    977.321523
+                ],
+                [
+                    499.87611,
+                    996.4236139999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "présent inédite pour le cas du roman de Joyce. Le numérique sert alors",
+            "points": [
+                [
+                    118.472483,
+                    946.454002
+                ],
+                [
+                    709.729884,
+                    967.3621169999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "autre public, plus large, d'en proposer une approche originale et jusqu'à",
+            "points": [
+                [
+                    118.507093,
+                    916.751507
+                ],
+                [
+                    709.045578,
+                    936.610735
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "actuelle, celle de renouveler les classiques, de les rendre accessible à un",
+            "points": [
+                [
+                    116.791287,
+                    886.816409
+                ],
+                [
+                    709.474511,
+                    907.318965
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "notre réflexion. En effet, peut-être est-elle le témoin d'une dynamique",
+            "points": [
+                [
+                    117.690682,
+                    857.317734
+                ],
+                [
+                    709.455906,
+                    876.9833699999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nos exemples mais cette production peut servir de point de départ à",
+            "points": [
+                [
+                    118.28341,
+                    825.561582
+                ],
+                [
+                    709.487601,
+                    846.162314
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cours de développement. Nous ne pousserons pas autant à l'extrême",
+            "points": [
+                [
+                    118.596647,
+                    795.692053
+                ],
+                [
+                    709.539272,
+                    816.591828
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "classique littéraire, le plus récent aussi, puisque le projet est toujours en",
+            "points": [
+                [
+                    118.350477,
+                    767.145243
+                ],
+                [
+                    709.6166579999999,
+                    785.90989
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Cet exemple est peut-être le plus « extrême » cas de transposition d'un",
+            "points": [
+                [
+                    118.497386,
+                    736.225119
+                ],
+                [
+                    709.182451,
+                    755.91262
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "de la forme si particulière de ce récit.",
+            "points": [
+                [
+                    118.138665,
+                    674.579881
+                ],
+                [
+                    418.56222,
+                    695.034149
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nouveau mode de narration: le jeu se veut être une approche nouvelle",
+            "points": [
+                [
+                    118.085742,
+                    644.868152
+                ],
+                [
+                    709.0586509999999,
+                    665.724566
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "vidéos, lecture, musique... Tous ceux-ci sont utilisés comme un",
+            "points": [
+                [
+                    117.796942,
+                    614.579351
+                ],
+                [
+                    708.7243129999999,
+                    635.6995969999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nombreux enrichissements: interactivité, bien sûr, mais aussi audios,",
+            "points": [
+                [
+                    118.218685,
+                    584.377515
+                ],
+                [
+                    707.8202229999999,
+                    603.847437
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "comme un personnage à part entière du roman. Le jeu contient de",
+            "points": [
+                [
+                    118.068257,
+                    554.241376
+                ],
+                [
+                    709.459375,
+                    574.817381
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Cela est rendu possible par le fait que Dublin peut être considérée",
+            "points": [
+                [
+                    118.32732,
+                    523.044008
+                ],
+                [
+                    708.408992,
+                    543.926298
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "l'utilisateur peut cliquer et alors avoir accès à des extraits de l'ouvrage.",
+            "points": [
+                [
+                    117.945863,
+                    494.214024
+                ],
+                [
+                    708.4943850000001,
+                    513.517189
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "roman, dans lesquels sont glissés des objets et détails sur lequel",
+            "points": [
+                [
+                    118.712006,
+                    464.343457
+                ],
+                [
+                    709.647053,
+                    485.097833
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fait d'une exploration de Dublin, à travers les lieux présents dans le",
+            "points": [
+                [
+                    117.321973,
+                    433.186854
+                ],
+                [
+                    708.5527659999999,
+                    452.860908
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ce grand classique, dont la lecture se révèle assez complexe. Il s'agit en",
+            "points": [
+                [
+                    118.081366,
+                    402.540956
+                ],
+                [
+                    708.408567,
+                    423.78769
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "concrètement transposé? Le postulat de départ est de rendre accessible",
+            "points": [
+                [
+                    118.75522,
+                    373.560389
+                ],
+                [
+                    708.799115,
+                    392.966585
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "consciousness (flux de conscience). Comment le contenu du livre est-il",
+            "points": [
+                [
+                    118.093043,
+                    342.348449
+                ],
+                [
+                    710.213166,
+                    360.995723
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sont eux-mêmes, à l'écrit, ces monologues issus d'un stream of",
+            "points": [
+                [
+                    118.288743,
+                    311.84355
+                ],
+                [
+                    711.4956099999999,
+                    332.507422
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "virtuelle. Cette technologie est on ne peut plus immersive, comme le",
+            "points": [
+                [
+                    116.917393,
+                    282.001842
+                ],
+                [
+                    709.5424270000001,
+                    302.869135
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "intérieurs, a donné l'idée aux concepteurs de l'adapter en réalité",
+            "points": [
+                [
+                    117.875859,
+                    250.99538
+                ],
+                [
+                    709.096459,
+                    271.322689
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Le mode de narration même, une longue suite de monologues",
+            "points": [
+                [
+                    118.014858,
+                    222.495836
+                ],
+                [
+                    709.269481,
+                    242.559915
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "trouve en fait incarner une transposition moderne de l'Ulysse antique.",
+            "points": [
+                [
+                    118.330054,
+                    191.179753
+                ],
+                [
+                    709.620635,
+                    210.903685
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "quotidien d'un protagoniste, Leopold Bloom, petit employé. Celui-ci se",
+            "points": [
+                [
+                    118.46936,
+                    161.458507
+                ],
+                [
+                    709.1523299999999,
+                    181.020394
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "temps d'une unique journée à Dublin, le 16 juin 1904, et dépeint le",
+            "points": [
+                [
+                    118.032207,
+                    130.750402
+                ],
+                [
+                    709.5624379999999,
+                    150.96696300000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_THESIS_WXD_2025032400010.jpg",
+    "imageData": null,
+    "imageHeight": 1171,
+    "imageWidth": 828
+}

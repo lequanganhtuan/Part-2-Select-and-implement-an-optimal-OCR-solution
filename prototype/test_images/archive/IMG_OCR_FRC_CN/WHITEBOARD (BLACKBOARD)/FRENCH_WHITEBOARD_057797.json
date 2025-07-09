@@ -1,0 +1,266 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "AiNou : isolat linguistique",
+            "points": [
+                [
+                    195.151274,
+                    36.658872
+                ],
+                [
+                    854.578712,
+                    136.01047499999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- 1799 : Russie arrive → contrôle",
+            "points": [
+                [
+                    48.374413,
+                    363.586905
+                ],
+                [
+                    817.819455,
+                    335.493341
+                ],
+                [
+                    822.398356,
+                    395.804523
+                ],
+                [
+                    50.72205,
+                    453.512491
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "gouvernem+_ jap.",
+            "points": [
+                [
+                    584.692286,
+                    413.455662
+                ],
+                [
+                    882.296543,
+                    388.320146
+                ],
+                [
+                    892.2962,
+                    499.149688
+                ],
+                [
+                    543.974785,
+                    470.817324
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "- 1899 : Loi Protection Aborigènes",
+            "points": [
+                [
+                    32.996495,
+                    469.987859
+                ],
+                [
+                    781.801696,
+                    490.162097
+                ],
+                [
+                    803.599164,
+                    543.800376
+                ],
+                [
+                    60.087959,
+                    552.676191
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Hokkaido  → assimilation",
+            "points": [
+                [
+                    231.244857,
+                    542.449546
+                ],
+                [
+                    860.120841,
+                    544.667803
+                ],
+                [
+                    865.666484,
+                    611.215526
+                ],
+                [
+                    202.407511,
+                    623.415942
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Culture Ainove",
+            "points": [
+                [
+                    299.377862,
+                    765.192414
+                ],
+                [
+                    671.080942,
+                    852.206992
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": " →  le grammaire en 1931 : Kinda-",
+            "points": [
+                [
+                    111.961979,
+                    631.323962
+                ],
+                [
+                    897.886674,
+                    616.494979
+                ],
+                [
+                    904.596902,
+                    680.913175
+                ],
+                [
+                    107.150433,
+                    678.868321
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "- 1997 : Loi de Promotion de -ichi ",
+            "points": [
+                [
+                    83.514896,
+                    689.891381
+                ],
+                [
+                    903.285973,
+                    668.328255
+                ],
+                [
+                    856.605518,
+                    763.519083
+                ],
+                [
+                    91.881703,
+                    741.765477
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "- 2008 : Ainous reconnus population",
+            "points": [
+                [
+                    108.615241,
+                    870.61386
+                ],
+                [
+                    905.938948,
+                    905.034815
+                ],
+                [
+                    900.112884,
+                    1022.889333
+                ],
+                [
+                    105.26858,
+                    971.015237
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "indigène Hokkaido",
+            "points": [
+                [
+                    329.498276,
+                    1007.829127
+                ],
+                [
+                    710.477378,
+                    999.395341
+                ],
+                [
+                    726.104818,
+                    1091.579174
+                ],
+                [
+                    324.478207,
+                    1108.230504
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "1604: Matsumae Cclan,",
+            "points": [
+                [
+                    21.600738,
+                    186.211164
+                ],
+                [
+                    620.662276,
+                    263.185528
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ainous ne peuvent apprendre jp.)",
+            "points": [
+                [
+                    214.036689,
+                    266.532266
+                ],
+                [
+                    884.215896,
+                    323.426354
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_WHITEBOARD_057797.jpg",
+    "imageData": null,
+    "imageHeight": 1184,
+    "imageWidth": 910
+}

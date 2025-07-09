@@ -1,0 +1,202 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "PARTICULES DANS",
+            "points": [
+                [
+                    214.890756,
+                    37.530012
+                ],
+                [
+                    857.147659,
+                    145.573229
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "LA SEQUENCE",
+            "points": [
+                [
+                    142.861945,
+                    151.57563
+                ],
+                [
+                    762.609844,
+                    219.102641
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NOM PARTICULE NOM",
+            "points": [
+                [
+                    204.386555,
+                    225.105042
+                ],
+                [
+                    936.679472,
+                    304.63685399999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "-COORDINATION:",
+            "points": [
+                [
+                    57.327731,
+                    325.645258
+                ],
+                [
+                    566.031212,
+                    433.68847500000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- EXHAUSTIVE NCN/27/ です",
+            "points": [
+                [
+                    360.44898,
+                    522.22389
+                ],
+                [
+                    969.692677,
+                    588.250301
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- NON-EXHAUSTIVE: NXN",
+            "points": [
+                [
+                    352.945978,
+                    594.252701
+                ],
+                [
+                    915.6710680000001,
+                    663.796687
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "•ALTERNATIVE (など)/P/",
+            "points": [
+                [
+                    226.895558,
+                    676.273312
+                ],
+                [
+                    960.689075,
+                    759.3187270000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    477.495798,
+                    762.319928
+                ],
+                [
+                    968.1920769999999,
+                    847.854142
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ENUMERATION: Part",
+            "points": [
+                [
+                    210.962887,
+                    453.962808
+                ],
+                [
+                    974.304445,
+                    514.0773389999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "- DETERMINATION; le X de Y",
+            "points": [
+                [
+                    42.321729,
+                    847.854142
+                ],
+                [
+                    860.148859,
+                    948.394358
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "#ELLIPTIQUE #",
+            "points": [
+                [
+                    201.385354,
+                    952.896158
+                ],
+                [
+                    819.632653,
+                    1029.426771
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "-9 PALLIATIF",
+            "points": [
+                [
+                    201.385354,
+                    1035.429172
+                ],
+                [
+                    705.587035,
+                    1147.9741900000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_WHITEBOARD_057798.jpg",
+    "imageData": null,
+    "imageHeight": 1175,
+    "imageWidth": 976
+}

@@ -1,0 +1,58 @@
+acute toxicity
+mice
+3-Hydroxy-3-methylbutanoic acid
+Tur 13
+Lorillard
+organic chemistry
+OR39-23
+H S Tong
+M S Forte
+Swiss-Webster
+male
+Camm Research
+P.O.
+I.P.
+I.V.
+inhalation
+5% methylcellulose
+corn oil
+saline solution
+dosage
+dead
+tested
+Litchfield
+Wilcox
+Pharmacological Exper Ther
+1948
+LD50
+confidence limits
+CNS depressant
+respiratory depression
+blood vessels
+survivors
+recovery
+hours
+recommended
+safe dose
+inhalation
+mg
+Dr J Minnemeyer
+Ms B Gray
+research center
+form
+document
+report
+investigation
+notebook
+page
+signature
+experiment
+group
+weight
+administration
+vehicle
+reference
+calculation
+conclusion
+trial
+copies

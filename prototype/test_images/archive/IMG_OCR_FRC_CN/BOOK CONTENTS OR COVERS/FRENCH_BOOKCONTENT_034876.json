@@ -1,0 +1,458 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Notre-Dame de Paris",
+            "points": [
+                [
+                    189.233701,
+                    130.953263
+                ],
+                [
+                    418.887132,
+                    152.083928
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Chapitre IV",
+            "points": [
+                [
+                    942.69101,
+                    131.527516
+                ],
+                [
+                    1070.881754,
+                    156.90293599999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "poing. C'était une escouade de l'ordonnance du roi qui faisait le contre-",
+            "points": [
+                [
+                    186.989464,
+                    285.281526
+                ],
+                [
+                    1069.618329,
+                    319.019537
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "guet, par ordre de messire Robert d'Estouteville, garde de la prévôté de",
+            "points": [
+                [
+                    187.87076,
+                    321.343522
+                ],
+                [
+                    1070.100368,
+                    354.28015700000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Paris.",
+            "points": [
+                [
+                    188.559401,
+                    361.209403
+                ],
+                [
+                    254.446781,
+                    382.117486
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Quasimodo fut enveloppé, saisi, garrotté. Il rugissait, il écumait, il",
+            "points": [
+                [
+                    234.57943,
+                    393.467515
+                ],
+                [
+                    1070.635303,
+                    426.564431
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "mordait, et, s'il eût fait grand jour, nul doute que son visage seul, rendu",
+            "points": [
+                [
+                    188.349559,
+                    429.529538
+                ],
+                [
+                    1070.927448,
+                    460.943536
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "plus hideux encore par la colère, n'eût mis en fuite toute l'escouade. Mais",
+            "points": [
+                [
+                    188.752055,
+                    467.99566
+                ],
+                [
+                    1070.138119,
+                    497.96718799999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "la nuit il était désarmé de son arme la plus redoutable, de sa laideur.",
+            "points": [
+                [
+                    187.87076,
+                    502.454879
+                ],
+                [
+                    1013.335419,
+                    529.701747
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Son compagnon avait disparu dans la lutte.",
+            "points": [
+                [
+                    232.816839,
+                    539.31825
+                ],
+                [
+                    757.74858,
+                    570.2514600000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "La bohémienne se dressa gracieusement sur la selle de l'officier, elle",
+            "points": [
+                [
+                    233.331923,
+                    573.213293
+                ],
+                [
+                    1071.278852,
+                    603.5374350000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "appuya ses deux mains sur les deux épaules du jeune homme, et le regarda",
+            "points": [
+                [
+                    188.52986,
+                    611.118463
+                ],
+                [
+                    1071.059359,
+                    641.354451
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fixement quelques secondes, comme ravie de sa bonne mine et du bon",
+            "points": [
+                [
+                    187.560435,
+                    646.379065
+                ],
+                [
+                    1071.059359,
+                    677.232133
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "secours qu'il venait de lui porter. Puis, rompant le silence la première,",
+            "points": [
+                [
+                    187.560435,
+                    683.402723
+                ],
+                [
+                    1068.41545,
+                    712.1401480000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "elle lui dit, en faisant plus douce encore sa douce voix:",
+            "points": [
+                [
+                    188.52986,
+                    718.588664
+                ],
+                [
+                    853.442652,
+                    745.453254
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Comment vous appelez-vous, monsieur le gendarme?",
+            "points": [
+                [
+                    265.025128,
+                    754.409547
+                ],
+                [
+                    919.22906,
+                    783.079677
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Le capitaine Phoebus de Châteaupers, pour vous servir, ma belle!",
+            "points": [
+                [
+                    265.025128,
+                    787.637106
+                ],
+                [
+                    1069.401224,
+                    820.195976
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "répondit l'officier en se redressant.",
+            "points": [
+                [
+                    188.246648,
+                    827.393448
+                ],
+                [
+                    610.722109,
+                    856.677408
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Merci, dit-elle.",
+            "points": [
+                [
+                    264.584705,
+                    860.362142
+                ],
+                [
+                    439.23364,
+                    887.609788
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Et, pendant que le capitaine Phoebus retroussait sa moustache à la",
+            "points": [
+                [
+                    232.458902,
+                    897.348648
+                ],
+                [
+                    1070.7789500000001,
+                    926.859383
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "bourguignonne, elle se laissa glisser à bas du cheval, comme une flèche",
+            "points": [
+                [
+                    188.506932,
+                    933.538352
+                ],
+                [
+                    1070.1412930000001,
+                    962.2741540000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "qui tombe à terre, et s'enfuit.",
+            "points": [
+                [
+                    189.313016,
+                    968.964833
+                ],
+                [
+                    539.127334,
+                    1000.67297
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Un éclair se fût évanoui moins vite.",
+            "points": [
+                [
+                    233.034095,
+                    1004.842535
+                ],
+                [
+                    663.997807,
+                    1032.671983
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nombril du pape! dit le capitaine en faisant resserrer les courroies",
+            "points": [
+                [
+                    263.813103,
+                    1041.903734
+                ],
+                [
+                    1069.940351,
+                    1071.284664
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "de Quasimodo, j'eusse aimé mieux garder la ribaude.",
+            "points": [
+                [
+                    189.961682,
+                    1076.597875
+                ],
+                [
+                    829.056671,
+                    1108.4029819999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Que voulez-vous, capitaine? dit un gendarme, la fauvette s'est en-",
+            "points": [
+                [
+                    265.025128,
+                    1113.835284
+                ],
+                [
+                    1069.260249,
+                    1142.579014
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "volée, la chauve-souris est restée.",
+            "points": [
+                [
+                    188.19411,
+                    1149.020757
+                ],
+                [
+                    593.503723,
+                    1175.532935
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "82",
+            "points": [
+                [
+                    616.667126,
+                    1675.127365
+                ],
+                [
+                    643.0487810000001,
+                    1694.968903
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_BOOKCONTENT_034876.jpg",
+    "imageData": null,
+    "imageHeight": 1786,
+    "imageWidth": 1259
+}

@@ -1,0 +1,362 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "(suite)",
+            "points": [
+                [
+                    688.491735,
+                    99.23321
+                ],
+                [
+                    729.9351819999999,
+                    115.933542
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "La grève sociale est-elle faisable",
+            "points": [
+                [
+                    225.058219,
+                    135.195748
+                ],
+                [
+                    605.347129,
+                    164.358323
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "dans le contexte actuel ?",
+            "points": [
+                [
+                    266.972562,
+                    165.802
+                ],
+                [
+                    558.5831989999999,
+                    189.767292
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Un certain nombre de conditions doit être rassemblé pour qu'une grève sociale telle que",
+            "points": [
+                [
+                    96.689192,
+                    208.273204
+                ],
+                [
+                    732.563251,
+                    226.636977
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "définie précédemment puisse avoir lieu et être un succès.",
+            "points": [
+                [
+                    96.054126,
+                    229.062375
+                ],
+                [
+                    510.290218,
+                    246.328928
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Il faut avoir obtenu l'adhésion du plus grand nombre de groupes de tous les",
+            "points": [
+                [
+                    144.198413,
+                    263.207935
+                ],
+                [
+                    731.5507399999999,
+                    280.961773
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "secteurs, y compris de mouvements syndicaux. Dans le cas de ces derniers, la",
+            "points": [
+                [
+                    144.72326,
+                    282.298076
+                ],
+                [
+                    731.073622,
+                    298.286071
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "participation du secteur public est primordiale pour avoir un effet d'entraînement",
+            "points": [
+                [
+                    145.248108,
+                    299.95646
+                ],
+                [
+                    731.550739,
+                    317.185304
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sur le privé. La grève sociale est par ailleurs impossible sans l'adhésion d'au",
+            "points": [
+                [
+                    144.72326,
+                    318.092065
+                ],
+                [
+                    731.073622,
+                    337.659473
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "moins une partie des centrales syndicales.",
+            "points": [
+                [
+                    144.198413,
+                    337.182206
+                ],
+                [
+                    452.427185,
+                    355.50875
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "La colère doit être suffisamment grande pour justifier les risques qui seront pris.",
+            "points": [
+                [
+                    143.558471,
+                    372.827358
+                ],
+                [
+                    730.0996929999999,
+                    389.769873
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Le gouvernement ou certaines des mesures qu'il entend prendre doivent être",
+            "points": [
+                [
+                    145.133014,
+                    391.440263
+                ],
+                [
+                    730.576809,
+                    409.19408500000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "considérés comme illégitimes par de larges segments de la population.",
+            "points": [
+                [
+                    145.657862,
+                    409.098631
+                ],
+                [
+                    655.18959,
+                    426.51838200000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Les moyens traditionnels de lutte doivent avoir montré leurs limites; la grève",
+            "points": [
+                [
+                    145.464088,
+                    444.416339
+                ],
+                [
+                    730.860216,
+                    462.55197599999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sociale doit venir au terme d'un crescendo d'actions, ou apparaître comme",
+            "points": [
+                [
+                    145.464088,
+                    463.029211
+                ],
+                [
+                    728.9516209999999,
+                    481.45120799999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "justifiée par une rupture démocratique.",
+            "points": [
+                [
+                    143.889545,
+                    484.02836
+                ],
+                [
+                    425.017093,
+                    501.925379
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Question à discuter",
+            "points": [
+                [
+                    96.870936,
+                    557.318039
+                ],
+                [
+                    276.89302299999997,
+                    576.184211
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Estimons-nous que les conditions énoncées précédemment doivent",
+            "points": [
+                [
+                    97.023352,
+                    595.697141
+                ],
+                [
+                    733.3592910000001,
+                    613.598918
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "toutes être rassemblées pour qu'une grève sociale soit considérée",
+            "points": [
+                [
+                    97.658417,
+                    618.218717
+                ],
+                [
+                    733.35929,
+                    636.466991
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "comme faisable? Sont-elles effectivement rassemblées dans le",
+            "points": [
+                [
+                    97.658417,
+                    637.852938
+                ],
+                [
+                    730.472578,
+                    658.699839
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "contexte actuel ? Sinon peuvent-elles être rassemblées dans un",
+            "points": [
+                [
+                    97.023352,
+                    663.839363
+                ],
+                [
+                    731.627279,
+                    680.2974630000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "avenir rapproché ?",
+            "points": [
+                [
+                    97.658417,
+                    682.318596
+                ],
+                [
+                    269.761251,
+                    703.80076
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_THESIS_WXD_2025032400005.jpg",
+    "imageData": null,
+    "imageHeight": 1170,
+    "imageWidth": 827
+}

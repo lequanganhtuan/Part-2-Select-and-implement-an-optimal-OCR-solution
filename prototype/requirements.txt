@@ -1,0 +1,5 @@
+paddleocr
+paddlepaddle>=2.4.0
+opencv-python
+numpy
+matplotlib

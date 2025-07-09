@@ -1,0 +1,234 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Sistache",
+            "points": [
+                [
+                    515.534729,
+                    905.130041
+                ],
+                [
+                    727.0150759999999,
+                    956.279114
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Fruit des lois",
+            "points": [
+                [
+                    451.489044,
+                    860.280396
+                ],
+                [
+                    751.512207,
+                    912.523133
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Citron",
+            "points": [
+                [
+                    516.768799,
+                    774.085205
+                ],
+                [
+                    680.915222,
+                    812.80896
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Che vert",
+            "points": [
+                [
+                    514.698486,
+                    957.384825
+                ],
+                [
+                    714.671142,
+                    1005.449524
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Caramel",
+            "points": [
+                [
+                    503.928131,
+                    1060.372437
+                ],
+                [
+                    695.123962,
+                    1096.8513189999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Vanille",
+            "points": [
+                [
+                    524.128113,
+                    1007.099609
+                ],
+                [
+                    690.482483,
+                    1046.969482
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Praliné",
+            "points": [
+                [
+                    480.083405,
+                    722.238328
+                ],
+                [
+                    680.8989260000001,
+                    773.3427740000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Chocolat",
+            "points": [
+                [
+                    477.983048,
+                    668.608439
+                ],
+                [
+                    693.068009,
+                    725.9994919999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Orange",
+            "points": [
+                [
+                    509.414703,
+                    821.007507
+                ],
+                [
+                    690.111816,
+                    859.636352
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Cafe",
+            "points": [
+                [
+                    520.092468,
+                    612.420349
+                ],
+                [
+                    648.6716920000001,
+                    665.3065789999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Choux à la crème",
+            "points": [
+                [
+                    308.511653,
+                    113.647852
+                ],
+                [
+                    882.868032,
+                    230.92480899999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "la boite de 6 990 €",
+            "points": [
+                [
+                    352.114624,
+                    267.010026
+                ],
+                [
+                    914.442597,
+                    352.71241799999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "la boite de 12 1980€",
+            "points": [
+                [
+                    343.09332,
+                    384.286983
+                ],
+                [
+                    915.946148,
+                    474.50002700000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "le chou 190",
+            "points": [
+                [
+                    353.618175,
+                    491.039085
+                ],
+                [
+                    896.399989,
+                    564.713071
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_WHITEBOARD_057799.jpg",
+    "imageData": null,
+    "imageHeight": 1567,
+    "imageWidth": 1045
+}

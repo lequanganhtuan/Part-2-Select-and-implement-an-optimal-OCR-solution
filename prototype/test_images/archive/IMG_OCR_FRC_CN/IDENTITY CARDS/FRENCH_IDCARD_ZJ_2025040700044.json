@@ -1,0 +1,266 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "R E P U B L I Q U E F R A N Ç A I S E",
+            "points": [
+                [
+                    83.03706,
+                    31.887143
+                ],
+                [
+                    750.814334,
+                    61.214685
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CARTE NATIONALE D'IDENTITÉ",
+            "points": [
+                [
+                    75.711546,
+                    74.527442
+                ],
+                [
+                    327.42852500000004,
+                    96.302267
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "N° : 110671500522",
+            "points": [
+                [
+                    330.041505,
+                    75.398435
+                ],
+                [
+                    531.24089,
+                    96.302267
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nationalité Française",
+            "points": [
+                [
+                    587.855435,
+                    80.624393
+                ],
+                [
+                    741.150204,
+                    103.27021099999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "SP",
+            "points": [
+                [
+                    248.168162,
+                    105.012197
+                ],
+                [
+                    270.81398,
+                    132.883973
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nom : SILVA",
+            "points": [
+                [
+                    279.52391,
+                    111.109148
+                ],
+                [
+                    410.172861,
+                    131.141987
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Prénom(s) : PIERRETA",
+            "points": [
+                [
+                    280.91318,
+                    166.276183
+                ],
+                [
+                    497.51625,
+                    186.562271
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sexe : F",
+            "points": [
+                [
+                    278.95001,
+                    221.899328
+                ],
+                [
+                    360.09436200000005,
+                    240.22224599999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Né(e) le : 20.11.1997",
+            "points": [
+                [
+                    470.031872,
+                    219.936158
+                ],
+                [
+                    678.127872,
+                    241.531026
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "a : STRASBOURG",
+            "points": [
+                [
+                    280.25879,
+                    245.457366
+                ],
+                [
+                    469.377482,
+                    267.052234
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    281.610835,
+                    273.039091
+                ],
+                [
+                    413.09994800000004,
+                    293.590179
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Signature",
+            "points": [
+                [
+                    277.901136,
+                    303.360065
+                ],
+                [
+                    353.155979,
+                    321.028593
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "du titulaire :",
+            "points": [
+                [
+                    279.864306,
+                    324.954933
+                ],
+                [
+                    376.059627,
+                    345.241021
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "I D F R A SIL V A<<<<<<<<<<<<<<<<<<<<<7 1 5 5 6 4",
+            "points": [
+                [
+                    89.556709,
+                    414.048224
+                ],
+                [
+                    746.285437,
+                    436.694042
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1 1 0 6 7 1 5 0 0 5 2 2 2 PIERRETA<<<<<<<971120222M9",
+            "points": [
+                [
+                    88.685716,
+                    456.726881
+                ],
+                [
+                    742.801465,
+                    483.727664
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    478.565798,
+                    306.281486
+                ],
+                [
+                    727.809838,
+                    382.85390399999994
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_IDCARD_ZJ_2025040700044.jpg",
+    "imageData": null,
+    "imageHeight": 601,
+    "imageWidth": 800
+}

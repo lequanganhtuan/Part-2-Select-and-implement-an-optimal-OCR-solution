@@ -1,0 +1,602 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Notre-Dame de Paris Chapitre I",
+            "points": [
+                [
+                    184.367273,
+                    127.185879
+                ],
+                [
+                    1079.932666,
+                    158.633645
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "médecin du roi Louis XI, pour qu'il le reçût ainsi accompagné. Aussi sa",
+            "points": [
+                [
+                    183.944542,
+                    279.811513
+                ],
+                [
+                    1078.523588,
+                    319.538903
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "mine n'eut-elle rien de bien cordial quand Jacques Coictier lui dit :",
+            "points": [
+                [
+                    183.202934,
+                    323.623037
+                ],
+                [
+                    1001.58052,
+                    353.88268500000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "–– A propos, dom Claude, je vous amène un confrère qui vous a voulu",
+            "points": [
+                [
+                    229.924984,
+                    360.008879
+                ],
+                [
+                    1081.304663,
+                    391.011098
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "voir sur votre renommée.",
+            "points": [
+                [
+                    186.911033,
+                    396.394734
+                ],
+                [
+                    503.768139,
+                    422.57024800000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "–– Monsieur est de la science? demanda l'archidiacre en fixant sur",
+            "points": [
+                [
+                    224.733639,
+                    428.325164
+                ],
+                [
+                    1072.961439,
+                    459.69866099999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "le compagnon de Coictier son œil pénétrant. Il ne trouva pas sous les",
+            "points": [
+                [
+                    186.911033,
+                    465.453576
+                ],
+                [
+                    1073.888463,
+                    497.755284
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sourcils de l'inconnu un regard moins perçant et moins défiant que le",
+            "points": [
+                [
+                    183.202934,
+                    501.839404
+                ],
+                [
+                    1074.815489,
+                    533.027276
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sien.",
+            "points": [
+                [
+                    182.461297,
+                    540.452959
+                ],
+                [
+                    254.398436,
+                    564.586427
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "C'était, autant que la faible clarté de la lampe permettait d'en juger, un",
+            "points": [
+                [
+                    229.183375,
+                    570.155689
+                ],
+                [
+                    1075.742513,
+                    605.427681
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "vieillard d'environ soixante ans et de moyenne taille, qui paraissait assez",
+            "points": [
+                [
+                    186.169396,
+                    610.254386
+                ],
+                [
+                    1072.961438,
+                    641.627883
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "malade et cassé. Son profil, quoique d'une ligne très bourgeoise, avait",
+            "points": [
+                [
+                    184.686179,
+                    644.412514
+                ],
+                [
+                    1073.888463,
+                    676.899875
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "quelque chose de puissant et de sévère ; sa prunelle étincelait sous une",
+            "points": [
+                [
+                    188.959359,
+                    682.998296
+                ],
+                [
+                    1072.186051,
+                    711.7505199999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "arcade sourcilière très profonde, comme une lumière au fond d'un antre ;",
+            "points": [
+                [
+                    185.369905,
+                    718.04008
+                ],
+                [
+                    1075.551151,
+                    748.813958
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "et, sous le bonnet rabattu qui lui tombait sur le nez, on sentait tourner les",
+            "points": [
+                [
+                    188.062013,
+                    752.183362
+                ],
+                [
+                    1083.403053,
+                    784.754262
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "larges plans d'un front de génie.",
+            "points": [
+                [
+                    184.472559,
+                    787.225154
+                ],
+                [
+                    585.3681859999999,
+                    819.571431
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Il se chargea de répondre lui-même à la question de l'archidiacre.",
+            "points": [
+                [
+                    229.340565,
+                    824.962514
+                ],
+                [
+                    1032.926546,
+                    856.6348690000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "–– Révérend maître, dit-il d'un ton grave, votre renom est venu jusqu'à",
+            "points": [
+                [
+                    226.648491,
+                    860.004272
+                ],
+                [
+                    1080.037952,
+                    892.5751720000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "moi, et j'ai voulu vous consulter. Je ne suis qu'un pauvre gentilhomme de",
+            "points": [
+                [
+                    179.088412,
+                    897.741598
+                ],
+                [
+                    1080.037953,
+                    928.5154759999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "province qui ôte ses souliers avant d'entrer chez les savants. Il faut que",
+            "points": [
+                [
+                    180.527145,
+                    933.221513
+                ],
+                [
+                    1073.9937499999999,
+                    963.6668
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "vous sachiez mon nom. Je m'appelle le compère Tourangeau.",
+            "points": [
+                [
+                    185.71849,
+                    967.379642
+                ],
+                [
+                    936.7940619999999,
+                    999.867003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "–– Singulier nom pour un gentilhomme ! pensa l'archidiacre. Cepen-",
+            "points": [
+                [
+                    230.957295,
+                    1003.765497
+                ],
+                [
+                    1078.628874,
+                    1035.138994
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "dant il se sentait devant quelque chose de fort et de sérieux. L'instinct",
+            "points": [
+                [
+                    184.235245,
+                    1039.408768
+                ],
+                [
+                    1083.263999,
+                    1071.339197
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "de sa haute intelligence lui en faisait deviner une non moins haute sous",
+            "points": [
+                [
+                    182.751999,
+                    1075.794624
+                ],
+                [
+                    1077.701849,
+                    1107.5394000000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "le bonnet fourré du compère Tourangeau ; et en considérant cette grave",
+            "points": [
+                [
+                    184.976854,
+                    1110.695309
+                ],
+                [
+                    1074.920775,
+                    1143.7396019999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "figure, le rictus ironique que la présence de Jacques Coictier avait fait",
+            "points": [
+                [
+                    187.943345,
+                    1147.081193
+                ],
+                [
+                    1073.9937499999999,
+                    1179.939804
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "éclore sur son visage morose s'évanouit peu à peu, comme le crépuscule",
+            "points": [
+                [
+                    185.71849,
+                    1183.466992
+                ],
+                [
+                    1076.774824,
+                    1215.2117959999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "à un horizon de nuit. Il s'était rassis morne et silencieux sur son grand",
+            "points": [
+                [
+                    185.71849,
+                    1219.852848
+                ],
+                [
+                    1079.555899,
+                    1251.411999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fauteuil, son coude avait repris sa place accoutumée sur la table, et son",
+            "points": [
+                [
+                    185.500729,
+                    1255.093315
+                ],
+                [
+                    1074.7030300000001,
+                    1286.336865
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "front sur sa main. Après quelques moments de méditation, il fit signe aux",
+            "points": [
+                [
+                    183.05339,
+                    1291.033615
+                ],
+                [
+                    1074.703031,
+                    1323.093993
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "deux visiteurs de s'asseoir, et adressa la parole au compère Tourangeau.",
+            "points": [
+                [
+                    184.68496,
+                    1327.790744
+                ],
+                [
+                    1074.703031,
+                    1358.8300909999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "–– Vous venez me consulter, maître, et sur quelle science?",
+            "points": [
+                [
+                    229.552966,
+                    1363.73106
+                ],
+                [
+                    940.099013,
+                    1395.587219
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "–– Révérend, répondit le compère Tourangeau, je suis malade, très ma-",
+            "points": [
+                [
+                    231.184536,
+                    1399.671344
+                ],
+                [
+                    1073.683303,
+                    1430.302284
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "lade. On vous dit grand Esculape, et je suis venu vous demander un conseil",
+            "points": [
+                [
+                    182.23762,
+                    1434.794817
+                ],
+                [
+                    1080.821395,
+                    1465.017351
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "de médecine.",
+            "points": [
+                [
+                    183.05339,
+                    1469.91832
+                ],
+                [
+                    355.795207,
+                    1497.690354
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "–– Médecine ! dit l'archidiacre en hochant la tête.",
+            "points": [
+                [
+                    225.474056,
+                    1501.774479
+                ],
+                [
+                    836.086817,
+                    1534.447482
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "182",
+            "points": [
+                [
+                    603.996883,
+                    1665.139495
+                ],
+                [
+                    655.595065,
+                    1698.8335299999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_BOOKCONTENT_034955.jpg",
+    "imageData": null,
+    "imageHeight": 1786,
+    "imageWidth": 1259
+}

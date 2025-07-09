@@ -1,0 +1,186 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "CLÉMENT.C MAÇONNERIE",
+            "points": [
+                [
+                    112.900435,
+                    387.127009
+                ],
+                [
+                    1012.091906,
+                    474.47729599999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "maçonnerie ,couverture",
+            "points": [
+                [
+                    182.865365,
+                    507.617246
+                ],
+                [
+                    703.813804,
+                    561.391041
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "rénovation",
+            "points": [
+                [
+                    181.29381,
+                    568.848726
+                ],
+                [
+                    423.303094,
+                    611.435993
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "aménagement extérieur",
+            "points": [
+                [
+                    174.924626,
+                    631.650234
+                ],
+                [
+                    698.313617,
+                    682.08769
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "terrassement...etc",
+            "points": [
+                [
+                    173.436366,
+                    699.946881
+                ],
+                [
+                    567.8800669999999,
+                    740.9641039999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DEVIS GRATUIT",
+            "points": [
+                [
+                    427.624712,
+                    762.74842
+                ],
+                [
+                    805.960749,
+                    809.457048
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "FIXE / 05.49.45.89.28",
+            "points": [
+                [
+                    98.004981,
+                    835.755198
+                ],
+                [
+                    594.595447,
+                    885.8001499999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "PORT/06.83.20.77.57",
+            "points": [
+                [
+                    73.45047,
+                    907.191932
+                ],
+                [
+                    541.95054,
+                    953.508027
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "c.clement700@laposte.net",
+            "points": [
+                [
+                    91.699402,
+                    1027.142789
+                ],
+                [
+                    661.717682,
+                    1082.40813
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "###",
+            "points": [
+                [
+                    44.161869,
+                    1110.904341
+                ],
+                [
+                    379.94970500000005,
+                    1151.273896
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "86170 CHERVES",
+            "points": [
+                [
+                    492.311114,
+                    1084.998752
+                ],
+                [
+                    867.425481,
+                    1135.082883
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_CARD_057190.jpg",
+    "imageData": null,
+    "imageHeight": 1424,
+    "imageWidth": 1440
+}

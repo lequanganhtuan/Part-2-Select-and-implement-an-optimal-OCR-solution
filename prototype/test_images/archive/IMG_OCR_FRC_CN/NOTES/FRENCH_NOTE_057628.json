@@ -1,0 +1,234 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "→ 1880 : Centre Marchand d'Osaka",
+            "points": [
+                [
+                    113.967917,
+                    40.205898
+                ],
+                [
+                    936.0653,
+                    84.20019500000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "s'affaiblit → 1830 : Cnse",
+            "points": [
+                [
+                    206.533209,
+                    87.328573
+                ],
+                [
+                    883.8531800000001,
+                    147.193633
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Marchande",
+            "points": [
+                [
+                    213.078061,
+                    142.748141
+                ],
+                [
+                    470.88286999999997,
+                    183.729147
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "en + des boungs bangs les villages évoluent",
+            "points": [
+                [
+                    194.149835,
+                    234.307367
+                ],
+                [
+                    966.2573789999999,
+                    311.965859
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "( en bouings marchands, done",
+            "points": [
+                [
+                    213.537727,
+                    291.054066
+                ],
+                [
+                    855.316601,
+                    364.528322
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "apparito de marchands ruraux)",
+            "points": [
+                [
+                    211.084619,
+                    348.647718
+                ],
+                [
+                    918.485522,
+                    417.887152
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(zaigo shonin)",
+            "points": [
+                [
+                    591.2832,
+                    394.275963
+                ],
+                [
+                    823.683043,
+                    440.971447
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "font pression pour que le",
+            "points": [
+                [
+                    391.48983,
+                    453.22139
+                ],
+                [
+                    956.7430909999999,
+                    519.835228
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "seigneur abolisse les privilèges",
+            "points": [
+                [
+                    204.209523,
+                    499.804499
+                ],
+                [
+                    975.2932529999999,
+                    575.147043
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "de droit traditionnelement",
+            "points": [
+                [
+                    207.592213,
+                    556.017564
+                ],
+                [
+                    860.323514,
+                    608.576044
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "accordés aux marchands des bourgs).",
+            "points": [
+                [
+                    205.764113,
+                    606.945649
+                ],
+                [
+                    1031.032155,
+                    676.354462
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": ". Ces privilèges sont representes à",
+            "points": [
+                [
+                    187.054899,
+                    653.528748
+                ],
+                [
+                    965.441377,
+                    728.760456
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "travers des corporate (Kabu-",
+            "points": [
+                [
+                    206.272411,
+                    703.838523
+                ],
+                [
+                    932.0841240000001,
+                    766.424332
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nakama).",
+            "points": [
+                [
+                    206.293579,
+                    748.763955
+                ],
+                [
+                    431.830673,
+                    819.7859960000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_NOTE_057628.jpg",
+    "imageData": null,
+    "imageHeight": 888,
+    "imageWidth": 1108
+}

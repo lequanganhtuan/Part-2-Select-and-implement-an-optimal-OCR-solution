@@ -1,0 +1,682 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Par contre, il ne suffit pas que le juge constate que le titulaire du droit aurait utilisé celui-ci dans",
+            "points": [
+                [
+                    297.538767,
+                    362.517709
+                ],
+                [
+                    2185.098927,
+                    404.57669000000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "son seul intérêt. Ainsi, un arrêt de la Cour de cassation du 19 septembre 1983 énonce que le",
+            "points": [
+                [
+                    295.575462,
+                    421.452871
+                ],
+                [
+                    2182.6574250000003,
+                    463.74082400000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "juge du fond ne peut déduire un manquement à l'obligation d'exécuter de bonne foi le",
+            "points": [
+                [
+                    293.235073,
+                    480.597573
+                ],
+                [
+                    2180.589182,
+                    523.37676
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "contrat du seul fait que la partie aurait usé dans son seul intérêt personnel des prérogatives",
+            "points": [
+                [
+                    296.509431,
+                    540.404385
+                ],
+                [
+                    2180.761422,
+                    581.481083
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "que le contrat lui réservait 18.",
+            "points": [
+                [
+                    296.426692,
+                    597.325983
+                ],
+                [
+                    856.8043720000001,
+                    639.6978509999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Différents critères sont effectivement pris en compte pour déterminer l'abus de droit:",
+            "points": [
+                [
+                    297.335224,
+                    715.69218
+                ],
+                [
+                    2008.9233339999998,
+                    757.872338
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "L'intention exclusive de nuire : si l'usage du droit a une autre justification que l'intention",
+            "points": [
+                [
+                    447.451151,
+                    834.431573
+                ],
+                [
+                    2182.620076,
+                    874.727274
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "de nuire, le fait que s'y ajouterait une telle intention ne suffit pas pour considérer que",
+            "points": [
+                [
+                    446.265692,
+                    891.4955
+                ],
+                [
+                    2182.859041,
+                    933.568786
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cet usage dépasse les limites de ce qui est admissible dans le chef d'une personne",
+            "points": [
+                [
+                    446.663845,
+                    950.566219
+                ],
+                [
+                    2181.980154,
+                    993.6876450000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "normalement prudente et diligente.",
+            "points": [
+                [
+                    447.478397,
+                    1010.02168
+                ],
+                [
+                    1167.661732,
+                    1051.737144
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "L'absence d'intérêt : l'exercice du droit sans intérêt ou motif légitime en causant ainsi",
+            "points": [
+                [
+                    447.511247,
+                    1067.545211
+                ],
+                [
+                    2183.3218110000003,
+                    1110.5933920000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "à des tiers un préjudice qui aurait pu être évité, l'exercice d'un droit lorsque l'avantage",
+            "points": [
+                [
+                    446.160667,
+                    1127.225102
+                ],
+                [
+                    2182.938678,
+                    1169.784656
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "que l'on en retire est hors de toute proportion avec le préjudice causé, le choix entre",
+            "points": [
+                [
+                    446.532506,
+                    1185.532206
+                ],
+                [
+                    2181.67031,
+                    1227.772885
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "plusieurs manières d'exercer un droit de la manière la plus dommageable pour autrui",
+            "points": [
+                [
+                    447.377955,
+                    1243.653235
+                ],
+                [
+                    2180.905408,
+                    1285.457037
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sans que ce choix soit justifié par un intérêt, etc...",
+            "points": [
+                [
+                    445.552687,
+                    1302.524392
+                ],
+                [
+                    1429.479781,
+                    1344.408394
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Détournement du droit de sa fonction légale : dans ce cas, on parle de droits-fonctions.",
+            "points": [
+                [
+                    447.678374,
+                    1361.788511
+                ],
+                [
+                    2182.428317,
+                    1403.673006
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "L'abus de droit sera alors caractérisé par l'utilisation de ce droit dans un but différent",
+            "points": [
+                [
+                    447.237307,
+                    1420.517551
+                ],
+                [
+                    2183.636907,
+                    1462.5609479999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "que celui institué par le législateur. Ce sont des droits étroitement liés aux objectifs de",
+            "points": [
+                [
+                    446.427078,
+                    1478.400301
+                ],
+                [
+                    2180.560885,
+                    1520.5612079999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nature sociale, économique ou même morale qui en justifient la création. Mais cela",
+            "points": [
+                [
+                    447.660672,
+                    1537.436542
+                ],
+                [
+                    2181.941198,
+                    1580.296685
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "suppose que le législateur ait clairement assigné une finalité sociale ou économique",
+            "points": [
+                [
+                    445.580764,
+                    1596.513297
+                ],
+                [
+                    2181.641084,
+                    1639.965299
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "au droit en cause 19.",
+            "points": [
+                [
+                    446.383411,
+                    1657.597256
+                ],
+                [
+                    839.387739,
+                    1690.210894
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5. Le principe de la relativité du contrat",
+            "points": [
+                [
+                    371.124844,
+                    1777.347864
+                ],
+                [
+                    1340.827664,
+                    1827.7080640000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DP18. Le contrat introduit une relation personnelle entre deux parties; les autres parties ne sont",
+            "points": [
+                [
+                    297.730808,
+                    1940.406871
+                ],
+                [
+                    2183.5343860000003,
+                    1980.751108
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "pas liées par celui-ci. Ceci contrairement à une loi qui a des effets obligatoires dès sa",
+            "points": [
+                [
+                    297.581675,
+                    1989.421682
+                ],
+                [
+                    2181.88334,
+                    2032.555046
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "publication au Moniteur belge envers tous les citoyens belges. Si je m'engage à vous payer",
+            "points": [
+                [
+                    297.438395,
+                    2040.647954
+                ],
+                [
+                    2183.576425,
+                    2083.683598
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "10.000€, c'est moi qui me suis engagé et non mon voisin, ce qui paraît assez évident. Ce",
+            "points": [
+                [
+                    300.726223,
+                    2091.738179
+                ],
+                [
+                    2183.15056,
+                    2134.827084
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "principe est un corolaire du principe de l'autonomie de la volonté ; la volonté crée la loi des",
+            "points": [
+                [
+                    297.305749,
+                    2143.623218
+                ],
+                [
+                    2184.206836,
+                    2185.517558
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "parties et seules ces parties sont liées.",
+            "points": [
+                [
+                    297.679146,
+                    2194.443811
+                ],
+                [
+                    1045.281827,
+                    2236.642612
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ceci étant le principe de l'effet relatif des contrats sujet à de nombreuses nuances.",
+            "points": [
+                [
+                    296.756566,
+                    2245.446556
+                ],
+                [
+                    1975.537012,
+                    2288.609426
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "a) La stipulation pour autrui",
+            "points": [
+                [
+                    371.956574,
+                    2410.373207
+                ],
+                [
+                    1038.121632,
+                    2459.681995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "DP19. Dans la stipulation pour autrui les parties du contrat - le stipulant et le promettant -",
+            "points": [
+                [
+                    297.451305,
+                    2521.560543
+                ],
+                [
+                    2185.598917,
+                    2561.540462
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "s'accordent pour faire naître, à charge de ce dernier, un droit de créance au profit d'une",
+            "points": [
+                [
+                    295.712397,
+                    2570.437203
+                ],
+                [
+                    2178.120175,
+                    2612.671781
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tierce personne - le tiers bénéficiaire - qui n'a pas pris part à la conclusion de ce contrat.",
+            "points": [
+                [
+                    295.724138,
+                    2621.363399
+                ],
+                [
+                    2096.498867,
+                    2663.65755
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "L'exemple type est l'assurance-vie. (voir tableau) Vous souscrivez auprès d'une compagnie",
+            "points": [
+                [
+                    297.268802,
+                    2672.357478
+                ],
+                [
+                    2182.661061,
+                    2715.8358049999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "d'assurances une police sur la vie. Vous stipulez que votre fils en sera le bénéficiaire ce qui veut",
+            "points": [
+                [
+                    296.320477,
+                    2725.368218
+                ],
+                [
+                    2182.815186,
+                    2765.455073
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "dire que lors de votre décès, votre fils touchera la somme convenue dans la police. Le tiers",
+            "points": [
+                [
+                    296.522779,
+                    2776.348331
+                ],
+                [
+                    2181.826113,
+                    2816.6873490000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "bénéficiaire, une fois acceptée la stipulation pour autrui, jouit d'un droit direct à l'égard du",
+            "points": [
+                [
+                    297.347958,
+                    2825.545122
+                ],
+                [
+                    2179.929039,
+                    2868.701922
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "promettant. En d'autres termes, dès que le bénéficiaire a accepté le bénéfice de l'assurance-",
+            "points": [
+                [
+                    297.496067,
+                    2876.368445
+                ],
+                [
+                    2184.580039,
+                    2918.755673
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "vie, il a un droit direct au paiement des sommes convenues.",
+            "points": [
+                [
+                    295.660686,
+                    2929.469187
+                ],
+                [
+                    1505.628781,
+                    2970.254931
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "18 Cass., 19 septembre 1983, Pas., 1984, I, p. 55.",
+            "points": [
+                [
+                    298.433522,
+                    3082.643688
+                ],
+                [
+                    1137.506378,
+                    3121.119138
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "19 Voy. P. VAN OMMESLAGHE, Les obligations - V. 1 : les Sources des obligations, Bruxelles, Larcier, 2013, p.",
+            "points": [
+                [
+                    297.992427,
+                    3128.930343
+                ],
+                [
+                    2183.533535,
+                    3167.540969
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "63-95.",
+            "points": [
+                [
+                    296.715943,
+                    3175.482108
+                ],
+                [
+                    399.646215,
+                    3205.302368
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_CONTRACT_WXD_000054.jpg",
+    "imageData": null,
+    "imageHeight": 3508,
+    "imageWidth": 2481
+}

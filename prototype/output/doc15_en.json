@@ -1,0 +1,478 @@
+[
+  {
+    "text": "RESTRICTED",
+    "confidence": 0.9847890138626099
+  },
+  {
+    "text": "Page 1 of 10",
+    "confidence": 0.9317272305488586
+  },
+  {
+    "text": "BROWN & WILLIAMSON INTERNATIONAL TOBACCO",
+    "confidence": 0.9513605833053589
+  },
+  {
+    "text": "PRODUCT SPECIPICATION",
+    "confidence": 0.9711514711380005
+  },
+  {
+    "text": "Brand:",
+    "confidence": 0.9932045340538025
+  },
+  {
+    "text": "PHOENIX",
+    "confidence": 0.9948158264160156
+  },
+  {
+    "text": "Company:",
+    "confidence": 0.9813587665557861
+  },
+  {
+    "text": "B.A.T.CYPRUS",
+    "confidence": 0.973297655582428
+  },
+  {
+    "text": "style:",
+    "confidence": 0.9810884594917297
+  },
+  {
+    "text": "HLB-KS",
+    "confidence": 0.9746239185333252
+  },
+  {
+    "text": "Country:",
+    "confidence": 0.9324787855148315
+  },
+  {
+    "text": "CYPRUS",
+    "confidence": 0.994579017162323
+  },
+  {
+    "text": "Licensee Ref.No.:",
+    "confidence": 0.9003685116767883
+  },
+  {
+    "text": "Market:",
+    "confidence": 0.9649496078491211
+  },
+  {
+    "text": "Place of Manufacture: NICoSIA",
+    "confidence": 0.8998122215270996
+  },
+  {
+    "text": "CIGARETTE MAXING",
+    "confidence": 0.9705452919006348
+  },
+  {
+    "text": "Physical Characteristics",
+    "confidence": 0.9772247672080994
+  },
+  {
+    "text": "Weights",
+    "confidence": 0.9847397208213806
+  },
+  {
+    "text": "overall Cigarette Length",
+    "confidence": 0.9534886479377747
+  },
+  {
+    "text": "84",
+    "confidence": 0.9900771379470825
+  },
+  {
+    "text": "mm",
+    "confidence": 0.8403505086898804
+  },
+  {
+    "text": "Total Cigt.Wt.",
+    "confidence": 0.9566478133201599
+  },
+  {
+    "text": "974",
+    "confidence": 0.9995638728141785
+  },
+  {
+    "text": "Tobacco Rod Length",
+    "confidence": 0.9498364329338074
+  },
+  {
+    "text": "mg",
+    "confidence": 0.9740558862686157
+  },
+  {
+    "text": "64",
+    "confidence": 0.9986549615859985
+  },
+  {
+    "text": "mm",
+    "confidence": 0.9348827004432678
+  },
+  {
+    "text": "Filter Plug Length",
+    "confidence": 0.9501174092292786
+  },
+  {
+    "text": "20",
+    "confidence": 0.9971266984939575
+  },
+  {
+    "text": "m",
+    "confidence": 0.2967255115509033
+  },
+  {
+    "text": "Net Net Tobacco",
+    "confidence": 0.9228367209434509
+  },
+  {
+    "text": "749",
+    "confidence": 0.9964936375617981
+  },
+  {
+    "text": "mg",
+    "confidence": 0.9900931119918823
+  },
+  {
+    "text": "Filter Plug Pressure Drop (unencap.)",
+    "confidence": 0.9413707256317139
+  },
+  {
+    "text": "56",
+    "confidence": 0.9967689514160156
+  },
+  {
+    "text": "mm",
+    "confidence": 0.7601617574691772
+  },
+  {
+    "text": "Filter Plug Pressure Drop (encap.)",
+    "confidence": 0.9470146298408508
+  },
+  {
+    "text": "56",
+    "confidence": 0.9985026121139526
+  },
+  {
+    "text": "mm",
+    "confidence": 0.9620636105537415
+  },
+  {
+    "text": "Net Tob. Rod Density 245",
+    "confidence": 0.9418363571166992
+  },
+  {
+    "text": "ng/cc",
+    "confidence": 0.9044966697692871
+  },
+  {
+    "text": "Cigarette Circumference",
+    "confidence": 0.9698717594146729
+  },
+  {
+    "text": "24.75mm",
+    "confidence": 0.9870420694351196
+  },
+  {
+    "text": "Total Pressure Drop (unencap.)",
+    "confidence": 0.9393017888069153
+  },
+  {
+    "text": "90",
+    "confidence": 0.9985264539718628
+  },
+  {
+    "text": "mm",
+    "confidence": 0.981316089630127
+  },
+  {
+    "text": "Total Pressure Drop (encap.)",
+    "confidence": 0.9484266042709351
+  },
+  {
+    "text": "110",
+    "confidence": 0.9948038458824158
+  },
+  {
+    "text": "mm",
+    "confidence": 0.9460727572441101
+  },
+  {
+    "text": "Tipping Length",
+    "confidence": 0.9519296288490295
+  },
+  {
+    "text": "25",
+    "confidence": 0.9990597367286682
+  },
+  {
+    "text": "mm",
+    "confidence": 0.9221856594085693
+  },
+  {
+    "text": "Print Position (from filter end）",
+    "confidence": 0.9285892248153687
+  },
+  {
+    "text": "27",
+    "confidence": 0.99915611743927
+  },
+  {
+    "text": "mm",
+    "confidence": 0.9696875214576721
+  },
+  {
+    "text": "Moisture Content (ex-catcher)",
+    "confidence": 0.9591110944747925
+  },
+  {
+    "text": "13.5",
+    "confidence": 0.9988647699356079
+  },
+  {
+    "text": "9",
+    "confidence": 0.2843148410320282
+  },
+  {
+    "text": "Filter Ventilation Rate",
+    "confidence": 0.9130823612213135
+  },
+  {
+    "text": "Ni1",
+    "confidence": 0.7684791684150696
+  },
+  {
+    "text": "8",
+    "confidence": 0.3305942118167877
+  },
+  {
+    "text": "Tipping and Tipping Application",
+    "confidence": 0.9669948816299438
+  },
+  {
+    "text": "Tipping Paper:",
+    "confidence": 0.9500563740730286
+  },
+  {
+    "text": "Adhesive:",
+    "confidence": 0.9860578179359436
+  },
+  {
+    "text": "supplier(s)",
+    "confidence": 0.8937005400657654
+  },
+  {
+    "text": "Ecusta",
+    "confidence": 0.9924635291099548
+  },
+  {
+    "text": "supplier(s)swift",
+    "confidence": 0.9399152994155884
+  },
+  {
+    "text": "supplier Code No(s).",
+    "confidence": 0.9427509307861328
+  },
+  {
+    "text": "E.30639",
+    "confidence": 0.9924612045288086
+  },
+  {
+    "text": "Supplier Code No(s).T.K.9220",
+    "confidence": 0.943182110786438
+  },
+  {
+    "text": "color",
+    "confidence": 0.961458683013916
+  },
+  {
+    "text": "Imitation Cork",
+    "confidence": 0.9653259515762329
+  },
+  {
+    "text": "Type Printed Imitation Cork",
+    "confidence": 0.9469967484474182
+  },
+  {
+    "text": "Petforation Type",
+    "confidence": 0.9409194588661194
+  },
+  {
+    "text": "and No.of lines",
+    "confidence": 0.9426389336585999
+  },
+  {
+    "text": "None",
+    "confidence": 0.9948896169662476
+  },
+  {
+    "text": "Application Pattern:",
+    "confidence": 0.9785689115524292
+  },
+  {
+    "text": "Porosity",
+    "confidence": 0.9666454792022705
+  },
+  {
+    "text": "-",
+    "confidence": 0.3820634186267853
+  },
+  {
+    "text": "(Coresta)",
+    "confidence": 0.9675014019012451
+  },
+  {
+    "text": "overallx",
+    "confidence": 0.9096695780754089
+  },
+  {
+    "text": "Skip",
+    "confidence": 0.9753343462944031
+  },
+  {
+    "text": "Other",
+    "confidence": 0.9784766435623169
+  },
+  {
+    "text": "Print Description",
+    "confidence": 0.8982639908790588
+  },
+  {
+    "text": "Brown on yellow",
+    "confidence": 0.9487581253051758
+  },
+  {
+    "text": "Bobbin Width",
+    "confidence": 0.9817114472389221
+  },
+  {
+    "text": "50 nm",
+    "confidence": 0.7519106268882751
+  },
+  {
+    "text": "mm",
+    "confidence": 0.9210937023162842
+  },
+  {
+    "text": "Glue Pree Area:",
+    "confidence": 0.8876836895942688
+  },
+  {
+    "text": "N/A",
+    "confidence": 0.9636422991752625
+  },
+  {
+    "text": "Bobbin Length",
+    "confidence": 0.9581714868545532
+  },
+  {
+    "text": "2700",
+    "confidence": 0.9995323419570923
+  },
+  {
+    "text": "m",
+    "confidence": 0.9436001181602478
+  },
+  {
+    "text": "Dimension",
+    "confidence": 0.9868478775024414
+  },
+  {
+    "text": "mm",
+    "confidence": 0.8133580684661865
+  },
+  {
+    "text": "x",
+    "confidence": 0.5545040965080261
+  },
+  {
+    "text": "mm",
+    "confidence": 0.9502031803131104
+  },
+  {
+    "text": "Substance",
+    "confidence": 0.9860053658485413
+  },
+  {
+    "text": "36",
+    "confidence": 0.9989789724349976
+  },
+  {
+    "text": "gm/m2",
+    "confidence": 0.7758846282958984
+  },
+  {
+    "text": "positioning",
+    "confidence": 0.9751746654510498
+  },
+  {
+    "text": "mn from mouth end",
+    "confidence": 0.9406870007514954
+  },
+  {
+    "text": "(Indicate N/A If Not Applicable)",
+    "confidence": 0.9291202425956726
+  },
+  {
+    "text": "Prepared by:",
+    "confidence": 0.9887628555297852
+  },
+  {
+    "text": "M.HAMERTON/enm",
+    "confidence": 0.867583692073822
+  },
+  {
+    "text": "Date:",
+    "confidence": 0.9920223355293274
+  },
+  {
+    "text": "May 1, 1985",
+    "confidence": 0.9628108739852905
+  },
+  {
+    "text": "Approved by:",
+    "confidence": 0.938173770904541
+  },
+  {
+    "text": "Director of Technical Operations,",
+    "confidence": 0.9593397974967957
+  },
+  {
+    "text": "Brown & Williamson International",
+    "confidence": 0.906147837638855
+  },
+  {
+    "text": "Date:",
+    "confidence": 0.9759208559989929
+  },
+  {
+    "text": "May 1, 1985",
+    "confidence": 0.9389297962188721
+  },
+  {
+    "text": "Tobacco",
+    "confidence": 0.9762845039367676
+  },
+  {
+    "text": "Replaces:",
+    "confidence": 0.9827821254730225
+  },
+  {
+    "text": "New",
+    "confidence": 0.949903666973114
+  },
+  {
+    "text": "Date:",
+    "confidence": 0.9863060116767883
+  },
+  {
+    "text": "May 2, 1985",
+    "confidence": 0.8739786148071289
+  },
+  {
+    "text": "0504S",
+    "confidence": 0.9500605463981628
+  },
+  {
+    "text": "620419245",
+    "confidence": 0.9994008541107178
+  }
+]

@@ -1,0 +1,458 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Notre-Dame de Paris",
+            "points": [
+                [
+                    188.061178,
+                    130.70254
+                ],
+                [
+                    418.888742,
+                    151.900534
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Chapitre IV",
+            "points": [
+                [
+                    941.323921,
+                    130.70254
+                ],
+                [
+                    1071.932716,
+                    159.422407
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "de la langue, et rien de plus. Voilà un quart d'heure que j'attends le pre-",
+            "points": [
+                [
+                    188.744103,
+                    287.294191
+                ],
+                [
+                    1070.225412,
+                    319.43309600000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "mier coup. Rien ne vient. Ce sont des lâches, qui ne s'égratignent qu'avec",
+            "points": [
+                [
+                    188.061178,
+                    324.903542
+                ],
+                [
+                    1071.079063,
+                    355.33293100000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "des injures. Il fallait faire venir des lutteurs de Londres ou de Rotterdam;",
+            "points": [
+                [
+                    188.744103,
+                    359.093861
+                ],
+                [
+                    1071.079064,
+                    389.52325
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "et, à la bonne heure! vous auriez eu des coups de poing qu'on aurait en-",
+            "points": [
+                [
+                    189.427014,
+                    395.33562
+                ],
+                [
+                    1069.371759,
+                    426.277843
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tendus de la place. Mais ceux-là font pitié. Ils devraient nous donner au",
+            "points": [
+                [
+                    188.744103,
+                    431.577352
+                ],
+                [
+                    1071.932716,
+                    461.12498600000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "moins une danse morisque, ou quelque autre momerie! Ce n'est pas là",
+            "points": [
+                [
+                    188.061178,
+                    467.819137
+                ],
+                [
+                    1071.932716,
+                    498.93227
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ce qu'on m'avait dit. On m'avait promis une fête des fous, avec élection",
+            "points": [
+                [
+                    189.427014,
+                    503.377022
+                ],
+                [
+                    1071.079064,
+                    533.5502
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "du pape. Nous avons aussi notre pape des fous à Gand, et en cela nous",
+            "points": [
+                [
+                    189.427014,
+                    539.61878
+                ],
+                [
+                    1071.932716,
+                    569.387208
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ne sommes pas en arrière, croix-Dieu! Mais voici comme nous faisons.",
+            "points": [
+                [
+                    188.061178,
+                    576.544283
+                ],
+                [
+                    1070.225411,
+                    605.022382
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "On se rassemble une cohue, comme ici. Puis chacun à son tour va passer",
+            "points": [
+                [
+                    188.744103,
+                    611.418424
+                ],
+                [
+                    1071.5912600000001,
+                    641.6768509999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sa tête par un trou et fait une grimace aux autres. Celui qui fait la plus",
+            "points": [
+                [
+                    189.427027,
+                    646.292552
+                ],
+                [
+                    1070.737608,
+                    676.721928
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "laide, à l'acclamation de tous, est élu pape. Voilà. C'est fort divertissant.",
+            "points": [
+                [
+                    187.378254,
+                    681.850475
+                ],
+                [
+                    1070.7376080000001,
+                    713.4765199999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Voulez-vous que nous fassions votre pape à la mode de mon pays? Ce",
+            "points": [
+                [
+                    187.378254,
+                    718.092208
+                ],
+                [
+                    1071.59126,
+                    749.376355
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sera toujours moins fastidieux que d'écouter ces bavards. S'ils veulent",
+            "points": [
+                [
+                    189.427027,
+                    753.650145
+                ],
+                [
+                    1072.444912,
+                    785.2761899999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "venir faire leur grimace à la lucarne, ils seront du jeu. Qu'en dites-vous,",
+            "points": [
+                [
+                    188.744103,
+                    789.891877
+                ],
+                [
+                    1070.737608,
+                    822.030782
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "messieurs les bourgeois? Il y a ici un suffisamment grotesque échantillon",
+            "points": [
+                [
+                    188.744103,
+                    826.133636
+                ],
+                [
+                    1072.444913,
+                    857.075859
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "des deux sexes pour qu'on rie à la flamande, et nous sommes assez de",
+            "points": [
+                [
+                    188.744103,
+                    861.691547
+                ],
+                [
+                    1071.5912600000001,
+                    892.975694
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "laids visages pour espérer une belle grimace.",
+            "points": [
+                [
+                    188.061178,
+                    897.249484
+                ],
+                [
+                    731.837663,
+                    928.875529
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Gringoire eût voulu répondre. La stupéfaction, la colère, l'indigna-",
+            "points": [
+                [
+                    233.134033,
+                    933.491242
+                ],
+                [
+                    1071.59126,
+                    964.7753630000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "tion lui ôtèrent la parole. D'ailleurs la motion du chaussetier populaire",
+            "points": [
+                [
+                    188.744076,
+                    969.049179
+                ],
+                [
+                    1070.396126,
+                    1000.5042619999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "fut accueillie avec un tel enthousiasme par ces bourgeois flattés d'être",
+            "points": [
+                [
+                    188.744076,
+                    1005.290912
+                ],
+                [
+                    1070.396126,
+                    1036.404097
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "appelés hobereaux, que toute résistance était inutile. Il n'y avait plus qu'à",
+            "points": [
+                [
+                    188.744076,
+                    1040.848849
+                ],
+                [
+                    1072.1034300000001,
+                    1071.7070939999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "se laisser aller au torrent. Gringoire cacha son visage de ses deux mains,",
+            "points": [
+                [
+                    188.744076,
+                    1077.090633
+                ],
+                [
+                    1070.396126,
+                    1108.203766
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "n'ayant pas le bonheur d'avoir un manteau pour se voiler la tête, comme",
+            "points": [
+                [
+                    188.744076,
+                    1114.016136
+                ],
+                [
+                    1071.249778,
+                    1144.103601
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "l'Agamemnon de Timante.",
+            "points": [
+                [
+                    188.061165,
+                    1148.890277
+                ],
+                [
+                    512.961205,
+                    1180.003436
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "49",
+            "points": [
+                [
+                    615.448824,
+                    1674.832759
+                ],
+                [
+                    643.5556509999999,
+                    1694.9350769999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_BOOKCONTENT_034855.jpg",
+    "imageData": null,
+    "imageHeight": 1786,
+    "imageWidth": 1259
+}

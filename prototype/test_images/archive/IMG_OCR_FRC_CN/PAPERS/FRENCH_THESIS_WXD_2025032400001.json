@@ -1,0 +1,554 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "HALTE",
+            "points": [
+                [
+                    133.397458,
+                    159.8637
+                ],
+                [
+                    217.366716,
+                    176.508622
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "À CHAREST!",
+            "points": [
+                [
+                    101.61608,
+                    179.971268
+                ],
+                [
+                    243.551111,
+                    200.92291
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Coalition opposée à",
+            "points": [
+                [
+                    112.046497,
+                    342.835091
+                ],
+                [
+                    202.29264,
+                    353.20338899999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "la tarification et a",
+            "points": [
+                [
+                    111.468305,
+                    352.835574
+                ],
+                [
+                    202.437188,
+                    361.289053
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "la privatisation des",
+            "points": [
+                [
+                    110.356519,
+                    363.585156
+                ],
+                [
+                    203.898305,
+                    373.255988
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "services publics",
+            "points": [
+                [
+                    119.856188,
+                    374.026231
+                ],
+                [
+                    194.270262,
+                    383.39752599999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "w.munauxhausses.org",
+            "points": [
+                [
+                    128.236764,
+                    391.17615
+                ],
+                [
+                    215.23148099999997,
+                    398.236715
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Guide de consultation",
+            "points": [
+                [
+                    310.524942,
+                    158.535045
+                ],
+                [
+                    705.468124,
+                    188.549153
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sur la grève sociale",
+            "points": [
+                [
+                    332.76926,
+                    201.448026
+                ],
+                [
+                    683.601684,
+                    240.080642
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Pourquoi discuter de grève sociale ?",
+            "points": [
+                [
+                    296.472123,
+                    258.6468
+                ],
+                [
+                    720.6945450000001,
+                    284.361359
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Note: le texte qui suit a été produit par le comité sur la grève sociale mis",
+            "points": [
+                [
+                    287.464193,
+                    334.607277
+                ],
+                [
+                    730.519955,
+                    349.296594
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sur pied par la Coalition. Il est conçu comme un outil d'animation, que",
+            "points": [
+                [
+                    286.578115,
+                    350.584953
+                ],
+                [
+                    731.386642,
+                    364.95971299999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "chaque organisation est libre d'adapter à ses besoins propres.",
+            "points": [
+                [
+                    286.874716,
+                    365.514879
+                ],
+                [
+                    658.8029449999999,
+                    379.828063
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "La Coalition contre la tarification et la privatisation des services publics a été formée",
+            "points": [
+                [
+                    97.561468,
+                    467.587866
+                ],
+                [
+                    730.078981,
+                    484.421351
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "pour contrer les intentions néo-libérales du gouvernement Charest, qui entend renforcer",
+            "points": [
+                [
+                    97.731621,
+                    486.424105
+                ],
+                [
+                    730.684749,
+                    503.43823299999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "le caractère régressif des revenus prélevés par l'État tout en diminuant les ressources",
+            "points": [
+                [
+                    97.616462,
+                    501.8471
+                ],
+                [
+                    729.7212049999999,
+                    522.452985
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "consacrées aux services publics, ouvrant ainsi la porte au secteur privé dans plusieurs",
+            "points": [
+                [
+                    97.337612,
+                    523.420349
+                ],
+                [
+                    729.798255,
+                    540.528601
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "des missions fondamentales qu'il devrait assumer. La coalition regroupe maintenant",
+            "points": [
+                [
+                    96.891528,
+                    542.43993
+                ],
+                [
+                    730.502925,
+                    559.617456
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "plus d'une centaine d'organismes communautaires, syndicats et populaires.",
+            "points": [
+                [
+                    97.464429,
+                    561.483192
+                ],
+                [
+                    640.566809,
+                    578.5174900000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Dans le cadre de son opposition aux orientations budgétaires et fiscales du",
+            "points": [
+                [
+                    97.591964,
+                    596.556624
+                ],
+                [
+                    729.390407,
+                    613.4666350000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "gouvernement Charest et plus particulièrement des hausses de tarifs et de taxes, ainsi",
+            "points": [
+                [
+                    96.627338,
+                    614.454778
+                ],
+                [
+                    729.390407,
+                    631.532445
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "que des compressions budgétaires, comprises dans le dernier budget Bachand, la",
+            "points": [
+                [
+                    96.606084,
+                    633.419486
+                ],
+                [
+                    730.593776,
+                    650.802309
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Coalition opposée à la tarification et à la privatisation des services publics a entrepris",
+            "points": [
+                [
+                    97.445788,
+                    652.490175
+                ],
+                [
+                    730.4500419999999,
+                    669.581639
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "une réflexion sur les stratégies d'action à déployer au cours de la prochaine période.",
+            "points": [
+                [
+                    97.329543,
+                    670.492631
+                ],
+                [
+                    729.3904070000001,
+                    687.470335
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Elle a dans ce contexte adopté la proposition suivante, lors de sa rencontre du 31 mai",
+            "points": [
+                [
+                    97.589908,
+                    689.403967
+                ],
+                [
+                    729.8890670000001,
+                    706.6364189999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2010",
+            "points": [
+                [
+                    97.420992,
+                    708.429675
+                ],
+                [
+                    142.468833,
+                    722.399665
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "« Amorcer une réflexion sur la grève sociale dans l'ensemble de nos",
+            "points": [
+                [
+                    97.631413,
+                    741.505104
+                ],
+                [
+                    730.391587,
+                    759.516992
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "organisations. Que les membres de la Coalition mandatent le comité réflexion",
+            "points": [
+                [
+                    96.824325,
+                    760.656447
+                ],
+                [
+                    729.7392130000001,
+                    778.370876
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "grève sociale à produire un outil pour accompagner les groupes dans leur",
+            "points": [
+                [
+                    96.860501,
+                    778.738691
+                ],
+                [
+                    730.397397,
+                    796.517045
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "réflexion ».",
+            "points": [
+                [
+                    97.618638,
+                    797.71539
+                ],
+                [
+                    182.310816,
+                    812.149917
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Il ne s'agit pas de discuter de la valeur en soi de la grève sociale, mais de le faire en",
+            "points": [
+                [
+                    97.388078,
+                    833.531724
+                ],
+                [
+                    729.6473589999999,
+                    850.536383
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "rapport à la conjoncture actuelle. Est-elle pertinente et faisable dans la présente lutte",
+            "points": [
+                [
+                    97.559996,
+                    852.459548
+                ],
+                [
+                    730.472394,
+                    869.68461
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "contre les orientations du gouvernement Charest ?",
+            "points": [
+                [
+                    96.794139,
+                    870.543623
+                ],
+                [
+                    461.38857499999995,
+                    887.3736220000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1",
+            "points": [
+                [
+                    410.55352,
+                    1056.449981
+                ],
+                [
+                    415.54841999999996,
+                    1068.504771
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_THESIS_WXD_2025032400001.jpg",
+    "imageData": null,
+    "imageHeight": 1170,
+    "imageWidth": 827
+}

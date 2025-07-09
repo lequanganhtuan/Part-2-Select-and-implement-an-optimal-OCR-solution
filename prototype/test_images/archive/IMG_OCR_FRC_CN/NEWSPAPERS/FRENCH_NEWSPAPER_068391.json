@@ -1,0 +1,1018 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "FESTIVALS",
+            "points": [
+                [
+                    1917.877339,
+                    190.432856
+                ],
+                [
+                    2579.869619,
+                    312.843194
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "AVRIL 2025 LA STRADA N°375",
+            "points": [
+                [
+                    2236.907696,
+                    347.62027
+                ],
+                [
+                    2587.1127930000002,
+                    381.03153
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "LA SAISON DES FESTIVALS APPROCHE!",
+            "points": [
+                [
+                    428.63127,
+                    355.365902
+                ],
+                [
+                    2445.230729,
+                    399.392318
+                ],
+                [
+                    2444.831104,
+                    561.88984
+                ],
+                [
+                    425.297224,
+                    495.548028
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "C'est le printemps, et une partie d'entre vous doit être en train - si ce n'est déjà fait",
+            "points": [
+                [
+                    257.422171,
+                    515.918149
+                ],
+                [
+                    2606.419112,
+                    593.193968
+                ],
+                [
+                    2609.256633,
+                    665.326638
+                ],
+                [
+                    258.158208,
+                    591.459372
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "-d'échafauder des plans pour cet été. Et j'imagine que les mélomanes tenteront",
+            "points": [
+                [
+                    277.490906,
+                    666.545112
+                ],
+                [
+                    282.882741,
+                    590.353196
+                ],
+                [
+                    2582.056016,
+                    675.329521
+                ],
+                [
+                    2582.556305,
+                    746.070749
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "de placer un max de festivals dans leur calendrier. Alors pour vous aider dans cette",
+            "points": [
+                [
+                    258.283593,
+                    670.956882
+                ],
+                [
+                    2598.570985,
+                    749.290537
+                ],
+                [
+                    2599.563678,
+                    819.869569
+                ],
+                [
+                    256.249343,
+                    754.469395
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "entreprise, voici une première sélection des temps forts estivaux 2025. En attendant la",
+            "points": [
+                [
+                    217.202081,
+                    758.099507
+                ],
+                [
+                    2634.45553,
+                    824.338781
+                ],
+                [
+                    2636.950187,
+                    896.517489
+                ],
+                [
+                    215.845906,
+                    832.785499
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "suite... et la parution de notre numéro \"Spécial été\", le 24 juin.",
+            "points": [
+                [
+                    562.860647,
+                    915.103401
+                ],
+                [
+                    562.946691,
+                    841.922414
+                ],
+                [
+                    2306.528202,
+                    894.835333
+                ],
+                [
+                    2304.9871,
+                    966.589437
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "Les Plages Electroniques Ⓒ Robin Baird",
+            "points": [
+                [
+                    208.225631,
+                    1630.511468
+                ],
+                [
+                    778.43371,
+                    1666.928614
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "À tout seigneur, tout honneur..., Terre de jazz, la région abrite quelques",
+            "points": [
+                [
+                    173.997934,
+                    1766.62095
+                ],
+                [
+                    1414.165314,
+                    1822.451542
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "festivals parmi les plus importants de l'Hexagone. Tandis que Jazz à",
+            "points": [
+                [
+                    169.096634,
+                    1825.314575
+                ],
+                [
+                    1417.190796,
+                    1867.998291
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Juan, doyen des festivals, dévoilera la programmation de sa 63e édition",
+            "points": [
+                [
+                    173.997934,
+                    1872.456348
+                ],
+                [
+                    1411.737896,
+                    1917.120807
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "dès le 26 mars, le Nice Jazz Fest, autre \"patriarche\" devrait lui emboîter",
+            "points": [
+                [
+                    170.114071,
+                    1923.917582
+                ],
+                [
+                    1412.9516059999999,
+                    1966.882857
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "le pas prochainement. On connait toutefois les dates de son édition",
+            "points": [
+                [
+                    168.172148,
+                    1970.523983
+                ],
+                [
+                    1411.737897,
+                    2015.431199
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "2025, qui se tiendra du 24 au 27 juillet dans l'écrin du jardin Albert ler,",
+            "points": [
+                [
+                    164.288303,
+                    2021.985217
+                ],
+                [
+                    1409.7959740000001,
+                    2066.406957
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "entre les scènes Masséna et du Théâtre de Verdure. Deux noms ont déjà",
+            "points": [
+                [
+                    160.216492,
+                    2072.90625
+                ],
+                [
+                    1414.59729,
+                    2115.219727
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "lors de la soirée d'ouverture, et Santa, enfant du pays et chanteuse de",
+            "points": [
+                [
+                    153.607646,
+                    2169.572181
+                ],
+                [
+                    1408.582266,
+                    2213.265688
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Hyphen Hyphen, le 27 juillet. Rens: jazzajuan.com - nicejazzfest.fr",
+            "points": [
+                [
+                    151.665723,
+                    2220.062501
+                ],
+                [
+                    1241.090488,
+                    2265.455156
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "LE JAZZ, ÉVIDEMMENT...",
+            "points": [
+                [
+                    177.693878,
+                    1718.286526
+                ],
+                [
+                    645.992603,
+                    1766.2373790000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "été lâchés : la chanteuse britannique Raye, qui foulera la scène du NJF",
+            "points": [
+                [
+                    157.491509,
+                    2120.052888
+                ],
+                [
+                    1409.795974,
+                    2163.503639
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "FESTIVAL CROSSOVER",
+            "points": [
+                [
+                    143.897977,
+                    2318.130098
+                ],
+                [
+                    586.658835,
+                    2359.881664
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Toujours à Nice, le Crossover est toujours là où ne l'attend pas ! Après",
+            "points": [
+                [
+                    140.111154,
+                    2366.678476
+                ],
+                [
+                    1404.212871,
+                    2417.484327
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "avoir animé la fin de la période estivale durant plusieurs années, il a",
+            "points": [
+                [
+                    134.830569,
+                    2417.346014
+                ],
+                [
+                    1402.3549269999999,
+                    2462.738713
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "décidé cette année de se scinder en deux, pour deux fois plus de plai-",
+            "points": [
+                [
+                    130.558299,
+                    2465.408871
+                ],
+                [
+                    1403.690007,
+                    2512.136649
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sir... Acte I, du 2 au 4 mai, avec un premier nom : Sofiane Pamart, pia-",
+            "points": [
+                [
+                    126.120257,
+                    2516.119354
+                ],
+                [
+                    1402.562308,
+                    2565.159194
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "niste chouchou des rappeurs (SCH, Tiakola, Koba LaD...) qui fait partie",
+            "points": [
+                [
+                    123.280251,
+                    2566.751759
+                ],
+                [
+                    1402.3575369999999,
+                    2616.6632790000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "du top 5 des artistes Musique Classique les plus streamés au monde",
+            "points": [
+                [
+                    119.877664,
+                    2617.073898
+                ],
+                [
+                    1402.354927,
+                    2674.3309910000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "en 2024. Acte II, du 5 au 7 septembre. Un festival en deux temps, pour",
+            "points": [
+                [
+                    116.256596,
+                    2669.632093
+                ],
+                [
+                    1401.730301,
+                    2719.933601
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "\"plusieurs concepts\", nous promet-on, mais toujours avec le souci de mé-",
+            "points": [
+                [
+                    116.256596,
+                    2719.933601
+                ],
+                [
+                    1401.730301,
+                    2719.933601
+                ],
+                [
+                    1398.750344,
+                    2764.4207
+                ],
+                [
+                    113.094259,
+                    2779.331759
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "langer les genres, les sonorités, les cultures... Rens: festival-crossover.com",
+            "points": [
+                [
+                    113.094259,
+                    2779.331759
+                ],
+                [
+                    1384.830233,
+                    2764.582146
+                ],
+                [
+                    1386.340536,
+                    2815.366816
+                ],
+                [
+                    113.35089,
+                    2824.063181
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "et de la scène alternative-punk française. En effet, l'ultime soirée convo-",
+            "points": [
+                [
+                    1456.579749,
+                    2808.851713
+                ],
+                [
+                    2667.481617,
+                    2853.352598
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Groundation, Raspigaous, qui fait sa tournée d'adieu, Broussaï, Atili...)",
+            "points": [
+                [
+                    1456.104418,
+                    2761.733166
+                ],
+                [
+                    2663.266554,
+                    2806.947934
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "19 juillet, quelques beaux noms de la grande famille reggae/dub (OBF,",
+            "points": [
+                [
+                    1455.866748,
+                    2710.236876
+                ],
+                [
+                    2657.975,
+                    2758.4015409999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "bénévole, qui fleure bon les herbes de Provence, verra défiler, du 17 au",
+            "points": [
+                [
+                    1458.243395,
+                    2659.718202
+                ],
+                [
+                    2657.261998,
+                    2707.951369
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Ah! Néoules et son site champêtre de Châteauloin... Ce festival 100%",
+            "points": [
+                [
+                    1455.990815,
+                    2612.807994
+                ],
+                [
+                    2655.75862,
+                    2655.3594399999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "FESTIVAL DE NÉOULES",
+            "points": [
+                [
+                    1458.374634,
+                    2556.037294
+                ],
+                [
+                    1873.349976,
+                    2600.495142
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "partage entre les générations et les cultures. Rens nuitsdusud.com",
+            "points": [
+                [
+                    1460.795911,
+                    2463.672293
+                ],
+                [
+                    2532.667149,
+                    2507.363637
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "(PPJ, The Avener). Bref, un festival qui rassemble, invite à la danse et au",
+            "points": [
+                [
+                    1460.935034,
+                    2413.139001
+                ],
+                [
+                    2650.5577160000003,
+                    2456.773695
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Maadef, IAM, Chinese Man, Faada Freddy), et une touche d'electro",
+            "points": [
+                [
+                    1462.185181,
+                    2364.791959
+                ],
+                [
+                    2649.7921029999998,
+                    2408.483275
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Gladiators, The Congos, Nèg'Marrons), musiques urbaines (Defmaa",
+            "points": [
+                [
+                    1462.185181,
+                    2316.118164
+                ],
+                [
+                    2649.026533,
+                    2359.769043
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "et jazz (Sandra Nkaké, Deluxe, Amadou & Mariam, Kutu), reggae (The",
+            "points": [
+                [
+                    1463.231524,
+                    2266.447358
+                ],
+                [
+                    2649.40923,
+                    2312.455415
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "dients qui ont fait la renommée des Nuits du Sud: musique du monde",
+            "points": [
+                [
+                    1464.07336,
+                    2217.973426
+                ],
+                [
+                    2648.250687,
+                    2263.988637
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "cieuse, exigeante et résolument moderne\" permettra de retrouver les ingré-",
+            "points": [
+                [
+                    1464.39971,
+                    2171.371097
+                ],
+                [
+                    2646.0101489999997,
+                    2215.875622
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "rayonne chaque année, au cœur de Vence. Du 10 au 19 juillet, une \"auda-",
+            "points": [
+                [
+                    1466.802258,
+                    2120.852422
+                ],
+                [
+                    2646.4732480000002,
+                    2167.762607
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "en charge de la direction artistique de ce festival où la sono mondiale",
+            "points": [
+                [
+                    1466.012076,
+                    2071.910532
+                ],
+                [
+                    2644.6795709999997,
+                    2117.138916
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Pour la 3e fois, le groupe Combat (Radio Nova et Rock en Seine) est",
+            "points": [
+                [
+                    1468.165325,
+                    2023.42354
+                ],
+                [
+                    2648.2507779999996,
+                    2069.463899
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "NUITS DU SUD",
+            "points": [
+                [
+                    1468.165339,
+                    1976.785086
+                ],
+                [
+                    1725.498169,
+                    2010.8949710000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Insta @hotelamournice",
+            "points": [
+                [
+                    1469.0354,
+                    1882.057007
+                ],
+                [
+                    1819.5058589999999,
+                    1918.529984
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "pigne d'impatience en attendant la suite de la programmation... Rens:",
+            "points": [
+                [
+                    1470.717062,
+                    1832.419922
+                ],
+                [
+                    2642.8451029999997,
+                    1878.211914
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "et le duo électro belge 2ManyDJs. Au vu de ces premiers noms, on tré-",
+            "points": [
+                [
+                    1470.15667,
+                    1785.264126
+                ],
+                [
+                    2639.241257,
+                    1830.069353
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "débouler en août l'excellent collectif aux influences psyché, La Femme,",
+            "points": [
+                [
+                    1470.406148,
+                    1734.745451
+                ],
+                [
+                    2639.241257,
+                    1784.963401
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sixfoursvagueclassique.fr",
+            "points": [
+                [
+                    2811.57409,
+                    2613.42379
+                ],
+                [
+                    3852.863862,
+                    2713.567487
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "16/05 > 21/09",
+            "points": [
+                [
+                    3308.04834,
+                    2239.345215
+                ],
+                [
+                    3858.503906,
+                    2325.002197
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "SAISON 2025",
+            "points": [
+                [
+                    3308.727295,
+                    2113.522949
+                ],
+                [
+                    3840.894775,
+                    2196.1340330000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Classique",
+            "points": [
+                [
+                    2870.254883,
+                    625.190903
+                ],
+                [
+                    3653.077149,
+                    783.685999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "La Vague",
+            "points": [
+                [
+                    2771.122264,
+                    474.859894
+                ],
+                [
+                    3425.1220710000002,
+                    641.040439
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "LES-PLAGES",
+            "points": [
+                [
+                    2912.210618,
+                    384.512256
+                ],
+                [
+                    3072.585742,
+                    414.675183
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "X-FOURS",
+            "points": [
+                [
+                    2853.880837,
+                    335.43828
+                ],
+                [
+                    3054.7370600000004,
+                    384.525504
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "5",
+            "points": [
+                [
+                    3861.311093,
+                    388.753256
+                ],
+                [
+                    3880.9337109999997,
+                    414.382183
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_NEWSPAPER_068391.jpeg",
+    "imageData": null,
+    "imageHeight": 2856,
+    "imageWidth": 3942
+}

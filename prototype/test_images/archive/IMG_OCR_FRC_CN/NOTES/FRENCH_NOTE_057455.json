@@ -1,0 +1,266 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "l'anticipa",
+            "points": [
+                [
+                    85.988143,
+                    362.625795
+                ],
+                [
+                    151.283655,
+                    391.383294
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Au délut du texte, il raus dut que la conscience maus en faixas tous.",
+            "points": [
+                [
+                    74.85685,
+                    227.17955
+                ],
+                [
+                    724.036028,
+                    212.818102
+                ],
+                [
+                    724.583509,
+                    244.712302
+                ],
+                [
+                    75.539885,
+                    260.831138
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "es experience Be polu la, il n'est pas souhaitatile ate difinir la",
+            "points": [
+                [
+                    64.060831,
+                    264.487274
+                ],
+                [
+                    766.504991,
+                    243.457241
+                ],
+                [
+                    767.969311,
+                    274.878027
+                ],
+                [
+                    64.013471,
+                    292.075634
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "En m temps, la conscience a 2 trants essentiels: la conserva du",
+            "points": [
+                [
+                    64.719,
+                    297.631308
+                ],
+                [
+                    725.817083,
+                    283.141437
+                ],
+                [
+                    725.817083,
+                    312.796375
+                ],
+                [
+                    64.194289,
+                    326.654512
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "et Pattente allen",
+            "points": [
+                [
+                    51.63291,
+                    341.354944
+                ],
+                [
+                    259.884296,
+                    335.037951
+                ],
+                [
+                    260.984461,
+                    354.238231
+                ],
+                [
+                    51.865156,
+                    362.625071
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "1- He conscience et memaire",
+            "points": [
+                [
+                    51.909388,
+                    416.634266
+                ],
+                [
+                    299.083006,
+                    407.469757
+                ],
+                [
+                    300.196726,
+                    428.380291
+                ],
+                [
+                    52.675078,
+                    434.895743
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "2- Le temps lui-m m'est pas une addit' One samme",
+            "points": [
+                [
+                    98.067871,
+                    162.218192
+                ],
+                [
+                    636.965966,
+                    148.245486
+                ],
+                [
+                    637.602802,
+                    166.419895
+                ],
+                [
+                    97.86765,
+                    192.859453
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "1- Pas de whantance and cience",
+            "points": [
+                [
+                    102.549319,
+                    132.696158
+                ],
+                [
+                    330.556674,
+                    125.980213
+                ],
+                [
+                    331.891471,
+                    144.310792
+                ],
+                [
+                    103.209114,
+                    149.24686
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "cac pour vivre il faut netie le passe averis 13 premiere §",
+            "points": [
+                [
+                    69.121668,
+                    69.332824
+                ],
+                [
+                    643.375739,
+                    51.938083
+                ],
+                [
+                    644.426532,
+                    77.401715
+                ],
+                [
+                    70.409661,
+                    100.275831
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "inerte est enfermé de l'instant présent ehre vivent chre conscien",
+            "points": [
+                [
+                    70.410505,
+                    39.329159
+                ],
+                [
+                    669.862799,
+                    26.549701
+                ],
+                [
+                    671.895317,
+                    42.628343
+                ],
+                [
+                    70.683438,
+                    63.144401
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "La conscience certaine maniere at here & temps. omation",
+            "points": [
+                [
+                    99.544892,
+                    5.98056
+                ],
+                [
+                    688.105114,
+                    0.903712
+                ],
+                [
+                    687.693583,
+                    17.877105
+                ],
+                [
+                    99.181319,
+                    29.125187
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_NOTE_057455.jpg",
+    "imageData": null,
+    "imageHeight": 544,
+    "imageWidth": 768
+}

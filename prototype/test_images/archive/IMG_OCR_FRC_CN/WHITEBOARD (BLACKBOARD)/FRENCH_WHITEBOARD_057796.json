@@ -1,0 +1,346 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "- h. ouralo-altaique / druvidienne",
+            "points": [
+                [
+                    43.751093,
+                    33.05074
+                ],
+                [
+                    912.861969,
+                    20.435811
+                ],
+                [
+                    891.831243,
+                    80.865483
+                ],
+                [
+                    39.976255,
+                    116.097281
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "- lien avec coreen: J. Whitman",
+            "points": [
+                [
+                    61.404054,
+                    128.733176
+                ],
+                [
+                    851.117733,
+                    82.601392
+                ],
+                [
+                    851.104636,
+                    141.901452
+                ],
+                [
+                    36.414519,
+                    199.463943
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "\"The Relationship between J and K.\"",
+            "points": [
+                [
+                    92.77859,
+                    184.688971
+                ],
+                [
+                    905.672391,
+                    138.746306
+                ],
+                [
+                    904.414074,
+                    221.792733
+                ],
+                [
+                    99.11534,
+                    258.282848
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "- FAMILLES",
+            "points": [
+                [
+                    75.208054,
+                    280.931874
+                ],
+                [
+                    389.777838,
+                    282.190134
+                ],
+                [
+                    399.443282,
+                    360.690892
+                ],
+                [
+                    45.009353,
+                    370.269715
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "- DANTE, DE L'ÉLOQUENCE",
+            "points": [
+                [
+                    146.929969,
+                    384.110748
+                ],
+                [
+                    831.433841,
+                    326.229924
+                ],
+                [
+                    841.10747,
+                    401.866071
+                ],
+                [
+                    145.687742,
+                    464.484306
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "- HÉBRAISME PRIMITIF",
+            "points": [
+                [
+                    162.02932,
+                    486.031362
+                ],
+                [
+                    784.877587,
+                    487.289679
+                ],
+                [
+                    784.865949,
+                    547.438366
+                ],
+                [
+                    148.835374,
+                    573.024858
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "- COLONISATION des INDES : W. JONES",
+            "points": [
+                [
+                    148.835374,
+                    573.024858
+                ],
+                [
+                    906.930594,
+                    552.720235
+                ],
+                [
+                    911.981916,
+                    625.661027
+                ],
+                [
+                    125.635005,
+                    662.529438
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "- SAVANTS ALLEMANDS: FRIEDRICH SCHLEGEL",
+            "points": [
+                [
+                    162.029377,
+                    676.031499
+                ],
+                [
+                    911.981916,
+                    625.661027
+                ],
+                [
+                    910.67747,
+                    696.139708
+                ],
+                [
+                    153.83686,
+                    729.311718
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "(SUR la langue & la sagesse des Indiens. 1808",
+            "points": [
+                [
+                    65.141859,
+                    727.620965
+                ],
+                [
+                    910.67747,
+                    696.139708
+                ],
+                [
+                    912.079768,
+                    795.541924
+                ],
+                [
+                    41.234573,
+                    830.799839
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "FRANZ BOPP",
+            "points": [
+                [
+                    185.162081,
+                    804.608692
+                ],
+                [
+                    477.815708,
+                    797.544639
+                ],
+                [
+                    475.340843,
+                    867.290012
+                ],
+                [
+                    184.678403,
+                    891.19724
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "( grammaire comparée, 1833-52)",
+            "points": [
+                [
+                    81.499469,
+                    883.647565
+                ],
+                [
+                    876.208269,
+                    810.292227
+                ],
+                [
+                    878.894627,
+                    925.805641
+                ],
+                [
+                    93.134775,
+                    1002.366858
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "1795. L.M. LANGLÈS",
+            "points": [
+                [
+                    94.393093,
+                    1002.366858
+                ],
+                [
+                    826.846136,
+                    930.999638
+                ],
+                [
+                    832.634048,
+                    1000.034425
+                ],
+                [
+                    92.823983,
+                    1073.64776
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "ECOLE DES LANGUES ORIENTALES",
+            "points": [
+                [
+                    174.554224,
+                    1065.515354
+                ],
+                [
+                    908.189027,
+                    1010.733724
+                ],
+                [
+                    910.705547,
+                    1098.813305
+                ],
+                [
+                    184.678461,
+                    1144.111356
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        },
+        {
+            "label": "VUL GAIRE (XIV)",
+            "points": [
+                [
+                    458.271218,
+                    426.302427
+                ],
+                [
+                    890.573041,
+                    404.243253
+                ],
+                [
+                    890.573041,
+                    464.640654
+                ],
+                [
+                    441.799607,
+                    485.954423
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "polygon",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_WHITEBOARD_057796.jpg",
+    "imageData": null,
+    "imageHeight": 1185,
+    "imageWidth": 906
+}

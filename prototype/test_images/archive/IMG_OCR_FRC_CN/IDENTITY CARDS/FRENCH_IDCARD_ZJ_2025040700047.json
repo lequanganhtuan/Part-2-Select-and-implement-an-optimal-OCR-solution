@@ -1,0 +1,202 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "RÉPUBLIQUE FRANÇAISE",
+            "points": [
+                [
+                    54.546714,
+                    13.346564
+                ],
+                [
+                    796.849654,
+                    46.314173000000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CARTE NATIONALE D'IDENTITÉ N°: 050463202752 Nationalité Française",
+            "points": [
+                [
+                    52.419772,
+                    64.393185
+                ],
+                [
+                    788.3418839999999,
+                    87.789553
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nom: FAUCHER",
+            "points": [
+                [
+                    274.685265,
+                    102.953061
+                ],
+                [
+                    422.50777000000005,
+                    125.01104600000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Prénom(s): NICOLAS",
+            "points": [
+                [
+                    275.748736,
+                    164.359483
+                ],
+                [
+                    461.85620700000004,
+                    185.62890800000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sexe : M Né(e) le : 07.11.1980",
+            "points": [
+                [
+                    275.748736,
+                    222.850403
+                ],
+                [
+                    686.248642,
+                    246.246771
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "a : CLERMONT-FERRAND (63)",
+            "points": [
+                [
+                    272.621794,
+                    251.564127
+                ],
+                [
+                    565.0763910000001,
+                    277.087437
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Taille: 1,71m",
+            "points": [
+                [
+                    273.621794,
+                    280.49432
+                ],
+                [
+                    405.49223000000006,
+                    305.80116100000004
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Signature",
+            "points": [
+                [
+                    272.558322,
+                    310.884265
+                ],
+                [
+                    361.889908,
+                    330.260999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "du titulaire :",
+            "points": [
+                [
+                    275.748736,
+                    335.578356
+                ],
+                [
+                    385.28627600000004,
+                    356.847781
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "IDFRAFAUCHER<<<<<<<<<<<<<<<<<<632185",
+            "points": [
+                [
+                    56.673657,
+                    432.354241
+                ],
+                [
+                    755.374275,
+                    461.067965
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "0504632027526NICOLAS<<<<<<<8011071M3",
+            "points": [
+                [
+                    55.610185,
+                    481.273919
+                ],
+                [
+                    758.564688,
+                    513.178057
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "FN",
+            "points": [
+                [
+                    228.326872,
+                    98.154649
+                ],
+                [
+                    253.918404,
+                    119.747505
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_IDCARD_ZJ_2025040700047.jpg",
+    "imageData": null,
+    "imageHeight": 568,
+    "imageWidth": 828
+}

@@ -1,0 +1,122 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "JM Maçonnerie",
+            "points": [
+                [
+                    121.800117,
+                    267.496702
+                ],
+                [
+                    711.803649,
+                    366.284775
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "85230 BOUIN",
+            "points": [
+                [
+                    99.4468,
+                    776.218994
+                ],
+                [
+                    376.971557,
+                    816.4479369999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Auto entrepreneur",
+            "points": [
+                [
+                    101.675491,
+                    508.343598
+                ],
+                [
+                    443.173806,
+                    554.997088
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "MOLLÉ Jérôme",
+            "points": [
+                [
+                    96.146655,
+                    442.735838
+                ],
+                [
+                    477.61352,
+                    501.657558
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "06 11 27 52 61",
+            "points": [
+                [
+                    95.171498,
+                    609.785193
+                ],
+                [
+                    403.27678599999996,
+                    661.456952
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "jmolle.maconnerie@gmail.com",
+            "points": [
+                [
+                    94.453314,
+                    666.182839
+                ],
+                [
+                    742.508589,
+                    716.473273
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Les Tignons - Rte de la couplasse",
+            "points": [
+                [
+                    101.718503,
+                    721.520974
+                ],
+                [
+                    787.9665010000001,
+                    771.558353
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_CARD_057196.jpg",
+    "imageData": null,
+    "imageHeight": 928,
+    "imageWidth": 1457
+}

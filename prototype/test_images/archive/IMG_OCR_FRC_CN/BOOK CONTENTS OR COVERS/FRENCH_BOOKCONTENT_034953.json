@@ -1,0 +1,602 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Notre-Dame de Paris Chapitre I",
+            "points": [
+                [
+                    182.827121,
+                    121.872294
+                ],
+                [
+                    1078.206947,
+                    160.416993
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "— Pasquedieu, maître Claude, reprit le compère Tourangeau après un",
+            "points": [
+                [
+                    231.820561,
+                    287.063864
+                ],
+                [
+                    1071.957786,
+                    319.351288
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "silence, vous me gênez fort. J'avais deux consultations à requérir de vous,",
+            "points": [
+                [
+                    188.658227,
+                    324.810496
+                ],
+                [
+                    1073.456843,
+                    356.045043
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "l'une touchant ma santé, l'autre touchant mon étoile.",
+            "points": [
+                [
+                    184.52655,
+                    358.734118
+                ],
+                [
+                    837.9512589999999,
+                    389.141272
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "— Monsieur, repartit l'archidiacre, si c'est là votre pensée, vous auriez",
+            "points": [
+                [
+                    231.627673,
+                    392.657739
+                ],
+                [
+                    1073.456842,
+                    424.306014
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "aussi bien fait de ne pas vous essouffler aux degrés de mon escalier. Je ne",
+            "points": [
+                [
+                    183.700228,
+                    430.718421
+                ],
+                [
+                    1072.423924,
+                    461.539271
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "crois pas à la médecine. Je ne crois pas à l'astrologie.",
+            "points": [
+                [
+                    183.700228,
+                    467.124254
+                ],
+                [
+                    830.720825,
+                    498.565696
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "― En vérité ! dit le compère avec surprise.",
+            "points": [
+                [
+                    228.322351,
+                    504.357511
+                ],
+                [
+                    744.988529,
+                    534.971529
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Coictier riait d'un rire forcé.",
+            "points": [
+                [
+                    229.148674,
+                    539.108589
+                ],
+                [
+                    581.787292,
+                    568.8951820000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "— Vous voyez bien qu'il est fou, dit-il tout bas au compère Touran-",
+            "points": [
+                [
+                    230.801351,
+                    573.03221
+                ],
+                [
+                    1070.358085,
+                    608.196953
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "geau. Il ne croit pas à l'astrologie !",
+            "points": [
+                [
+                    182.047551,
+                    611.920285
+                ],
+                [
+                    611.741949,
+                    643.361696
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "— Le moyen d'imaginer, poursuivit dom Claude, que chaque rayon",
+            "points": [
+                [
+                    225.843319,
+                    646.671332
+                ],
+                [
+                    1069.325165,
+                    676.555781
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "d'étoile est un fil qui tient à la tête d'un homme !",
+            "points": [
+                [
+                    188.446833,
+                    679.291017
+                ],
+                [
+                    790.100931,
+                    712.1137180000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "— Et à quoi croyez-vous donc? s'écria le compère Tourangeau.",
+            "points": [
+                [
+                    228.384084,
+                    718.269729
+                ],
+                [
+                    1002.453746,
+                    750.538533
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "L'archidiacre resta un moment indécis, puis il laissa échapper un",
+            "points": [
+                [
+                    226.731407,
+                    753.020744
+                ],
+                [
+                    1076.82393,
+                    784.669019
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "sombre sourire qui semblait démentir sa réponse : — Credo in Deum.",
+            "points": [
+                [
+                    185.414638,
+                    789.426608
+                ],
+                [
+                    1034.474242,
+                    820.868019
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "— Dominum nostrum, ajouta le compère Tourangeau avec un signe de",
+            "points": [
+                [
+                    229.210407,
+                    825.005047
+                ],
+                [
+                    1073.725173,
+                    860.16979
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "croix.",
+            "points": [
+                [
+                    184.588315,
+                    863.893185
+                ],
+                [
+                    258.75190299999997,
+                    888.094733
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "— Amen, dit Coictier.",
+            "points": [
+                [
+                    225.07873,
+                    892.85229
+                ],
+                [
+                    500.868163,
+                    929.05129
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "— Révérend maître, reprit le compère, je suis charmé dans l'âme de",
+            "points": [
+                [
+                    226.731407,
+                    932.567758
+                ],
+                [
+                    1076.204172,
+                    963.181776
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "vous voir en si bonne religion. Mais, grand savant que vous êtes, l'êtes-",
+            "points": [
+                [
+                    187.067315,
+                    968.146229
+                ],
+                [
+                    1076.204172,
+                    1000.415033
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "vous donc à ce point de ne plus croire à la science?",
+            "points": [
+                [
+                    184.588315,
+                    1005.379486
+                ],
+                [
+                    824.171881,
+                    1036.614033
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "— Non, dit l'archidiacre en saisissant le bras du compère Tourangeau,",
+            "points": [
+                [
+                    227.557729,
+                    1040.130501
+                ],
+                [
+                    1072.072495,
+                    1072.621022
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "et un éclair d'enthousiasme se ralluma dans sa terne prunelle, non, je",
+            "points": [
+                [
+                    177.151284,
+                    1075.708972
+                ],
+                [
+                    1080.335849,
+                    1107.977776
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "nie pas la science. Je n'ai pas rampé si longtemps à plat ventre et les ongles",
+            "points": [
+                [
+                    184.616377,
+                    1113.471622
+                ],
+                [
+                    1076.496688,
+                    1145.508779
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "dans la terre à travers les innombrables embranchements de la caverne",
+            "points": [
+                [
+                    185.616266,
+                    1149.513438
+                ],
+                [
+                    1077.746521,
+                    1176.044179
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "apercevoir, au loin devant moi, au bout de l'obscure galerie, une lu-",
+            "points": [
+                [
+                    186.616116,
+                    1182.55174
+                ],
+                [
+                    1080.246185,
+                    1214.8391640000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "mière, une flamme, quelque chose, le reflet sans doute de l'éblouissant",
+            "points": [
+                [
+                    179.617048,
+                    1219.594702
+                ],
+                [
+                    1080.246185,
+                    1253.2017870000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "laboratoire central où les patients et les sages ont surpris Dieu.",
+            "points": [
+                [
+                    185.146321,
+                    1255.022417
+                ],
+                [
+                    969.9583359999999,
+                    1285.015874
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "― Et enfin, interrompit le Tourangeau, quelle chose tenez-vous vraie",
+            "points": [
+                [
+                    226.463058,
+                    1289.773495
+                ],
+                [
+                    1077.795065,
+                    1324.110813
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "et certaine ?",
+            "points": [
+                [
+                    185.972612,
+                    1326.179327
+                ],
+                [
+                    341.323657,
+                    1356.172784
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "— L'alchimie.",
+            "points": [
+                [
+                    228.942058,
+                    1360.10298
+                ],
+                [
+                    408.46340699999996,
+                    1392.371784
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Coictier se récria. — Pardieu, dom Claude, l'alchimie a sa raison sans ",
+            "points": [
+                [
+                    223.157704,
+                    1395.68142
+                ],
+                [
+                    1076.762146,
+                    1428.570785
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "doute, mais pourquoi blasphémer la médecine et l'astrologie?",
+            "points": [
+                [
+                    172.751258,
+                    1433.74207
+                ],
+                [
+                    948.680162,
+                    1463.735527
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "— Néant, votre science de l'homme ! néant, votre science du ciel ! dit",
+            "points": [
+                [
+                    229.768381,
+                    1468.493148
+                ],
+                [
+                    1076.762146,
+                    1499.9345270000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "l'archidiacre avec empire.",
+            "points": [
+                [
+                    181.840935,
+                    1504.898949
+                ],
+                [
+                    509.689491,
+                    1541.304813
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "184",
+            "points": [
+                [
+                    603.271948,
+                    1667.070488
+                ],
+                [
+                    660.082505,
+                    1707.4065170000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_BOOKCONTENT_034953.jpg",
+    "imageData": null,
+    "imageHeight": 1786,
+    "imageWidth": 1259
+}

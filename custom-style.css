@@ -1,0 +1,31 @@
+body {
+  font-family: "Segoe UI", "Helvetica", sans-serif;
+  line-height: 1.6;
+  padding: 2rem;
+  color: #333;
+  background: white;
+}
+
+h1, h2, h3 {
+  color: #1a237e;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 0.3em;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5em;
+}
+
+table th, table td {
+  border: 1px solid #999;
+  padding: 8px;
+  text-align: center;
+}
+
+code {
+  background-color: #f4f4f4;
+  padding: 2px 4px;
+  border-radius: 4px;
+}

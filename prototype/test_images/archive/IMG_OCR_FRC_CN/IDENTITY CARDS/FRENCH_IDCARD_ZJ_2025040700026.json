@@ -1,0 +1,234 @@
+{
+    "version": "4.5.6",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "RÉPUBLIQUE FRANÇAISE",
+            "points": [
+                [
+                    151.671972,
+                    420.116083
+                ],
+                [
+                    790.353867,
+                    452.469575
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "CARTE NATIONALE D'IDENTITÉ N°: 161159505915 Nationalité Française",
+            "points": [
+                [
+                    150.473694,
+                    459.65924
+                ],
+                [
+                    786.759034,
+                    488.41789900000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Nom: MATALLAH",
+            "points": [
+                [
+                    346.9912,
+                    494.409287
+                ],
+                [
+                    488.38794199999995,
+                    517.176559
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Epouse: BOULINGUIEZ",
+            "points": [
+                [
+                    349.862336,
+                    523.374308
+                ],
+                [
+                    561.957449,
+                    545.7334030000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Prénom(s): SMAHANNE, YASMINA",
+            "points": [
+                [
+                    346.466749,
+                    550.154085
+                ],
+                [
+                    617.430697,
+                    572.9213570000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sexe: F Né(e) le : 10.03.1963 ",
+            "points": [
+                [
+                    346.9912,
+                    597.46115
+                ],
+                [
+                    708.870998,
+                    621.4267
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "ȧ: LILLE",
+            "points": [
+                [
+                    345.792923,
+                    624.122823
+                ],
+                [
+                    429.07320799999997,
+                    642.696124
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Taille: 1,65m",
+            "points": [
+                [
+                    348.189478,
+                    649.885789
+                ],
+                [
+                    462.025838,
+                    668.4590900000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Signature",
+            "points": [
+                [
+                    345.792923,
+                    673.851339
+                ],
+                [
+                    418.88784899999996,
+                    691.825501
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "du titulaire :",
+            "points": [
+                [
+                    346.392061,
+                    694.821195
+                ],
+                [
+                    437.656451,
+                    712.795357
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "MS",
+            "points": [
+                [
+                    298.577352,
+                    493.588174
+                ],
+                [
+                    317.914584,
+                    514.606905
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Boutin quieo",
+            "points": [
+                [
+                    467.81143,
+                    690.551356
+                ],
+                [
+                    661.733301,
+                    754.9814240000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "I D F R A M A T A L L A H<<<<<<<<<<<<<<<<<5 9 5 2 3 2",
+            "points": [
+                [
+                    151.231884,
+                    774.97511
+                ],
+                [
+                    780.944642,
+                    804.477
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "1 6 1 1 5 9 5 0 5 9 1 5 8 S M A H A N N E<<Y A S M 6 3 0 3 1 0 5 F 9",
+            "points": [
+                [
+                    149.197271,
+                    820.753905
+                ],
+                [
+                    777.892723,
+                    848.221182
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "FRENCH_IDCARD_ZJ_2025040700026.jpg",
+    "imageData": null,
+    "imageHeight": 1280,
+    "imageWidth": 960
+}
